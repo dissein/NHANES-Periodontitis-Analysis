@@ -1,6 +1,3 @@
-# Scripts
-generate_pdf_report.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
