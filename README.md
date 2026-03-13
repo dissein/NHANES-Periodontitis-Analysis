@@ -1,5 +1,7 @@
 # XGBoost Periodontitis Analysis Pipeline
 
+[English](README.md) | [中文](README_CN.md)
+
 This repository contains a statistically robust machine learning pipeline for analyzing NHANES data related to periodontitis. It uses XGBoost with Optuna for hyperparameter optimization, SHAP for model interpretation, and spline-based cutoff analysis for clinical threshold extraction.
 
 ## Features
