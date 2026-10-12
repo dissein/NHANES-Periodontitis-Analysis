@@ -1,0 +1,77 @@
+{
+  "key": "Q_without_RIAGENDR_EBM",
+  "variant": {
+    "variant": "Q_without_RIAGENDR",
+    "panel": "Questionnaire",
+    "removed": [
+      "RIAGENDR"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "OHQ030",
+      "SmokingStatus"
+    ]
+  },
+  "algorithm": "EBM",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 3
+      },
+      "inner_auc": 0.769034347162589,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 3
+      },
+      "inner_auc": 0.7785274399896407,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7583212310771232,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7712883352687995,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7695086453881353,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "interactions": 0,
+    "max_leaves": 3
+  },
+  "final_inner_auc": 0.7708915298089343,
+  "G_not_loaded_in_training": true
+}

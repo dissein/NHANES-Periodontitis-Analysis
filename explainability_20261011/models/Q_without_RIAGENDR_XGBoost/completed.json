@@ -1,0 +1,77 @@
+{
+  "key": "Q_without_RIAGENDR_XGBoost",
+  "variant": {
+    "variant": "Q_without_RIAGENDR",
+    "panel": "Questionnaire",
+    "removed": [
+      "RIAGENDR"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "OHQ030",
+      "SmokingStatus"
+    ]
+  },
+  "algorithm": "XGBoost",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7768540465146182,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7751736034442285,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.762152052426471,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "max_depth": 3,
+        "min_child_weight": 15
+      },
+      "inner_auc": 0.7727959387523775,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7656472543571781,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "max_depth": 3,
+    "min_child_weight": 15
+  },
+  "final_inner_auc": 0.76924932806704,
+  "G_not_loaded_in_training": true
+}

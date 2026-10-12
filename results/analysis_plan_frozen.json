@@ -1,0 +1,43 @@
+{
+  "status": "frozen before extracting validation cycle outcomes",
+  "development": "2013-2014 H (previously analysed, this is exploratory redesign)",
+  "validation": "2011-2012 G earlier-cycle independent sample, backward transportability, not future or geography validation",
+  "main_outcome": "CDC/AAP 2012 moderate/severe current periodontitis",
+  "secondary_outcomes": [
+    "any",
+    "severe"
+  ],
+  "panels": [
+    "Questionnaire 7",
+    "NonLab 9",
+    "NonLabBP11",
+    "NonLab+CBC 19",
+    "Expanded 47"
+  ],
+  "models": [
+    "spline-age ridge logistic",
+    "additive EBM",
+    "XGBoost"
+  ],
+  "primary_comparison": "Expanded47 vs NonLabBP11 within same algorithm, isolates added laboratory information",
+  "secondary_comparison": "algorithm within same panel; CBC incremental value; questionnaire vs anthropometry",
+  "primary_metrics": [
+    "survey-weighted AUC",
+    "Brier",
+    "calibration intercept/slope",
+    "PPV and examinations per detected case at training-selected sensitivity targets 80% and 90%"
+  ],
+  "uncertainty": "paired Rao-Wu design resampling within cycle conditional on frozen predictions; no claim of full refit inference",
+  "no_external_tuning": true,
+  "primary_raw_probabilities": true,
+  "calibration_secondary": "training-only logistic calibration fit on inner OOF",
+  "feature_selection": "predefined availability panels; no outcome-driven feature selection",
+  "limitations": [
+    "not preregistered",
+    "validation cycle precedes development",
+    "H outcomes previously exposed",
+    "no clinical deployment claim",
+    "no guaranteed novelty or publication"
+  ],
+  "amendment_before_inspecting_external_model_performance": "Added NonLabBP 11 variables to isolate laboratory increment from blood pressure. CBC vs NonLab remains 19 vs 9. Original four panels retained."
+}

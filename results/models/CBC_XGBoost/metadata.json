@@ -1,0 +1,41 @@
+{
+  "key": "CBC_XGBoost",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus",
+    "BMXBMI",
+    "BMXWAIST",
+    "LBXEOPCT",
+    "LBXHGB",
+    "LBXLYPCT",
+    "LBXMCVSI",
+    "LBXMOPCT",
+    "LBXMPSI",
+    "LBXNEPCT",
+    "LBXPLTSI",
+    "LBXRDW",
+    "LBXWBCSI"
+  ],
+  "n_features": 19,
+  "final_parameters": {
+    "max_depth": 2,
+    "min_child_weight": 10
+  },
+  "thresholds": {
+    "cut80": 0.2773687243461609,
+    "cut90": 0.19631849229335785,
+    "cut_youden": 0.34060150384902954
+  },
+  "final_inner_auc": 0.7769622737198977,
+  "calibration_coefficients": [
+    0.05603482058585409,
+    1.0523866158001511
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

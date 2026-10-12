@@ -1,0 +1,22 @@
+{
+  "complete": true,
+  "boundary_tests": 12,
+  "main_saved_prediction_assessments_replayed": 90,
+  "age_baseline_saved_assessments_replayed": 6,
+  "max_prediction_difference": 2.9796600298226398e-08,
+  "official_modules": 30,
+  "participants_H": 3617,
+  "participants_G": 3323,
+  "refit_replicates": 200,
+  "conditional_bootstrap_replicates": 1000,
+  "checks": [
+    "complete_results",
+    "source_sha256",
+    "paired_deltas_reconcile",
+    "90_saved_assessments_replay",
+    "200_unique_refit_replicates",
+    "no_calibrated_raw_CI_mislabel"
+  ],
+  "files": 292,
+  "bytes": 130765291
+}

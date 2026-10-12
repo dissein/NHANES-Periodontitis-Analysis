@@ -1,0 +1,18 @@
+{
+  "data\\data_dictionary.csv": "3cb469d67bb26b199ffa7f23bdd6187c31c8fcd0194301e642fbac2ee2f4d0ec",
+  "data\\data_dictionary_legacy_features.csv": "82466026394db47268281bcce99b5977ed5b76dd31075c06f8c9152dda05eb2f",
+  "results\\performance.csv": "35a742e701524f1234ec0b73abc3bb8ce7bce99cfdd948760835301b92ce5b76",
+  "results\\paired_comparisons.csv": "91c1a2695d485f8d7a47a2f0801989ecab6937e15e8700b8332c35bedc00fb82",
+  "explainability_20261011\\importance.csv": "0f3edf84ef39ffcf7b97261c3e450d16b47982dde321f4bd3c211f70938c3a0b",
+  "explainability_20261011\\deletion_comparisons.csv": "8a4735e39ba1065f06247cd96e713719bb19a62e78337f8b32e646b1d121b1fc",
+  "results\\calibration_bins.csv": "eefff489f3c6b4033b7b95989c3c6ccb989ae22ae91273bc4e136910370db6c5",
+  "results\\subgroups.csv": "fddae8d3e79ac15943a0dc330cbd5de48476848239352b37cd9f5ff2bf43557f",
+  "explainability_20261011\\ebm_shapes.csv": "ee4c40a1d06d50110cde36abbaee3e6a1b6479673ef3e101bfc4c0ea5f5383da",
+  "docs\\完整研究稿_方法结果讨论.md": "b326ba6ef74c69d854457720176108af3eff75ea49f35e5871d999f0d17eed8e",
+  "data\\analysis_G.csv": "4e9d221b0b1c4f3bfc78d06f95d4a8bc4781902be79545f712db43b54b21190d",
+  "explainability_20261011\\explanations\\Questionnaire_XGBoost_G_contributions.csv": "e6b1e9f07f39fc3624bb4081fa9aec934c420ae3aaedb6e5f3c02b827ba12657",
+  "data\\analysis_H.csv": "241a706df0dcf6d8e633dff9b6980fd38b04dd7ecef1b202eb40090e6c11f71d",
+  "explainability_20261011\\explanations\\Questionnaire_XGBoost_H_OOF_contributions.csv": "c0b26537acf4f431508b329d89fd7bc2292cd30cba13adec2ff085593f41c418",
+  "explainability_20261011\\explanations\\Expanded_XGBoost_G_contributions.csv": "61f571b38562148fa186991bf5407cbac4566c172fe59910bba52aef102e235a",
+  "explainability_20261011\\explanations\\Expanded_XGBoost_H_OOF_contributions.csv": "afda8f2e7810d103f59b31d0f580b8b0db179cf7c77be8e46c9b5eec8e483383"
+}

@@ -1,0 +1,10 @@
+key,initial_training_loss,final_training_loss,config,parameters
+Questionnaire_FTStandard,0.6557294566689983,0.5065064763937136,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",18249
+Questionnaire_FTPiecewise,0.648806295969686,0.48891481695367645,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",18697
+Questionnaire_FTPiecewiseMissing,0.6488414961295725,0.48745529040929064,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",18761
+NonLabBP_FTStandard,0.6397790927681963,0.4967256400312941,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",18505
+NonLabBP_FTPiecewise,0.6381732182819803,0.48390021677138495,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",19849
+NonLabBP_FTPiecewiseMissing,0.6381264219288671,0.4645910556223434,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",20041
+Expanded_FTStandard,0.6703358989972121,0.46331238003438896,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",20809
+Expanded_FTPiecewise,0.6686416577824842,0.424375170826879,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",30217
+Expanded_FTPiecewiseMissing,0.6686974680815937,0.4379928420847017,"{""width"": 32, ""lr"": 0.001, ""epochs"": 40}",31561

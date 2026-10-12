@@ -1,0 +1,117 @@
+{
+  "key": "Expanded_without_glycemic_lipids_EBM",
+  "variant": {
+    "variant": "Expanded_without_glycemic_lipids",
+    "panel": "Expanded",
+    "removed": [
+      "LBXGH",
+      "LBXTC",
+      "LBXSTR"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIAGENDR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "BMXBMI",
+      "LBXEOPCT",
+      "LBXHGB",
+      "LBXLYPCT",
+      "LBXMCVSI",
+      "LBXMOPCT",
+      "LBXMPSI",
+      "LBXNEPCT",
+      "LBXPLTSI",
+      "LBXRDW",
+      "LBXSAL",
+      "LBXSAPSI",
+      "LBXSASSI",
+      "LBXSATSI",
+      "LBXSBU",
+      "LBXSC3SI",
+      "LBXSCA",
+      "LBXSCK",
+      "LBXSCLSI",
+      "LBXSCR",
+      "LBXSGB",
+      "LBXSGTSI",
+      "LBXSIR",
+      "LBXSKSI",
+      "LBXSLDSI",
+      "LBXSNASI",
+      "LBXSPH",
+      "LBXSTB",
+      "LBXSUA",
+      "LBXWBCSI",
+      "UACR",
+      "BMXWAIST",
+      "BPXSY1",
+      "BPXDI1",
+      "LBXCOT",
+      "LBDFOTSI",
+      "LBXVIDMS",
+      "OHQ030",
+      "SmokingStatus"
+    ]
+  },
+  "algorithm": "EBM",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 3
+      },
+      "inner_auc": 0.7876343771298749,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7917473920100303,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 3
+      },
+      "inner_auc": 0.784686687536064,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7932415891393138,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7806582944974676,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "interactions": 0,
+    "max_leaves": 2
+  },
+  "final_inner_auc": 0.7881592581575424,
+  "G_not_loaded_in_training": true
+}

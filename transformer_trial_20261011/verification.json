@@ -1,0 +1,10 @@
+{
+  "completed": true,
+  "saved_model_replay_checks": 54,
+  "maximum_prediction_difference": 2.980194091506405e-08,
+  "no_outer_PSU_overlap": true,
+  "no_G_subject_in_final_training": true,
+  "same_outer_folds_as_original": true,
+  "main_study_data_results_preserved": true,
+  "conditional_intervals_not_full_refit_intervals": true
+}

@@ -1,0 +1,30 @@
+{
+  "key": "NonLab_Logistic",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus",
+    "BMXBMI",
+    "BMXWAIST"
+  ],
+  "n_features": 9,
+  "final_parameters": {
+    "C": 1.0
+  },
+  "thresholds": {
+    "cut80": 0.25866681626229426,
+    "cut90": 0.1903327545816432,
+    "cut_youden": 0.2567520813497334
+  },
+  "final_inner_auc": 0.7810188150822842,
+  "calibration_coefficients": [
+    -0.004660086952941619,
+    0.9309816499405719
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

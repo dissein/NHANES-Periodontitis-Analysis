@@ -1,0 +1,111 @@
+{
+  "key": "Expanded_without_cotinine_Logistic",
+  "variant": {
+    "variant": "Expanded_without_cotinine",
+    "panel": "Expanded",
+    "removed": [
+      "LBXCOT"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIAGENDR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "BMXBMI",
+      "LBXEOPCT",
+      "LBXGH",
+      "LBXHGB",
+      "LBXLYPCT",
+      "LBXMCVSI",
+      "LBXMOPCT",
+      "LBXMPSI",
+      "LBXNEPCT",
+      "LBXPLTSI",
+      "LBXRDW",
+      "LBXSAL",
+      "LBXSAPSI",
+      "LBXSASSI",
+      "LBXSATSI",
+      "LBXSBU",
+      "LBXSC3SI",
+      "LBXSCA",
+      "LBXSCK",
+      "LBXSCLSI",
+      "LBXSCR",
+      "LBXSGB",
+      "LBXSGTSI",
+      "LBXSIR",
+      "LBXSKSI",
+      "LBXSLDSI",
+      "LBXSNASI",
+      "LBXSPH",
+      "LBXSTB",
+      "LBXSTR",
+      "LBXSUA",
+      "LBXTC",
+      "LBXWBCSI",
+      "UACR",
+      "BMXWAIST",
+      "BPXSY1",
+      "BPXDI1",
+      "LBDFOTSI",
+      "LBXVIDMS",
+      "OHQ030",
+      "SmokingStatus"
+    ]
+  },
+  "algorithm": "Logistic",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "C": 0.1
+      },
+      "inner_auc": 0.7821449911050324,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "C": 0.1
+      },
+      "inner_auc": 0.7773394621047217,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "C": 0.1
+      },
+      "inner_auc": 0.7732455361725608,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "C": 0.1
+      },
+      "inner_auc": 0.7840193524760823,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "C": 0.1
+      },
+      "inner_auc": 0.7626043187516851,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "C": 0.1
+  },
+  "final_inner_auc": 0.775297546144324,
+  "G_not_loaded_in_training": true
+}

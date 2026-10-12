@@ -1,0 +1,117 @@
+{
+  "key": "Expanded_without_both_smoking_XGBoost",
+  "variant": {
+    "variant": "Expanded_without_both_smoking",
+    "panel": "Expanded",
+    "removed": [
+      "SmokingStatus",
+      "LBXCOT"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIAGENDR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "BMXBMI",
+      "LBXEOPCT",
+      "LBXGH",
+      "LBXHGB",
+      "LBXLYPCT",
+      "LBXMCVSI",
+      "LBXMOPCT",
+      "LBXMPSI",
+      "LBXNEPCT",
+      "LBXPLTSI",
+      "LBXRDW",
+      "LBXSAL",
+      "LBXSAPSI",
+      "LBXSASSI",
+      "LBXSATSI",
+      "LBXSBU",
+      "LBXSC3SI",
+      "LBXSCA",
+      "LBXSCK",
+      "LBXSCLSI",
+      "LBXSCR",
+      "LBXSGB",
+      "LBXSGTSI",
+      "LBXSIR",
+      "LBXSKSI",
+      "LBXSLDSI",
+      "LBXSNASI",
+      "LBXSPH",
+      "LBXSTB",
+      "LBXSTR",
+      "LBXSUA",
+      "LBXTC",
+      "LBXWBCSI",
+      "UACR",
+      "BMXWAIST",
+      "BPXSY1",
+      "BPXDI1",
+      "LBDFOTSI",
+      "LBXVIDMS",
+      "OHQ030"
+    ]
+  },
+  "algorithm": "XGBoost",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "max_depth": 3,
+        "min_child_weight": 15
+      },
+      "inner_auc": 0.7787898868685031,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "max_depth": 3,
+        "min_child_weight": 15
+      },
+      "inner_auc": 0.7671811263200059,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7630831025937047,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7717262128515195,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7561752822515831,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "max_depth": 2,
+    "min_child_weight": 10
+  },
+  "final_inner_auc": 0.7688761608309465,
+  "G_not_loaded_in_training": true
+}

@@ -1,0 +1,41 @@
+{
+  "key": "CBC_EBM",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus",
+    "BMXBMI",
+    "BMXWAIST",
+    "LBXEOPCT",
+    "LBXHGB",
+    "LBXLYPCT",
+    "LBXMCVSI",
+    "LBXMOPCT",
+    "LBXMPSI",
+    "LBXNEPCT",
+    "LBXPLTSI",
+    "LBXRDW",
+    "LBXWBCSI"
+  ],
+  "n_features": 19,
+  "final_parameters": {
+    "interactions": 0,
+    "max_leaves": 2
+  },
+  "thresholds": {
+    "cut80": 0.2626827543641443,
+    "cut90": 0.19184791891557654,
+    "cut_youden": 0.30213737432440746
+  },
+  "final_inner_auc": 0.7815474949123088,
+  "calibration_coefficients": [
+    0.05167843562279808,
+    1.0230588041044713
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

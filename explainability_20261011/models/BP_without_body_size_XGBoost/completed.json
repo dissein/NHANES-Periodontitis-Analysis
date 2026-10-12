@@ -1,0 +1,81 @@
+{
+  "key": "BP_without_body_size_XGBoost",
+  "variant": {
+    "variant": "BP_without_body_size",
+    "panel": "NonLabBP",
+    "removed": [
+      "BMXBMI",
+      "BMXWAIST"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIAGENDR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "OHQ030",
+      "SmokingStatus",
+      "BPXSY1",
+      "BPXDI1"
+    ]
+  },
+  "algorithm": "XGBoost",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.777732086589749,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7815248721551047,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "max_depth": 2,
+        "min_child_weight": 10
+      },
+      "inner_auc": 0.7710256348485474,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "max_depth": 3,
+        "min_child_weight": 15
+      },
+      "inner_auc": 0.7784971013753975,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "max_depth": 3,
+        "min_child_weight": 15
+      },
+      "inner_auc": 0.7725023603476598,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "max_depth": 2,
+    "min_child_weight": 10
+  },
+  "final_inner_auc": 0.777232480994578,
+  "G_not_loaded_in_training": true
+}

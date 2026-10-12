@@ -1,38 +1,62 @@
-# 基于 XGBoost 和 NHANES 数据的牙周炎风险预测分析框架
+# NHANES 牙周炎分析
 
-[English](README.md) | [中文](README_CN.md)
+[English](README.md) · [交互 demo](web/demo_v1/index.html)
 
-本项目基于美国国家健康和营养检查调查（NHANES）的大样本数据，构建了一套基于 XGBoost 算法的牙周炎患病风险预测流程。该分析框架在统计学上保证了研究的严谨性，不仅整合了复杂的抽样权重处理，还实现了自动化的超参数寻优以及基于 SHAP 归因理论的模型可解释性分析。
+研究化验信息和算法复杂度对中重度牙周炎识别的增量价值。使用 NHANES 2013–2014 开发模型、2011–2012 跨周期验证，共纳入 6,940 名成人。
 
-## 主要功能
-- **全流程预处理**：支持缺失值自动补全、类别特征编码，并深度适配复杂的抽样权重（Survey Weights）。
-- **高效参数寻优**：集成 Optuna 框架进行贝叶斯优化，确保在海量搜索空间中高效定位模型的最优参数组合。
-- **统计学严谨性**：在模型调优与训练的全过程中全程引入调查权重，确保分析结果对总体人群具有代表性。
-- **深度模型解释**：利用 SHAP 理论量化各特征对预测结果的影响力，提供清晰的全局重要性排行与局部特征依赖分析。
-- **临床阈值识别**：利用单变量样条插值（Univariate Spline）技术精确定位 SHAP 贡献零点，辅助发现具有临床参考价值的特征阈值（Cutoffs）。
+## 结论
 
-## 项目结构
-- `code/`: 核心源代码（包含数据加载、模型训练、参数寻优及 SHAP 分析等模块）。
-- `LICENSE`: MIT 开源许可协议。
-- `.gitignore`: 预设的 Git 忽略规则，确保本地大型数据集和缓存文件不被追踪。
+- 七项问卷 Logistic 模型的跨周期加权 AUC 为 0.801。增加化验指标或使用更复杂的算法，未见稳定提升。
+- 年龄与吸烟提供了较稳定的信息，自报吸烟与可替宁存在部分信息重叠。
+- 65 岁及以上人群的 AUC 约为 0.646；跨周期应用还需校准预测概率。
 
-## 快速开始
-1. **准备数据**: 将 `data.csv` 放置在项目根目录下。
-2. **环境配置**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **启动分析**:
-   ```bash
-   python code/main.py
-   ```
+## 方法
 
-## 环境要求
-- Python 3.8+
-- 核心库：XGBoost, Optuna, SHAP, Pandas, NumPy, Matplotlib, Scipy
+按 CDC/AAP 2012 监测定义确定结局，比较 7、9、11、19、47 项信息面板与 Logistic、EBM、XGBoost。使用调查权重和 PSU 分组嵌套验证，通过配对比较区分同算法下的信息增量与同面板内的算法增量。
 
-## 作者
-- **dissein** <dissein@outlook.com>
+化验的主要比较为 47 项相对 11 项，单独拆出血压。结合 SHAP、EBM 曲线和删除变量后重训，分析模型使用的信息及其重叠。
 
-## 许可证
-本项目采用 [MIT License](LICENSE) 开源协议。
+## 文件
+
+| 目录 | 内容 |
+|---|---|
+| `src/` | 数据构建、训练、验证与检查 |
+| `data/` | 变量字典与公开 NHANES 数据整理得到的分析表 |
+| `results/` | 模型比较、区间估计、已保存模型与预测 |
+| `explainability_20261011/` | SHAP、EBM 曲线与删除变量分析 |
+| `figures/` | 研究图 |
+| `docs/` | 正文、补充材料与英文摘要 |
+| `web/demo_v1/` | 离线交互 demo 与源文件 |
+
+原有单独 XGBoost 流程保留在 Git 历史中。
+
+## 运行
+
+使用 Python 3.12，依赖版本见 `requirements.txt`。
+
+```bash
+python -m pip install -r requirements.txt
+python src/run_all.py
+```
+
+首次运行会下载官方 XPT 文件至 `data/raw/`。已有模型结果会作为缓存使用；完整重训可在新目录中放入 `src/` 和 `data/` 中的变量字典后运行。
+
+可解释性分析：
+
+```bash
+python explainability_20261011/src/explainability_extension.py
+```
+
+双击 `web/demo_v1/index.html` 即可离线查看模型表现、信息贡献和适用边界。重新生成页面：
+
+```bash
+python web/demo_v1/src/build_nhanes_demo_v1.py
+```
+
+Windows 下可嵌入已安装的思源黑体；其他环境使用系统字体。
+
+## 数据来源
+
+NHANES 官方公开数据：[2011–2012](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2011)、[2013–2014](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2013)。模块地址与文件校验值见 `results/raw_sources.json`。
+
+分析对象为当前中重度牙周炎，不是未来发病风险。代码采用 [MIT 许可](LICENSE)。

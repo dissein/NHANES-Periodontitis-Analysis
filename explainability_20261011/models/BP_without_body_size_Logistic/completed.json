@@ -1,0 +1,75 @@
+{
+  "key": "BP_without_body_size_Logistic",
+  "variant": {
+    "variant": "BP_without_body_size",
+    "panel": "NonLabBP",
+    "removed": [
+      "BMXBMI",
+      "BMXWAIST"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIAGENDR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "OHQ030",
+      "SmokingStatus",
+      "BPXSY1",
+      "BPXDI1"
+    ]
+  },
+  "algorithm": "Logistic",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "C": 0.1
+      },
+      "inner_auc": 0.7775332021446605,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.7869341459972352,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.772556276540239,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.7789307519918091,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.7761564833612621,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "C": 1.0
+  },
+  "final_inner_auc": 0.7798106865621365,
+  "G_not_loaded_in_training": true
+}

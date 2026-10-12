@@ -1,0 +1,31 @@
+{
+  "key": "NonLab_EBM",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus",
+    "BMXBMI",
+    "BMXWAIST"
+  ],
+  "n_features": 9,
+  "final_parameters": {
+    "interactions": 0,
+    "max_leaves": 3
+  },
+  "thresholds": {
+    "cut80": 0.2773914752986472,
+    "cut90": 0.19747396754011312,
+    "cut_youden": 0.32239250777463524
+  },
+  "final_inner_auc": 0.7812840101221155,
+  "calibration_coefficients": [
+    0.053945947343260386,
+    1.0449753221637652
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

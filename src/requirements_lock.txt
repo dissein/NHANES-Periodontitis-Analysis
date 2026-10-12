@@ -1,0 +1,8 @@
+numpy==2.3.5
+pandas==3.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+interpret-core==0.7.8
+joblib==1.6.0
+matplotlib==3.11.2

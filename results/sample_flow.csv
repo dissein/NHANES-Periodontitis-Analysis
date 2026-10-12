@@ -1,0 +1,13 @@
+cycle,stage,n
+H,MEC age >=30,4669
+H,periodontal source records,4669
+H,complete exam status,3982
+H,complete but no label,365
+H,included,3617
+H,partial exam with some label,4
+G,MEC age >=30,4365
+G,periodontal source records,4365
+G,complete exam status,3685
+G,complete but no label,362
+G,included,3323
+G,partial exam with some label,13

@@ -1,0 +1,19 @@
+{
+  "completed": true,
+  "evaluation_seconds": 199.21564555168152,
+  "experiment_elapsed_seconds": 1016.7832927703857,
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "rtdl-revisiting-models": "0.0.2",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1"
+  },
+  "device": "cuda",
+  "conditional_bootstrap_only": true,
+  "saved_final_models": 9,
+  "saved_outer_models": 45,
+  "total_inner_training_fits": 324,
+  "all_final_decisions_H_only": true
+}

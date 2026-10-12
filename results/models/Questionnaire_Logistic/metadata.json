@@ -1,0 +1,28 @@
+{
+  "key": "Questionnaire_Logistic",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus"
+  ],
+  "n_features": 7,
+  "final_parameters": {
+    "C": 1.0
+  },
+  "thresholds": {
+    "cut80": 0.2715204967648026,
+    "cut90": 0.19618733467227056,
+    "cut_youden": 0.27133460021350825
+  },
+  "final_inner_auc": 0.7817699769869978,
+  "calibration_coefficients": [
+    -0.0016282369046149389,
+    0.9458256588844004
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

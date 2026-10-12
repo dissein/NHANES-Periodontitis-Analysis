@@ -1,33 +1,12 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Data files (Highly recommended to keep off GitHub)
-data.csv
-data/
-
-# Model checkpoints and weights
-*.json
-*.model
-*.joblib
-
-# Output results and plots
-*.png
-*.pdf
-*.csv
-!requirements.txt
-!README.md
-cutoff_plots/
-dependence_plots/
-
-# IDE settings
-.vscode/
-.idea/
-.project
-.pydevproject
-.settings/
-
-# OS junk
+.venv/
+.env
+.env.*
+data/raw/
 .DS_Store
 Thumbs.db
+.idea/
+.vscode/
+web/demo_v1/output/
+web/demo_v1/DESIGN.md

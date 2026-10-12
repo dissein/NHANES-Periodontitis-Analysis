@@ -1,0 +1,14 @@
+{
+  "all_original_data_models_results_unchanged": true,
+  "original_files_checked": 95,
+  "new_variants": 42,
+  "new_saved_model_fits": 252,
+  "expected_training_fits_including_inner_CV": 1764,
+  "prediction_checks": 222,
+  "prediction_max_error": 2.978820801136095e-08,
+  "external_not_used_for_training": true,
+  "bootstrap_replicates_per_cycle": 1000,
+  "conditional_intervals_not_full_training_uncertainty": true,
+  "explanation_model_checks": 26,
+  "figure_count": 6
+}

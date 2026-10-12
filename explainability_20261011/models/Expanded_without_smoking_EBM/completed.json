@@ -1,0 +1,117 @@
+{
+  "key": "Expanded_without_smoking_EBM",
+  "variant": {
+    "variant": "Expanded_without_smoking",
+    "panel": "Expanded",
+    "removed": [
+      "SmokingStatus"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIAGENDR",
+      "RIDRETH3",
+      "DMDEDUC2",
+      "INDFMPIR",
+      "BMXBMI",
+      "LBXEOPCT",
+      "LBXGH",
+      "LBXHGB",
+      "LBXLYPCT",
+      "LBXMCVSI",
+      "LBXMOPCT",
+      "LBXMPSI",
+      "LBXNEPCT",
+      "LBXPLTSI",
+      "LBXRDW",
+      "LBXSAL",
+      "LBXSAPSI",
+      "LBXSASSI",
+      "LBXSATSI",
+      "LBXSBU",
+      "LBXSC3SI",
+      "LBXSCA",
+      "LBXSCK",
+      "LBXSCLSI",
+      "LBXSCR",
+      "LBXSGB",
+      "LBXSGTSI",
+      "LBXSIR",
+      "LBXSKSI",
+      "LBXSLDSI",
+      "LBXSNASI",
+      "LBXSPH",
+      "LBXSTB",
+      "LBXSTR",
+      "LBXSUA",
+      "LBXTC",
+      "LBXWBCSI",
+      "UACR",
+      "BMXWAIST",
+      "BPXSY1",
+      "BPXDI1",
+      "LBXCOT",
+      "LBDFOTSI",
+      "LBXVIDMS",
+      "OHQ030"
+    ]
+  },
+  "algorithm": "EBM",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7848776018984033,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7886143756656732,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 3
+      },
+      "inner_auc": 0.7811004845315447,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.7894778217636936,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "interactions": 0,
+        "max_leaves": 2
+      },
+      "inner_auc": 0.777778330406604,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "interactions": 0,
+    "max_leaves": 2
+  },
+  "final_inner_auc": 0.7855305049351715,
+  "G_not_loaded_in_training": true
+}

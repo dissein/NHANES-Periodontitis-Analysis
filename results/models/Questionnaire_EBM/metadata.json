@@ -1,0 +1,29 @@
+{
+  "key": "Questionnaire_EBM",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus"
+  ],
+  "n_features": 7,
+  "final_parameters": {
+    "interactions": 0,
+    "max_leaves": 2
+  },
+  "thresholds": {
+    "cut80": 0.27466777460601993,
+    "cut90": 0.19676136522536766,
+    "cut_youden": 0.312090999866068
+  },
+  "final_inner_auc": 0.7794546791072595,
+  "calibration_coefficients": [
+    0.02093292262863733,
+    0.9776804067090965
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

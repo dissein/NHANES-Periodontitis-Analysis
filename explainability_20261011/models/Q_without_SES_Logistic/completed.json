@@ -1,0 +1,71 @@
+{
+  "key": "Q_without_SES_Logistic",
+  "variant": {
+    "variant": "Q_without_SES",
+    "panel": "Questionnaire",
+    "removed": [
+      "DMDEDUC2",
+      "INDFMPIR"
+    ],
+    "features": [
+      "RIDAGEYR",
+      "RIAGENDR",
+      "RIDRETH3",
+      "OHQ030",
+      "SmokingStatus"
+    ]
+  },
+  "algorithm": "Logistic",
+  "folds": [
+    {
+      "fold": 1,
+      "params": {
+        "C": 0.1
+      },
+      "inner_auc": 0.7698252940901108,
+      "n_train": 2896,
+      "n_test": 721
+    },
+    {
+      "fold": 2,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.7684897498708402,
+      "n_train": 2998,
+      "n_test": 619
+    },
+    {
+      "fold": 3,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.7591524193445226,
+      "n_train": 2808,
+      "n_test": 809
+    },
+    {
+      "fold": 4,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.7616539805669955,
+      "n_train": 2879,
+      "n_test": 738
+    },
+    {
+      "fold": 5,
+      "params": {
+        "C": 1.0
+      },
+      "inner_auc": 0.761001174893389,
+      "n_train": 2887,
+      "n_test": 730
+    }
+  ],
+  "final_params": {
+    "C": 1.0
+  },
+  "final_inner_auc": 0.7661839832254302,
+  "G_not_loaded_in_training": true
+}

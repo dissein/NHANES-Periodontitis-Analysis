@@ -1,0 +1,6 @@
+variable,source,rule,role
+SmokingStatus,"SMQ020, SMQ040","0=SMQ020==2; 1=SMQ020==1 & SMQ040==3; 2=SMQ020==1 & SMQ040 in [1,2]; unknown stays missing",predictor
+NaturalTeeth,OHXDEN OHX02TC...OHX31TC excluding third molars,status 1 or 2 count,"sensitivity stratifier, NEVER predictor"
+PairedSites,OHXPER,four interproximal sites per tooth with both CAL and PD finite <90,"quality sensitivity, NEVER predictor"
+PairedTeeth,OHXPER,number teeth with at least one paired interproximal site,"quality sensitivity, NEVER predictor"
+Cycle,NHANES release suffix G/H,metadata G=2011-2012; H=2013-2014,"cohort metadata, NEVER predictor"

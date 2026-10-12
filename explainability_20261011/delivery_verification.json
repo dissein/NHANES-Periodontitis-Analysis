@@ -1,0 +1,18 @@
+{
+  "manifest_files_checked": 419,
+  "saved_models": 252,
+  "completed_variants": 42,
+  "figures_png_pdf": 12,
+  "performance_rows": 108,
+  "paired_comparison_rows": 114,
+  "explanation_checks": 26,
+  "max_probability_reconstruction_error": 3.5762786865234375e-07,
+  "html_embedded_figures": 6,
+  "html_bytes": 1984201,
+  "figure_visual_QA": [
+    "02_ebm_questionnaire_shapes",
+    "03_questionnaire_deletion",
+    "04_expanded_deletion"
+  ],
+  "original_data_models_results_preserved": true
+}

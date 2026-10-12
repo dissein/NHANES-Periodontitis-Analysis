@@ -1,0 +1,40 @@
+{
+  "key": "CBC_Logistic",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus",
+    "BMXBMI",
+    "BMXWAIST",
+    "LBXEOPCT",
+    "LBXHGB",
+    "LBXLYPCT",
+    "LBXMCVSI",
+    "LBXMOPCT",
+    "LBXMPSI",
+    "LBXNEPCT",
+    "LBXPLTSI",
+    "LBXRDW",
+    "LBXWBCSI"
+  ],
+  "n_features": 19,
+  "final_parameters": {
+    "C": 0.1
+  },
+  "thresholds": {
+    "cut80": 0.2636185796697432,
+    "cut90": 0.1788568395892549,
+    "cut_youden": 0.3095354661565527
+  },
+  "final_inner_auc": 0.779850908581223,
+  "calibration_coefficients": [
+    0.008621660217365986,
+    0.945968800582035
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

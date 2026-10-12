@@ -1,0 +1,182 @@
+[
+  {
+    "module": "DEMO_H",
+    "codebook_saved": true,
+    "official_current_sha256": "f8f0cbb3085a323d4cde22349b164878fea1e64dbc404e65b5815c7816b547d7",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "BMX_H",
+    "codebook_saved": true,
+    "official_current_sha256": "fd5e9fc6e6aab0a4aee6e699f51497bbc9b62101f7f43aee924c473e38fd9442",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "BPX_H",
+    "codebook_saved": true,
+    "official_current_sha256": "b6641efc30ac9b9de328dfbf4110d0d120439aadca2c2bc89f2e77310d1a0c8e",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "CBC_H",
+    "codebook_saved": true,
+    "official_current_sha256": "08f6fca4aacebacafb2b311c2edfc6897ad92f2c8f8dab14e18bf41acdc4ddee",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "GHB_H",
+    "codebook_saved": true,
+    "official_current_sha256": "0695894ad55ac96f315a8415401977b0856c402d16762115b534bcd5dfeae89e",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "BIOPRO_H",
+    "codebook_saved": true,
+    "official_current_sha256": "b114fde7fc46933e6b4e3f620b8e7b61ea5b46f82121c0dc05a7b8c1fbdd0548",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "TCHOL_H",
+    "codebook_saved": true,
+    "official_current_sha256": "0867a9d340dc84eec8dc1f08672e7ffd0a364b57a92533973c460acb4f52d643",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "ALB_CR_H",
+    "codebook_saved": true,
+    "official_current_sha256": "65adbd6c87541464e69fa2da54fb2c5e9e0c198fa322943a21ccbcacd8c40670",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "COT_H",
+    "codebook_saved": true,
+    "official_current_sha256": "654c3f8c013b24a61a8cea3acabda84495c8ef3e3aa483016c2fd00f69005e8f",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "FOLFMS_H",
+    "codebook_saved": true,
+    "official_current_sha256": "6fac0b1f687eb751b52e2cdf16b9b0de32f5666b6941d99d877a4bc5d0f77450",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "VID_H",
+    "codebook_saved": true,
+    "official_current_sha256": "1fd6e73b0b8b27098a652cb72bfc30d38d2cbd36daafeebee18a6cb68d0c1b01",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "OHQ_H",
+    "codebook_saved": true,
+    "official_current_sha256": "1cdec4ac5c1e2012f00ad0a377947ab1e34a9daafe1408a9469b0967b4686bf5",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "OHXPER_H",
+    "codebook_saved": true,
+    "official_current_sha256": "f2b9df0ade5fcd27e072e61daf680078d34cb28c847c1e17b0b4052cff529981",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "OHXDEN_H",
+    "codebook_saved": true,
+    "official_current_sha256": "4f5294c4ef0a8d170c21cb637d440ad8f0275a12cd6439230ce9dee2859da797",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "SMQ_H",
+    "codebook_saved": true,
+    "official_current_sha256": "86d74bb8842ce6d60350944417cbd3e9ee39dd5a9fa1bda33426f276b673861f",
+    "matches_local_bytes": true,
+    "same_released_values": true
+  },
+  {
+    "module": "DEMO_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "BMX_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "BPX_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "CBC_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "GHB_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "BIOPRO_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "TCHOL_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "ALB_CR_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "COTNAL_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "FOLFMS_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "VID_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "OHQ_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "OHXPER_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "OHXDEN_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  },
+  {
+    "module": "SMQ_G",
+    "codebook_saved": true,
+    "same_released_values": true
+  }
+]

@@ -1,0 +1,16 @@
+comparison,metric,low,high,B,scope
+NonLabBP,auc,0.7732756267083841,0.8138657772776208,200,development retuning/preprocessing/refitting + independent validation design resampling
+NonLabBP,brier,0.1772243496973165,0.20312235673067544,200,development retuning/preprocessing/refitting + independent validation design resampling
+NonLabBP,sensitivity,0.7476307810120908,0.867348758340443,200,development retuning/preprocessing/refitting + independent validation design resampling
+NonLabBP,specificity,0.5605841076731182,0.6930835985138861,200,development retuning/preprocessing/refitting + independent validation design resampling
+NonLabBP,ppv,0.5668220104398254,0.6536779752761486,200,development retuning/preprocessing/refitting + independent validation design resampling
+Expanded,auc,0.7631572485717962,0.8140130391464062,200,development retuning/preprocessing/refitting + independent validation design resampling
+Expanded,brier,0.17781527034264635,0.20942787559604756,200,development retuning/preprocessing/refitting + independent validation design resampling
+Expanded,sensitivity,0.7242046818061948,0.8800865175981046,200,development retuning/preprocessing/refitting + independent validation design resampling
+Expanded,specificity,0.5310055876233427,0.7093662803292161,200,development retuning/preprocessing/refitting + independent validation design resampling
+Expanded,ppv,0.5597784856555753,0.6575539037486712,200,development retuning/preprocessing/refitting + independent validation design resampling
+Expanded_minus_NonLabBP,auc,-0.016778249839356787,0.008386095172719845,200,paired two-cycle full development-procedure bootstrap
+Expanded_minus_NonLabBP,brier,-0.005727472328826711,0.013245704299622064,200,paired two-cycle full development-procedure bootstrap
+Expanded_minus_NonLabBP,sensitivity,-0.06688582164233305,0.040808862593713406,200,paired two-cycle full development-procedure bootstrap
+Expanded_minus_NonLabBP,specificity,-0.06026754823872871,0.06586180165268145,200,paired two-cycle full development-procedure bootstrap
+Expanded_minus_NonLabBP,ppv,-0.02908382453519613,0.029263279700214445,200,paired two-cycle full development-procedure bootstrap

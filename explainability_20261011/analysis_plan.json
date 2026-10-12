@@ -1,0 +1,439 @@
+{
+  "created": "2026-10-11 16:05:01",
+  "exploratory": true,
+  "prior_G_results_already_seen": true,
+  "task": "current moderate/severe versus none/mild, same dentate observable domain",
+  "development": "H",
+  "validation": "G; no tuning or selection in G",
+  "algorithms": [
+    "Logistic",
+    "EBM",
+    "XGBoost"
+  ],
+  "variants": [
+    {
+      "variant": "Q_without_RIDAGEYR",
+      "panel": "Questionnaire",
+      "removed": [
+        "RIDAGEYR"
+      ],
+      "features": [
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Q_without_RIAGENDR",
+      "panel": "Questionnaire",
+      "removed": [
+        "RIAGENDR"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Q_without_RIDRETH3",
+      "panel": "Questionnaire",
+      "removed": [
+        "RIDRETH3"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Q_without_DMDEDUC2",
+      "panel": "Questionnaire",
+      "removed": [
+        "DMDEDUC2"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "INDFMPIR",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Q_without_INDFMPIR",
+      "panel": "Questionnaire",
+      "removed": [
+        "INDFMPIR"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Q_without_OHQ030",
+      "panel": "Questionnaire",
+      "removed": [
+        "OHQ030"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Q_without_SmokingStatus",
+      "panel": "Questionnaire",
+      "removed": [
+        "SmokingStatus"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "OHQ030"
+      ]
+    },
+    {
+      "variant": "Q_without_SES",
+      "panel": "Questionnaire",
+      "removed": [
+        "DMDEDUC2",
+        "INDFMPIR"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "BP_without_body_size",
+      "panel": "NonLabBP",
+      "removed": [
+        "BMXBMI",
+        "BMXWAIST"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "OHQ030",
+        "SmokingStatus",
+        "BPXSY1",
+        "BPXDI1"
+      ]
+    },
+    {
+      "variant": "Expanded_without_smoking",
+      "panel": "Expanded",
+      "removed": [
+        "SmokingStatus"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "BMXBMI",
+        "LBXEOPCT",
+        "LBXGH",
+        "LBXHGB",
+        "LBXLYPCT",
+        "LBXMCVSI",
+        "LBXMOPCT",
+        "LBXMPSI",
+        "LBXNEPCT",
+        "LBXPLTSI",
+        "LBXRDW",
+        "LBXSAL",
+        "LBXSAPSI",
+        "LBXSASSI",
+        "LBXSATSI",
+        "LBXSBU",
+        "LBXSC3SI",
+        "LBXSCA",
+        "LBXSCK",
+        "LBXSCLSI",
+        "LBXSCR",
+        "LBXSGB",
+        "LBXSGTSI",
+        "LBXSIR",
+        "LBXSKSI",
+        "LBXSLDSI",
+        "LBXSNASI",
+        "LBXSPH",
+        "LBXSTB",
+        "LBXSTR",
+        "LBXSUA",
+        "LBXTC",
+        "LBXWBCSI",
+        "UACR",
+        "BMXWAIST",
+        "BPXSY1",
+        "BPXDI1",
+        "LBXCOT",
+        "LBDFOTSI",
+        "LBXVIDMS",
+        "OHQ030"
+      ]
+    },
+    {
+      "variant": "Expanded_without_cotinine",
+      "panel": "Expanded",
+      "removed": [
+        "LBXCOT"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "BMXBMI",
+        "LBXEOPCT",
+        "LBXGH",
+        "LBXHGB",
+        "LBXLYPCT",
+        "LBXMCVSI",
+        "LBXMOPCT",
+        "LBXMPSI",
+        "LBXNEPCT",
+        "LBXPLTSI",
+        "LBXRDW",
+        "LBXSAL",
+        "LBXSAPSI",
+        "LBXSASSI",
+        "LBXSATSI",
+        "LBXSBU",
+        "LBXSC3SI",
+        "LBXSCA",
+        "LBXSCK",
+        "LBXSCLSI",
+        "LBXSCR",
+        "LBXSGB",
+        "LBXSGTSI",
+        "LBXSIR",
+        "LBXSKSI",
+        "LBXSLDSI",
+        "LBXSNASI",
+        "LBXSPH",
+        "LBXSTB",
+        "LBXSTR",
+        "LBXSUA",
+        "LBXTC",
+        "LBXWBCSI",
+        "UACR",
+        "BMXWAIST",
+        "BPXSY1",
+        "BPXDI1",
+        "LBDFOTSI",
+        "LBXVIDMS",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Expanded_without_both_smoking",
+      "panel": "Expanded",
+      "removed": [
+        "SmokingStatus",
+        "LBXCOT"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "BMXBMI",
+        "LBXEOPCT",
+        "LBXGH",
+        "LBXHGB",
+        "LBXLYPCT",
+        "LBXMCVSI",
+        "LBXMOPCT",
+        "LBXMPSI",
+        "LBXNEPCT",
+        "LBXPLTSI",
+        "LBXRDW",
+        "LBXSAL",
+        "LBXSAPSI",
+        "LBXSASSI",
+        "LBXSATSI",
+        "LBXSBU",
+        "LBXSC3SI",
+        "LBXSCA",
+        "LBXSCK",
+        "LBXSCLSI",
+        "LBXSCR",
+        "LBXSGB",
+        "LBXSGTSI",
+        "LBXSIR",
+        "LBXSKSI",
+        "LBXSLDSI",
+        "LBXSNASI",
+        "LBXSPH",
+        "LBXSTB",
+        "LBXSTR",
+        "LBXSUA",
+        "LBXTC",
+        "LBXWBCSI",
+        "UACR",
+        "BMXWAIST",
+        "BPXSY1",
+        "BPXDI1",
+        "LBDFOTSI",
+        "LBXVIDMS",
+        "OHQ030"
+      ]
+    },
+    {
+      "variant": "Expanded_without_CBC",
+      "panel": "Expanded",
+      "removed": [
+        "LBXEOPCT",
+        "LBXHGB",
+        "LBXLYPCT",
+        "LBXMCVSI",
+        "LBXMOPCT",
+        "LBXMPSI",
+        "LBXNEPCT",
+        "LBXPLTSI",
+        "LBXRDW",
+        "LBXWBCSI"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "BMXBMI",
+        "LBXGH",
+        "LBXSAL",
+        "LBXSAPSI",
+        "LBXSASSI",
+        "LBXSATSI",
+        "LBXSBU",
+        "LBXSC3SI",
+        "LBXSCA",
+        "LBXSCK",
+        "LBXSCLSI",
+        "LBXSCR",
+        "LBXSGB",
+        "LBXSGTSI",
+        "LBXSIR",
+        "LBXSKSI",
+        "LBXSLDSI",
+        "LBXSNASI",
+        "LBXSPH",
+        "LBXSTB",
+        "LBXSTR",
+        "LBXSUA",
+        "LBXTC",
+        "UACR",
+        "BMXWAIST",
+        "BPXSY1",
+        "BPXDI1",
+        "LBXCOT",
+        "LBDFOTSI",
+        "LBXVIDMS",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    },
+    {
+      "variant": "Expanded_without_glycemic_lipids",
+      "panel": "Expanded",
+      "removed": [
+        "LBXGH",
+        "LBXTC",
+        "LBXSTR"
+      ],
+      "features": [
+        "RIDAGEYR",
+        "RIAGENDR",
+        "RIDRETH3",
+        "DMDEDUC2",
+        "INDFMPIR",
+        "BMXBMI",
+        "LBXEOPCT",
+        "LBXHGB",
+        "LBXLYPCT",
+        "LBXMCVSI",
+        "LBXMOPCT",
+        "LBXMPSI",
+        "LBXNEPCT",
+        "LBXPLTSI",
+        "LBXRDW",
+        "LBXSAL",
+        "LBXSAPSI",
+        "LBXSASSI",
+        "LBXSATSI",
+        "LBXSBU",
+        "LBXSC3SI",
+        "LBXSCA",
+        "LBXSCK",
+        "LBXSCLSI",
+        "LBXSCR",
+        "LBXSGB",
+        "LBXSGTSI",
+        "LBXSIR",
+        "LBXSKSI",
+        "LBXSLDSI",
+        "LBXSNASI",
+        "LBXSPH",
+        "LBXSTB",
+        "LBXSUA",
+        "LBXWBCSI",
+        "UACR",
+        "BMXWAIST",
+        "BPXSY1",
+        "BPXDI1",
+        "LBXCOT",
+        "LBDFOTSI",
+        "LBXVIDMS",
+        "OHQ030",
+        "SmokingStatus"
+      ]
+    }
+  ],
+  "nested_outer_folds": "original stored 5 PSU-grouped folds",
+  "inner": "3 StratifiedGroupKFold; same 2 parent candidates, same seeds",
+  "refit": "all variants independently reselect parameters within H; no evaluation early stopping",
+  "bootstrap": "1000 paired full-MEC-design Rao-Wu replicates, conditional on fitted models, no multiplicity correction",
+  "explanation": "Q7 and Expanded47 XGBoost grouped encoded TreeSHAP; EBM additive eval_terms; H outer-heldout and G final model",
+  "shap_primary": "interventional, raw log-odds, H training-only weighted background 128 draws with replacement",
+  "shap_sensitivity": "tree_path_dependent final models in G",
+  "grouping": "sum encoded attributions including missing indicators to original variable; not a separately estimated coalition Shapley value",
+  "EBM_shapes": "native additive contribution relative to fixed training reference; uncertainty shown by five separately fitted outer models, NOT confidence bands",
+  "interpretation": "predictive contributions, not causal effects; delete/refit can reflect redundancy, not prove absence of biological association"
+}

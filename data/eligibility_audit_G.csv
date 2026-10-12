@@ -1,0 +1,4366 @@
+SEQN,OHDPDSTS,OHDEXCLU,label,natural_teeth,paired_sites,teeth_with_paired_sites,included
+62164.0,1.0,2.0,No Periodontitis,27,107,27,True
+62172.0,1.0,2.0,Moderate,18,71,18,True
+62174.0,1.0,2.0,Moderate,27,108,27,True
+62176.0,1.0,2.0,No Periodontitis,28,111,28,True
+62177.0,1.0,2.0,Severe,11,28,11,True
+62178.0,1.0,2.0,No Periodontitis,11,40,11,True
+62179.0,1.0,2.0,Moderate,28,105,28,True
+62180.0,1.0,2.0,No Periodontitis,28,89,26,True
+62189.0,1.0,2.0,No Periodontitis,28,104,28,True
+62191.0,1.0,2.0,,0,0,0,False
+62195.0,1.0,2.0,Mild,25,71,24,True
+62199.0,1.0,2.0,Moderate,24,89,24,True
+62200.0,1.0,2.0,No Periodontitis,27,102,27,True
+62202.0,1.0,2.0,Moderate,26,91,26,True
+62206.0,1.0,2.0,No Periodontitis,28,100,28,True
+62208.0,1.0,2.0,No Periodontitis,25,100,25,True
+62209.0,1.0,2.0,Severe,18,72,18,True
+62215.0,1.0,2.0,Moderate,23,89,23,True
+62217.0,1.0,2.0,Severe,3,12,3,True
+62218.0,1.0,2.0,No Periodontitis,14,56,14,True
+62220.0,1.0,2.0,Mild,28,65,26,True
+62221.0,1.0,2.0,No Periodontitis,28,97,28,True
+62222.0,1.0,2.0,No Periodontitis,28,110,28,True
+62223.0,1.0,2.0,Moderate,21,69,21,True
+62226.0,1.0,2.0,Moderate,7,22,7,True
+62228.0,1.0,2.0,Mild,28,78,27,True
+62229.0,1.0,2.0,No Periodontitis,28,77,24,True
+62230.0,1.0,2.0,,0,0,0,False
+62231.0,1.0,2.0,No Periodontitis,27,108,27,True
+62232.0,1.0,2.0,No Periodontitis,26,73,26,True
+62233.0,1.0,2.0,Severe,20,68,18,True
+62236.0,1.0,2.0,Moderate,22,88,22,True
+62237.0,1.0,2.0,Moderate,25,94,25,True
+62248.0,1.0,2.0,Severe,17,50,16,True
+62250.0,1.0,2.0,No Periodontitis,28,112,28,True
+62251.0,1.0,2.0,No Periodontitis,28,82,28,True
+62255.0,1.0,2.0,Severe,8,32,8,True
+62256.0,1.0,2.0,No Periodontitis,6,21,6,True
+62258.0,3.0,1.0,,28,0,0,False
+62259.0,1.0,2.0,Moderate,18,68,18,True
+62261.0,1.0,2.0,Moderate,25,84,24,True
+62264.0,1.0,2.0,Moderate,26,92,26,True
+62265.0,1.0,2.0,Severe,17,61,17,True
+62266.0,1.0,2.0,,0,0,0,False
+62270.0,1.0,2.0,Moderate,26,104,26,True
+62275.0,1.0,2.0,No Periodontitis,27,77,26,True
+62277.0,1.0,2.0,No Periodontitis,21,84,21,True
+62278.0,1.0,2.0,No Periodontitis,26,102,26,True
+62279.0,1.0,2.0,,0,0,0,False
+62280.0,1.0,2.0,Moderate,20,72,20,True
+62282.0,1.0,2.0,No Periodontitis,24,95,24,True
+62284.0,1.0,2.0,No Periodontitis,26,101,26,True
+62286.0,1.0,2.0,Moderate,22,72,21,True
+62287.0,1.0,2.0,Moderate,19,76,19,True
+62289.0,1.0,2.0,Moderate,21,80,21,True
+62291.0,1.0,2.0,No Periodontitis,26,71,24,True
+62292.0,3.0,1.0,,22,0,0,False
+62293.0,1.0,2.0,,0,0,0,False
+62295.0,3.0,2.0,,12,0,0,False
+62297.0,1.0,2.0,No Periodontitis,27,108,27,True
+62302.0,3.0,1.0,,23,0,0,False
+62303.0,1.0,2.0,Mild,3,12,3,True
+62307.0,1.0,2.0,Severe,24,79,24,True
+62308.0,2.0,2.0,,24,0,0,False
+62309.0,2.0,2.0,,21,0,0,False
+62312.0,1.0,2.0,No Periodontitis,22,81,22,True
+62314.0,1.0,2.0,,0,0,0,False
+62315.0,1.0,2.0,,0,0,0,False
+62316.0,1.0,2.0,No Periodontitis,24,91,24,True
+62317.0,1.0,2.0,No Periodontitis,28,82,27,True
+62320.0,1.0,2.0,No Periodontitis,28,106,28,True
+62324.0,1.0,2.0,Moderate,24,96,24,True
+62325.0,1.0,2.0,Moderate,21,82,21,True
+62326.0,1.0,2.0,No Periodontitis,22,83,22,True
+62330.0,1.0,2.0,No Periodontitis,28,112,28,True
+62333.0,1.0,2.0,No Periodontitis,28,97,28,True
+62336.0,1.0,2.0,No Periodontitis,26,91,26,True
+62340.0,1.0,2.0,No Periodontitis,24,89,24,True
+62342.0,1.0,2.0,No Periodontitis,27,76,27,True
+62345.0,1.0,2.0,No Periodontitis,28,103,28,True
+62347.0,1.0,2.0,Moderate,23,91,23,True
+62350.0,1.0,2.0,No Periodontitis,23,75,21,True
+62353.0,1.0,2.0,No Periodontitis,7,22,7,True
+62357.0,1.0,2.0,No Periodontitis,28,90,28,True
+62359.0,1.0,2.0,Severe,22,87,22,True
+62363.0,2.0,2.0,,10,0,0,False
+62365.0,3.0,2.0,,0,0,0,False
+62366.0,1.0,2.0,Moderate,8,22,8,True
+62367.0,1.0,2.0,No Periodontitis,26,92,26,True
+62368.0,3.0,2.0,,0,0,0,False
+62371.0,1.0,2.0,Moderate,28,65,21,True
+62372.0,1.0,2.0,Moderate,28,112,28,True
+62373.0,2.0,2.0,,27,0,0,False
+62374.0,1.0,2.0,No Periodontitis,27,86,26,True
+62377.0,3.0,1.0,,0,0,0,False
+62378.0,1.0,2.0,No Periodontitis,12,44,12,True
+62379.0,1.0,2.0,No Periodontitis,21,65,21,True
+62384.0,1.0,2.0,No Periodontitis,27,94,27,True
+62386.0,3.0,1.0,,28,0,0,False
+62388.0,3.0,2.0,,0,0,0,False
+62391.0,1.0,2.0,No Periodontitis,28,112,28,True
+62397.0,1.0,2.0,Moderate,26,104,26,True
+62399.0,1.0,2.0,Moderate,22,88,22,True
+62400.0,1.0,2.0,No Periodontitis,28,99,28,True
+62402.0,1.0,2.0,Severe,23,74,23,True
+62404.0,1.0,2.0,Moderate,28,103,28,True
+62407.0,1.0,2.0,Moderate,26,97,26,True
+62409.0,3.0,2.0,,0,0,0,False
+62411.0,1.0,2.0,Moderate,11,40,11,True
+62413.0,1.0,2.0,Severe,16,68,18,True
+62414.0,1.0,2.0,No Periodontitis,6,24,6,True
+62418.0,1.0,2.0,Moderate,10,40,10,True
+62419.0,3.0,2.0,,22,0,0,False
+62422.0,1.0,2.0,No Periodontitis,28,86,28,True
+62425.0,1.0,2.0,No Periodontitis,28,79,22,True
+62429.0,1.0,2.0,No Periodontitis,21,60,21,True
+62431.0,1.0,2.0,Moderate,6,23,6,True
+62432.0,1.0,2.0,No Periodontitis,24,96,24,True
+62434.0,1.0,2.0,Moderate,25,100,25,True
+62437.0,1.0,2.0,No Periodontitis,28,107,28,True
+62439.0,1.0,2.0,Moderate,21,68,21,True
+62441.0,1.0,2.0,Moderate,23,81,23,True
+62445.0,1.0,2.0,Moderate,20,78,20,True
+62449.0,1.0,2.0,No Periodontitis,27,108,27,True
+62450.0,1.0,2.0,Moderate,18,67,18,True
+62452.0,1.0,2.0,Moderate,25,81,25,True
+62454.0,1.0,2.0,Moderate,16,62,16,True
+62457.0,1.0,2.0,Severe,27,98,27,True
+62460.0,1.0,2.0,No Periodontitis,24,91,24,True
+62464.0,1.0,2.0,No Periodontitis,27,77,27,True
+62465.0,1.0,2.0,No Periodontitis,28,77,23,True
+62467.0,1.0,2.0,Severe,25,96,25,True
+62471.0,1.0,2.0,No Periodontitis,22,83,22,True
+62472.0,1.0,2.0,No Periodontitis,28,106,28,True
+62474.0,3.0,2.0,,20,0,0,False
+62476.0,1.0,2.0,No Periodontitis,27,95,27,True
+62479.0,1.0,2.0,No Periodontitis,28,95,28,True
+62480.0,1.0,2.0,No Periodontitis,26,91,26,True
+62481.0,1.0,2.0,No Periodontitis,22,49,19,True
+62482.0,1.0,2.0,Mild,27,91,27,True
+62484.0,1.0,2.0,No Periodontitis,22,84,22,True
+62487.0,3.0,2.0,,0,0,0,False
+62491.0,1.0,2.0,Moderate,26,104,26,True
+62495.0,1.0,2.0,No Periodontitis,24,74,23,True
+62500.0,1.0,2.0,No Periodontitis,26,92,26,True
+62501.0,1.0,2.0,No Periodontitis,28,110,28,True
+62502.0,1.0,2.0,Moderate,13,52,13,True
+62504.0,1.0,2.0,Moderate,26,102,26,True
+62506.0,1.0,2.0,No Periodontitis,27,94,27,True
+62509.0,1.0,2.0,No Periodontitis,28,110,28,True
+62510.0,1.0,2.0,Moderate,25,89,25,True
+62512.0,1.0,2.0,No Periodontitis,27,87,27,True
+62513.0,1.0,2.0,No Periodontitis,13,52,13,True
+62514.0,1.0,2.0,No Periodontitis,23,80,23,True
+62515.0,1.0,2.0,No Periodontitis,28,109,28,True
+62517.0,3.0,2.0,,0,0,0,False
+62519.0,1.0,2.0,No Periodontitis,4,16,4,True
+62521.0,1.0,2.0,Moderate,24,94,24,True
+62522.0,1.0,2.0,Moderate,8,27,8,True
+62523.0,3.0,2.0,,28,0,0,False
+62526.0,1.0,2.0,No Periodontitis,2,8,2,True
+62527.0,1.0,2.0,Moderate,10,41,11,True
+62528.0,1.0,2.0,Severe,24,88,24,True
+62529.0,1.0,2.0,Severe,25,98,25,True
+62530.0,1.0,2.0,No Periodontitis,19,67,19,True
+62531.0,1.0,2.0,,0,0,0,False
+62532.0,1.0,2.0,No Periodontitis,28,101,28,True
+62536.0,1.0,2.0,No Periodontitis,28,99,28,True
+62539.0,1.0,2.0,Moderate,21,84,21,True
+62544.0,1.0,2.0,No Periodontitis,28,104,28,True
+62546.0,1.0,2.0,Severe,21,69,21,True
+62548.0,1.0,2.0,No Periodontitis,25,89,25,True
+62549.0,1.0,2.0,Severe,27,78,22,True
+62551.0,1.0,2.0,No Periodontitis,28,111,28,True
+62552.0,1.0,2.0,No Periodontitis,28,91,27,True
+62555.0,1.0,2.0,No Periodontitis,23,82,23,True
+62556.0,1.0,2.0,No Periodontitis,28,78,28,True
+62558.0,1.0,2.0,No Periodontitis,25,89,25,True
+62560.0,1.0,2.0,No Periodontitis,25,93,25,True
+62563.0,3.0,2.0,,0,0,0,False
+62567.0,3.0,2.0,,28,0,0,False
+62569.0,1.0,2.0,,0,0,0,False
+62571.0,1.0,2.0,Moderate,28,107,28,True
+62572.0,3.0,2.0,,0,0,0,False
+62573.0,1.0,2.0,Moderate,7,25,7,True
+62576.0,3.0,2.0,,0,0,0,False
+62577.0,1.0,2.0,Moderate,23,89,23,True
+62579.0,1.0,2.0,Moderate,27,83,25,True
+62585.0,1.0,2.0,,0,0,0,False
+62586.0,1.0,2.0,Moderate,19,67,19,True
+62587.0,1.0,2.0,,0,0,0,False
+62589.0,1.0,2.0,Moderate,26,104,26,True
+62593.0,1.0,2.0,No Periodontitis,28,87,28,True
+62596.0,1.0,2.0,Moderate,24,89,24,True
+62597.0,1.0,2.0,Moderate,22,66,19,True
+62599.0,1.0,2.0,No Periodontitis,18,71,18,True
+62601.0,1.0,2.0,Moderate,7,28,7,True
+62602.0,1.0,2.0,Moderate,27,99,27,True
+62603.0,1.0,2.0,Moderate,25,75,20,True
+62604.0,1.0,2.0,Moderate,21,61,20,True
+62611.0,1.0,2.0,Moderate,25,99,25,True
+62612.0,1.0,2.0,Moderate,28,112,28,True
+62616.0,1.0,2.0,Moderate,22,77,23,True
+62619.0,1.0,2.0,,0,0,0,False
+62621.0,3.0,2.0,,0,0,0,False
+62623.0,1.0,2.0,No Periodontitis,26,91,26,True
+62624.0,3.0,2.0,,0,0,0,False
+62625.0,1.0,2.0,No Periodontitis,21,79,21,True
+62630.0,2.0,2.0,,27,0,0,False
+62631.0,1.0,2.0,No Periodontitis,28,90,28,True
+62633.0,1.0,2.0,No Periodontitis,28,106,28,True
+62634.0,1.0,2.0,Moderate,16,63,16,True
+62640.0,1.0,2.0,No Periodontitis,27,88,27,True
+62642.0,1.0,2.0,No Periodontitis,26,92,26,True
+62644.0,3.0,1.0,,19,0,0,False
+62646.0,1.0,2.0,Severe,18,52,15,True
+62648.0,1.0,2.0,,0,0,0,False
+62649.0,1.0,2.0,,0,0,0,False
+62650.0,3.0,2.0,,5,0,0,False
+62651.0,1.0,2.0,No Periodontitis,10,38,11,True
+62652.0,1.0,2.0,Moderate,19,76,19,True
+62658.0,1.0,2.0,Moderate,25,87,24,True
+62661.0,1.0,2.0,No Periodontitis,26,75,26,True
+62664.0,1.0,2.0,Moderate,24,94,24,True
+62665.0,1.0,2.0,No Periodontitis,28,89,27,True
+62668.0,1.0,2.0,Severe,28,112,28,True
+62669.0,1.0,2.0,No Periodontitis,28,97,28,True
+62671.0,1.0,2.0,Severe,17,53,17,True
+62673.0,1.0,2.0,Moderate,27,97,27,True
+62674.0,1.0,2.0,No Periodontitis,24,92,24,True
+62677.0,1.0,2.0,No Periodontitis,28,109,28,True
+62678.0,1.0,2.0,Moderate,23,71,22,True
+62680.0,1.0,2.0,No Periodontitis,1,4,1,True
+62682.0,1.0,2.0,Severe,10,40,10,True
+62683.0,1.0,2.0,Severe,27,102,27,True
+62685.0,1.0,2.0,Moderate,28,98,28,True
+62686.0,1.0,2.0,,0,0,0,False
+62689.0,1.0,2.0,No Periodontitis,24,95,24,True
+62691.0,1.0,2.0,No Periodontitis,28,104,28,True
+62693.0,3.0,2.0,,0,0,0,False
+62694.0,1.0,2.0,Moderate,26,100,26,True
+62695.0,1.0,2.0,Moderate,27,92,27,True
+62704.0,1.0,2.0,,0,0,0,False
+62705.0,1.0,2.0,No Periodontitis,28,110,28,True
+62706.0,1.0,2.0,Moderate,25,86,25,True
+62707.0,1.0,2.0,Severe,25,68,19,True
+62708.0,3.0,2.0,,0,0,0,False
+62710.0,3.0,2.0,,0,0,0,False
+62714.0,1.0,2.0,Moderate,15,58,15,True
+62716.0,1.0,2.0,No Periodontitis,22,75,21,True
+62717.0,1.0,2.0,Severe,24,94,24,True
+62718.0,1.0,2.0,Moderate,23,84,23,True
+62719.0,1.0,2.0,Moderate,22,80,22,True
+62720.0,1.0,2.0,No Periodontitis,23,77,23,True
+62723.0,1.0,2.0,No Periodontitis,28,99,28,True
+62724.0,1.0,2.0,Moderate,27,101,27,True
+62727.0,1.0,2.0,,0,0,0,False
+62728.0,1.0,2.0,No Periodontitis,28,105,28,True
+62732.0,1.0,2.0,No Periodontitis,1,4,1,True
+62734.0,1.0,2.0,No Periodontitis,3,12,3,True
+62735.0,1.0,2.0,No Periodontitis,28,82,26,True
+62736.0,3.0,1.0,,27,0,0,False
+62737.0,3.0,2.0,,0,0,0,False
+62739.0,1.0,2.0,,0,0,0,False
+62742.0,1.0,2.0,Moderate,19,75,19,True
+62744.0,1.0,2.0,Moderate,26,90,26,True
+62745.0,1.0,2.0,Moderate,19,76,19,True
+62746.0,3.0,2.0,,0,0,0,False
+62747.0,1.0,2.0,Moderate,28,100,28,True
+62749.0,1.0,2.0,Severe,6,20,5,True
+62750.0,1.0,2.0,No Periodontitis,23,78,23,True
+62752.0,3.0,2.0,,0,0,0,False
+62757.0,3.0,1.0,,28,0,0,False
+62761.0,1.0,2.0,,27,0,0,False
+62764.0,1.0,2.0,Moderate,24,84,24,True
+62768.0,1.0,2.0,No Periodontitis,28,112,28,True
+62771.0,3.0,2.0,,28,0,0,False
+62772.0,1.0,2.0,No Periodontitis,23,81,23,True
+62773.0,3.0,2.0,,0,0,0,False
+62779.0,1.0,2.0,Severe,21,70,21,True
+62784.0,1.0,2.0,Moderate,27,104,27,True
+62788.0,1.0,2.0,Moderate,28,100,28,True
+62792.0,1.0,2.0,Moderate,28,110,28,True
+62793.0,1.0,2.0,Mild,27,87,26,True
+62794.0,1.0,2.0,No Periodontitis,28,88,28,True
+62798.0,1.0,2.0,Moderate,19,73,19,True
+62803.0,1.0,2.0,No Periodontitis,26,84,26,True
+62804.0,1.0,2.0,Moderate,26,102,26,True
+62805.0,1.0,2.0,Severe,19,76,19,True
+62806.0,1.0,2.0,Moderate,20,80,20,True
+62807.0,1.0,2.0,No Periodontitis,26,89,26,True
+62808.0,1.0,2.0,No Periodontitis,28,112,28,True
+62809.0,1.0,2.0,Severe,22,87,23,True
+62811.0,3.0,1.0,,28,0,0,False
+62812.0,3.0,2.0,,25,0,0,False
+62813.0,1.0,2.0,,0,0,0,False
+62814.0,1.0,2.0,No Periodontitis,14,39,14,True
+62817.0,1.0,2.0,Severe,26,101,26,True
+62818.0,1.0,2.0,Moderate,25,100,25,True
+62819.0,1.0,2.0,No Periodontitis,28,103,28,True
+62820.0,1.0,2.0,Moderate,26,83,24,True
+62821.0,1.0,2.0,No Periodontitis,1,4,1,True
+62822.0,1.0,2.0,No Periodontitis,28,98,27,True
+62823.0,3.0,1.0,,24,0,0,False
+62824.0,1.0,2.0,No Periodontitis,28,112,28,True
+62835.0,1.0,2.0,Moderate,16,64,16,True
+62838.0,1.0,2.0,No Periodontitis,16,56,16,True
+62840.0,1.0,2.0,,1,0,0,False
+62841.0,1.0,2.0,Severe,18,72,18,True
+62847.0,1.0,2.0,No Periodontitis,27,102,27,True
+62848.0,3.0,1.0,,28,0,0,False
+62849.0,2.0,2.0,,26,0,0,False
+62855.0,1.0,2.0,No Periodontitis,27,90,27,True
+62859.0,1.0,2.0,Moderate,26,101,26,True
+62860.0,1.0,2.0,Moderate,27,103,27,True
+62861.0,1.0,2.0,Moderate,21,77,21,True
+62864.0,1.0,2.0,Moderate,24,92,24,True
+62871.0,1.0,2.0,Severe,25,79,25,True
+62874.0,3.0,2.0,,0,0,0,False
+62875.0,1.0,2.0,Moderate,16,41,12,True
+62876.0,1.0,2.0,No Periodontitis,17,55,17,True
+62880.0,1.0,2.0,No Periodontitis,26,87,26,True
+62881.0,1.0,2.0,No Periodontitis,28,104,28,True
+62882.0,1.0,2.0,Severe,23,82,22,True
+62883.0,2.0,2.0,,14,0,0,False
+62884.0,1.0,2.0,,0,0,0,False
+62885.0,1.0,2.0,Moderate,27,104,26,True
+62887.0,1.0,2.0,Moderate,10,26,10,True
+62891.0,1.0,2.0,Moderate,9,36,9,True
+62892.0,1.0,2.0,Severe,26,100,27,True
+62895.0,1.0,2.0,No Periodontitis,28,109,28,True
+62899.0,1.0,2.0,Moderate,25,84,25,True
+62900.0,1.0,2.0,Moderate,20,80,20,True
+62901.0,1.0,2.0,Moderate,25,98,25,True
+62902.0,1.0,2.0,Moderate,25,90,24,True
+62909.0,1.0,2.0,No Periodontitis,26,85,26,True
+62912.0,1.0,2.0,Moderate,20,78,20,True
+62913.0,3.0,1.0,,24,0,0,False
+62919.0,3.0,2.0,,0,0,0,False
+62922.0,1.0,2.0,No Periodontitis,28,86,27,True
+62924.0,1.0,2.0,,0,0,0,False
+62927.0,1.0,2.0,No Periodontitis,22,80,22,True
+62928.0,1.0,2.0,Severe,27,94,26,True
+62929.0,1.0,2.0,Moderate,7,21,7,True
+62934.0,3.0,2.0,,0,0,0,False
+62935.0,1.0,2.0,No Periodontitis,28,101,28,True
+62936.0,1.0,2.0,No Periodontitis,11,42,11,True
+62937.0,1.0,2.0,Moderate,26,101,26,True
+62938.0,1.0,2.0,No Periodontitis,27,104,27,True
+62939.0,1.0,2.0,Mild,28,81,26,True
+62940.0,1.0,2.0,Moderate,28,111,28,True
+62941.0,1.0,2.0,Severe,18,58,18,True
+62945.0,1.0,2.0,No Periodontitis,25,77,25,True
+62948.0,3.0,1.0,,23,0,0,False
+62953.0,1.0,2.0,Severe,27,107,27,True
+62955.0,1.0,2.0,No Periodontitis,28,87,27,True
+62958.0,1.0,2.0,No Periodontitis,24,87,24,True
+62967.0,1.0,2.0,Severe,25,75,24,True
+62971.0,1.0,2.0,No Periodontitis,28,73,28,True
+62974.0,1.0,2.0,No Periodontitis,27,104,27,True
+62979.0,1.0,2.0,Severe,17,61,17,True
+62981.0,1.0,2.0,Mild,24,96,24,True
+62982.0,1.0,2.0,No Periodontitis,28,57,21,True
+62985.0,1.0,2.0,Moderate,25,90,25,True
+62990.0,1.0,2.0,No Periodontitis,26,95,26,True
+62993.0,1.0,2.0,No Periodontitis,28,93,28,True
+62994.0,1.0,2.0,Moderate,24,80,24,True
+62997.0,1.0,2.0,Moderate,25,100,25,True
+63000.0,1.0,2.0,Moderate,21,83,21,True
+63002.0,3.0,2.0,,0,0,0,False
+63003.0,1.0,2.0,No Periodontitis,28,101,28,True
+63004.0,1.0,2.0,No Periodontitis,24,91,24,True
+63006.0,1.0,2.0,Moderate,18,62,18,True
+63007.0,1.0,2.0,Moderate,21,79,21,True
+63008.0,1.0,2.0,Moderate,27,97,27,True
+63010.0,1.0,2.0,,0,0,0,False
+63012.0,1.0,2.0,No Periodontitis,24,73,24,True
+63013.0,1.0,2.0,No Periodontitis,23,79,23,True
+63015.0,1.0,2.0,Moderate,20,74,20,True
+63017.0,3.0,1.0,,1,0,0,False
+63019.0,3.0,2.0,,0,0,0,False
+63021.0,3.0,2.0,,0,0,0,False
+63022.0,1.0,2.0,No Periodontitis,28,97,28,True
+63024.0,1.0,2.0,,0,0,0,False
+63025.0,1.0,2.0,No Periodontitis,7,23,7,True
+63026.0,1.0,2.0,No Periodontitis,24,96,24,True
+63031.0,1.0,2.0,Moderate,12,47,12,True
+63033.0,1.0,2.0,No Periodontitis,28,95,28,True
+63036.0,1.0,2.0,Moderate,15,60,15,True
+63037.0,1.0,2.0,Moderate,25,100,25,True
+63040.0,1.0,2.0,Moderate,23,92,23,True
+63041.0,1.0,2.0,No Periodontitis,28,109,28,True
+63044.0,1.0,2.0,No Periodontitis,28,111,28,True
+63045.0,1.0,2.0,No Periodontitis,26,95,26,True
+63051.0,1.0,2.0,No Periodontitis,26,104,26,True
+63052.0,1.0,2.0,No Periodontitis,26,99,26,True
+63061.0,3.0,2.0,,0,0,0,False
+63064.0,1.0,2.0,Severe,11,35,11,True
+63070.0,1.0,2.0,Severe,19,76,19,True
+63071.0,1.0,2.0,No Periodontitis,24,69,22,True
+63076.0,1.0,2.0,Severe,19,69,19,True
+63077.0,1.0,2.0,No Periodontitis,28,102,28,True
+63080.0,3.0,2.0,,0,0,0,False
+63081.0,1.0,2.0,Severe,15,60,15,True
+63082.0,3.0,1.0,,0,0,0,False
+63083.0,3.0,2.0,,0,0,0,False
+63086.0,3.0,2.0,,0,0,0,False
+63088.0,1.0,2.0,Severe,28,98,28,True
+63089.0,1.0,2.0,No Periodontitis,28,88,28,True
+63091.0,1.0,2.0,Moderate,25,98,25,True
+63094.0,1.0,2.0,No Periodontitis,28,105,28,True
+63097.0,1.0,2.0,,0,0,0,False
+63103.0,1.0,2.0,Moderate,28,104,28,True
+63106.0,1.0,2.0,Moderate,27,95,27,True
+63107.0,3.0,2.0,,0,0,0,False
+63109.0,1.0,2.0,No Periodontitis,28,98,28,True
+63110.0,1.0,2.0,No Periodontitis,28,112,28,True
+63112.0,1.0,2.0,No Periodontitis,7,27,7,True
+63116.0,1.0,2.0,No Periodontitis,28,109,28,True
+63119.0,1.0,2.0,No Periodontitis,28,111,28,True
+63123.0,1.0,2.0,Severe,19,76,19,True
+63124.0,1.0,2.0,Moderate,22,78,22,True
+63125.0,1.0,2.0,Moderate,27,100,27,True
+63126.0,1.0,2.0,Moderate,27,104,26,True
+63128.0,1.0,2.0,No Periodontitis,26,103,26,True
+63132.0,3.0,1.0,,12,0,0,False
+63134.0,1.0,2.0,,0,0,0,False
+63137.0,1.0,2.0,Mild,27,100,27,True
+63141.0,3.0,2.0,,0,0,0,False
+63142.0,1.0,2.0,Moderate,27,100,27,True
+63143.0,3.0,2.0,,0,0,0,False
+63145.0,1.0,2.0,Severe,19,67,19,True
+63147.0,3.0,1.0,,19,0,0,False
+63148.0,1.0,2.0,Moderate,23,76,23,True
+63149.0,1.0,2.0,No Periodontitis,28,106,28,True
+63151.0,1.0,2.0,Moderate,20,75,20,True
+63152.0,1.0,2.0,Moderate,27,108,27,True
+63154.0,1.0,2.0,Moderate,28,97,28,True
+63156.0,1.0,2.0,No Periodontitis,28,108,28,True
+63159.0,1.0,2.0,Moderate,25,100,25,True
+63160.0,1.0,2.0,No Periodontitis,28,102,27,True
+63161.0,1.0,2.0,No Periodontitis,26,100,26,True
+63162.0,1.0,2.0,No Periodontitis,27,105,27,True
+63163.0,1.0,2.0,No Periodontitis,16,55,16,True
+63164.0,1.0,2.0,No Periodontitis,28,111,28,True
+63167.0,1.0,2.0,No Periodontitis,26,102,26,True
+63169.0,3.0,2.0,,0,0,0,False
+63170.0,1.0,2.0,Severe,10,40,10,True
+63172.0,1.0,2.0,Moderate,11,39,11,True
+63174.0,1.0,2.0,Severe,28,106,28,True
+63177.0,1.0,2.0,No Periodontitis,15,52,15,True
+63178.0,1.0,2.0,Moderate,26,104,26,True
+63180.0,1.0,2.0,Moderate,28,99,28,True
+63181.0,1.0,2.0,Severe,16,54,16,True
+63183.0,1.0,2.0,Moderate,26,104,26,True
+63187.0,3.0,1.0,,27,0,0,False
+63188.0,1.0,2.0,Moderate,12,48,12,True
+63190.0,1.0,2.0,No Periodontitis,28,110,28,True
+63191.0,3.0,1.0,,26,0,0,False
+63192.0,3.0,1.0,,17,0,0,False
+63193.0,1.0,2.0,Moderate,28,112,28,True
+63194.0,3.0,2.0,,27,0,0,False
+63195.0,1.0,2.0,No Periodontitis,26,86,26,True
+63196.0,1.0,2.0,No Periodontitis,24,91,24,True
+63198.0,1.0,2.0,Moderate,26,104,26,True
+63200.0,1.0,2.0,No Periodontitis,28,112,28,True
+63203.0,1.0,2.0,,0,0,0,False
+63204.0,1.0,2.0,Moderate,21,56,17,True
+63205.0,1.0,2.0,,0,0,0,False
+63206.0,1.0,2.0,No Periodontitis,27,103,27,True
+63208.0,1.0,2.0,No Periodontitis,28,108,28,True
+63209.0,1.0,2.0,No Periodontitis,28,83,26,True
+63211.0,1.0,2.0,No Periodontitis,28,100,28,True
+63212.0,1.0,2.0,Moderate,6,18,6,True
+63213.0,1.0,2.0,No Periodontitis,22,79,22,True
+63214.0,1.0,2.0,Moderate,28,112,28,True
+63215.0,2.0,2.0,,20,0,0,False
+63216.0,2.0,2.0,,23,0,0,False
+63218.0,1.0,2.0,Moderate,23,80,22,True
+63219.0,1.0,2.0,Severe,27,101,27,True
+63221.0,1.0,2.0,,0,0,0,False
+63222.0,1.0,2.0,No Periodontitis,28,68,28,True
+63223.0,1.0,2.0,Moderate,23,83,23,True
+63224.0,1.0,2.0,No Periodontitis,27,98,27,True
+63225.0,1.0,2.0,No Periodontitis,19,63,19,True
+63227.0,1.0,2.0,Moderate,25,100,25,True
+63229.0,3.0,2.0,,0,0,0,False
+63230.0,1.0,2.0,Moderate,27,107,27,True
+63231.0,2.0,2.0,,22,0,0,False
+63233.0,1.0,2.0,No Periodontitis,18,71,18,True
+63234.0,1.0,2.0,No Periodontitis,28,100,28,True
+63235.0,3.0,2.0,,0,0,0,False
+63236.0,1.0,2.0,Moderate,16,64,16,True
+63238.0,1.0,2.0,Severe,12,43,12,True
+63242.0,1.0,2.0,Moderate,28,102,28,True
+63245.0,3.0,2.0,,0,0,0,False
+63248.0,3.0,1.0,,15,0,0,False
+63249.0,1.0,2.0,No Periodontitis,28,97,28,True
+63251.0,1.0,2.0,,0,0,0,False
+63254.0,1.0,2.0,Moderate,17,54,17,True
+63260.0,1.0,2.0,No Periodontitis,27,101,27,True
+63261.0,1.0,2.0,No Periodontitis,28,98,28,True
+63262.0,1.0,2.0,Moderate,18,47,18,True
+63263.0,1.0,2.0,No Periodontitis,24,89,24,True
+63264.0,1.0,2.0,No Periodontitis,26,98,26,True
+63267.0,1.0,2.0,Severe,14,55,14,True
+63269.0,1.0,2.0,,0,0,0,False
+63273.0,1.0,2.0,No Periodontitis,4,16,4,True
+63276.0,1.0,2.0,Moderate,13,42,13,True
+63281.0,1.0,2.0,No Periodontitis,25,100,25,True
+63283.0,1.0,2.0,No Periodontitis,26,93,26,True
+63284.0,1.0,2.0,No Periodontitis,26,95,26,True
+63285.0,1.0,2.0,,0,0,0,False
+63287.0,1.0,2.0,,0,0,0,False
+63288.0,2.0,2.0,,22,0,0,False
+63291.0,1.0,2.0,Mild,23,89,23,True
+63293.0,1.0,2.0,No Periodontitis,28,110,28,True
+63294.0,1.0,2.0,Moderate,18,67,18,True
+63295.0,1.0,2.0,Moderate,25,99,25,True
+63296.0,1.0,2.0,No Periodontitis,24,87,24,True
+63297.0,1.0,2.0,Moderate,24,85,24,True
+63301.0,1.0,2.0,Severe,16,62,16,True
+63304.0,1.0,2.0,No Periodontitis,28,90,28,True
+63305.0,1.0,2.0,Severe,28,109,28,True
+63306.0,1.0,2.0,Mild,28,104,28,True
+63310.0,3.0,2.0,,0,0,0,False
+63311.0,1.0,2.0,Severe,24,74,21,True
+63312.0,1.0,2.0,Moderate,23,86,23,True
+63313.0,1.0,2.0,No Periodontitis,13,52,13,True
+63315.0,1.0,2.0,Severe,23,65,21,True
+63317.0,1.0,2.0,Moderate,28,80,25,True
+63323.0,3.0,1.0,,28,0,0,False
+63324.0,1.0,2.0,No Periodontitis,28,99,28,True
+63326.0,1.0,2.0,Severe,18,57,18,True
+63328.0,1.0,2.0,Moderate,10,38,10,True
+63329.0,1.0,2.0,Moderate,17,68,17,True
+63330.0,3.0,1.0,,0,0,0,False
+63331.0,3.0,2.0,,21,0,0,False
+63333.0,1.0,2.0,,0,0,0,False
+63337.0,1.0,2.0,Severe,16,58,16,True
+63338.0,3.0,2.0,,0,0,0,False
+63339.0,1.0,2.0,No Periodontitis,28,104,28,True
+63341.0,3.0,2.0,,0,0,0,False
+63343.0,1.0,2.0,Mild,26,104,26,True
+63345.0,3.0,2.0,,22,0,0,False
+63346.0,1.0,2.0,Severe,28,110,28,True
+63349.0,1.0,2.0,Moderate,28,107,28,True
+63351.0,3.0,2.0,,0,0,0,False
+63352.0,1.0,2.0,Severe,8,34,9,True
+63357.0,1.0,2.0,No Periodontitis,28,100,28,True
+63360.0,3.0,1.0,,0,0,0,False
+63361.0,1.0,2.0,,0,0,0,False
+63363.0,1.0,2.0,No Periodontitis,28,108,28,True
+63364.0,2.0,2.0,,4,0,0,False
+63365.0,1.0,2.0,Moderate,24,80,24,True
+63374.0,1.0,2.0,Severe,14,40,14,True
+63377.0,1.0,2.0,No Periodontitis,8,20,8,True
+63380.0,1.0,2.0,Moderate,11,44,11,True
+63382.0,3.0,2.0,,0,0,0,False
+63383.0,1.0,2.0,No Periodontitis,20,78,20,True
+63385.0,1.0,2.0,Severe,13,51,13,True
+63388.0,1.0,2.0,No Periodontitis,27,103,27,True
+63389.0,2.0,2.0,,8,0,0,False
+63390.0,1.0,2.0,Moderate,26,92,26,True
+63391.0,1.0,2.0,Moderate,16,62,16,True
+63395.0,1.0,2.0,Moderate,26,100,26,True
+63396.0,1.0,2.0,Moderate,26,102,26,True
+63397.0,1.0,2.0,Moderate,27,103,27,True
+63398.0,1.0,2.0,,0,0,0,False
+63401.0,1.0,2.0,No Periodontitis,28,73,26,True
+63404.0,3.0,2.0,,8,0,0,False
+63405.0,3.0,2.0,,23,0,0,False
+63409.0,1.0,2.0,Moderate,18,68,18,True
+63412.0,1.0,2.0,Mild,27,100,27,True
+63413.0,1.0,2.0,No Periodontitis,28,110,28,True
+63418.0,3.0,2.0,,0,0,0,False
+63420.0,1.0,2.0,Severe,20,80,20,True
+63422.0,1.0,2.0,Moderate,26,94,26,True
+63425.0,3.0,2.0,,0,0,0,False
+63426.0,1.0,2.0,,0,0,0,False
+63431.0,1.0,2.0,Moderate,27,96,27,True
+63436.0,2.0,2.0,,20,0,0,False
+63438.0,1.0,2.0,No Periodontitis,17,67,17,True
+63439.0,3.0,2.0,,28,0,0,False
+63440.0,1.0,2.0,,0,0,0,False
+63442.0,3.0,2.0,,0,0,0,False
+63448.0,1.0,2.0,No Periodontitis,6,21,6,True
+63449.0,1.0,2.0,No Periodontitis,27,108,27,True
+63453.0,1.0,2.0,Moderate,27,92,27,True
+63455.0,1.0,2.0,Moderate,27,105,27,True
+63456.0,1.0,2.0,,0,0,0,False
+63459.0,3.0,1.0,,16,0,0,False
+63463.0,1.0,2.0,Severe,10,28,10,True
+63465.0,1.0,2.0,No Periodontitis,26,104,26,True
+63466.0,1.0,2.0,Severe,25,100,25,True
+63468.0,1.0,2.0,Severe,19,76,19,True
+63471.0,1.0,2.0,Severe,11,44,11,True
+63473.0,1.0,2.0,,0,0,0,False
+63474.0,1.0,2.0,No Periodontitis,26,95,26,True
+63475.0,3.0,1.0,,25,0,0,False
+63478.0,1.0,2.0,,0,0,0,False
+63481.0,1.0,2.0,Moderate,12,45,12,True
+63482.0,1.0,2.0,No Periodontitis,28,103,28,True
+63484.0,1.0,2.0,Severe,23,85,23,True
+63485.0,1.0,2.0,Moderate,28,97,28,True
+63489.0,1.0,2.0,No Periodontitis,28,103,27,True
+63491.0,3.0,2.0,,0,0,0,False
+63493.0,1.0,2.0,No Periodontitis,26,104,26,True
+63496.0,3.0,2.0,,0,0,0,False
+63498.0,3.0,2.0,,0,0,0,False
+63499.0,1.0,2.0,No Periodontitis,27,108,27,True
+63500.0,1.0,2.0,Moderate,22,88,22,True
+63502.0,1.0,2.0,Moderate,11,17,7,True
+63504.0,1.0,2.0,No Periodontitis,26,99,26,True
+63506.0,1.0,2.0,Moderate,22,76,22,True
+63507.0,1.0,2.0,,0,0,0,False
+63508.0,1.0,2.0,No Periodontitis,28,110,28,True
+63510.0,1.0,2.0,Moderate,28,99,26,True
+63512.0,1.0,2.0,Moderate,13,53,14,True
+63514.0,1.0,2.0,No Periodontitis,5,20,5,True
+63515.0,1.0,2.0,No Periodontitis,24,86,24,True
+63516.0,1.0,2.0,No Periodontitis,23,88,23,True
+63519.0,1.0,2.0,No Periodontitis,24,89,24,True
+63524.0,1.0,2.0,No Periodontitis,15,46,15,True
+63528.0,1.0,2.0,No Periodontitis,28,112,28,True
+63530.0,1.0,2.0,Moderate,28,110,28,True
+63531.0,1.0,2.0,Mild,28,110,28,True
+63532.0,1.0,2.0,Moderate,28,109,28,True
+63533.0,1.0,2.0,No Periodontitis,28,112,28,True
+63534.0,1.0,2.0,Moderate,26,87,26,True
+63538.0,1.0,2.0,No Periodontitis,28,94,26,True
+63540.0,1.0,2.0,No Periodontitis,26,94,26,True
+63541.0,1.0,2.0,,0,0,0,False
+63543.0,1.0,2.0,,0,0,0,False
+63544.0,1.0,2.0,,0,0,0,False
+63545.0,1.0,2.0,Moderate,23,92,23,True
+63546.0,1.0,2.0,,0,0,0,False
+63550.0,3.0,2.0,,0,0,0,False
+63551.0,1.0,2.0,No Periodontitis,27,105,27,True
+63552.0,1.0,2.0,Moderate,18,62,18,True
+63553.0,1.0,2.0,,0,0,0,False
+63554.0,1.0,2.0,Moderate,28,79,28,True
+63556.0,1.0,2.0,Severe,26,104,26,True
+63559.0,1.0,2.0,No Periodontitis,26,90,26,True
+63560.0,1.0,2.0,No Periodontitis,28,109,28,True
+63566.0,1.0,2.0,,0,0,0,False
+63569.0,2.0,2.0,,19,0,0,False
+63571.0,1.0,2.0,No Periodontitis,28,87,25,True
+63576.0,1.0,2.0,Moderate,25,80,25,True
+63578.0,3.0,1.0,,25,0,0,False
+63579.0,1.0,2.0,No Periodontitis,28,111,28,True
+63582.0,3.0,2.0,,0,0,0,False
+63583.0,1.0,2.0,Moderate,13,51,13,True
+63584.0,3.0,1.0,,28,0,0,False
+63587.0,1.0,2.0,Moderate,28,111,28,True
+63588.0,3.0,1.0,,23,0,0,False
+63589.0,3.0,2.0,,0,0,0,False
+63593.0,1.0,2.0,Moderate,19,76,19,True
+63596.0,1.0,2.0,Moderate,22,86,22,True
+63602.0,1.0,2.0,Moderate,26,90,26,True
+63607.0,1.0,2.0,Mild,25,87,25,True
+63608.0,1.0,2.0,Moderate,18,71,18,True
+63609.0,1.0,2.0,Severe,19,75,19,True
+63611.0,2.0,2.0,,26,0,0,False
+63613.0,1.0,2.0,No Periodontitis,28,108,28,True
+63614.0,1.0,2.0,,0,0,0,False
+63620.0,1.0,2.0,No Periodontitis,21,67,20,True
+63621.0,1.0,2.0,No Periodontitis,28,83,25,True
+63623.0,3.0,2.0,,0,0,0,False
+63626.0,1.0,2.0,Severe,28,112,28,True
+63627.0,1.0,2.0,Moderate,14,56,14,True
+63629.0,1.0,2.0,No Periodontitis,26,91,26,True
+63631.0,1.0,2.0,No Periodontitis,28,79,26,True
+63632.0,1.0,2.0,Severe,15,59,15,True
+63633.0,1.0,2.0,Severe,28,105,28,True
+63635.0,2.0,2.0,,21,0,0,False
+63638.0,1.0,2.0,No Periodontitis,24,91,24,True
+63639.0,1.0,2.0,Severe,18,72,18,True
+63648.0,1.0,2.0,No Periodontitis,27,100,27,True
+63650.0,2.0,2.0,,26,0,0,False
+63651.0,1.0,2.0,Moderate,18,72,18,True
+63657.0,1.0,2.0,Mild,28,93,25,True
+63659.0,3.0,2.0,,24,0,0,False
+63661.0,1.0,2.0,Moderate,6,24,7,True
+63662.0,1.0,2.0,Moderate,26,100,26,True
+63663.0,1.0,2.0,No Periodontitis,16,50,16,True
+63664.0,1.0,2.0,Severe,22,86,22,True
+63665.0,1.0,2.0,No Periodontitis,27,88,27,True
+63666.0,1.0,2.0,Moderate,7,22,7,True
+63669.0,1.0,2.0,No Periodontitis,28,112,28,True
+63673.0,1.0,2.0,Severe,27,77,24,True
+63680.0,1.0,2.0,Moderate,26,100,26,True
+63683.0,1.0,2.0,,0,0,0,False
+63684.0,1.0,2.0,No Periodontitis,10,24,9,True
+63685.0,1.0,2.0,Moderate,15,55,15,True
+63686.0,2.0,2.0,,26,0,0,False
+63687.0,1.0,2.0,Moderate,23,68,23,True
+63689.0,1.0,2.0,Moderate,22,88,22,True
+63697.0,1.0,2.0,No Periodontitis,26,95,26,True
+63698.0,3.0,1.0,,28,0,0,False
+63699.0,1.0,2.0,Mild,27,98,27,True
+63700.0,1.0,2.0,Severe,23,92,23,True
+63701.0,3.0,2.0,,28,0,0,False
+63704.0,1.0,2.0,Severe,10,40,10,True
+63707.0,1.0,2.0,No Periodontitis,17,66,17,True
+63708.0,1.0,2.0,Severe,28,112,28,True
+63710.0,3.0,2.0,,28,0,0,False
+63713.0,1.0,2.0,Moderate,24,70,24,True
+63714.0,1.0,2.0,No Periodontitis,28,112,28,True
+63717.0,1.0,2.0,No Periodontitis,25,89,25,True
+63718.0,1.0,2.0,Moderate,27,108,27,True
+63723.0,1.0,2.0,No Periodontitis,15,60,15,True
+63724.0,3.0,2.0,,0,0,0,False
+63729.0,1.0,2.0,No Periodontitis,28,98,28,True
+63731.0,3.0,2.0,,0,0,0,False
+63732.0,1.0,2.0,,0,0,0,False
+63733.0,1.0,2.0,No Periodontitis,23,88,23,True
+63734.0,1.0,2.0,Mild,27,80,25,True
+63736.0,1.0,2.0,Moderate,21,82,21,True
+63738.0,1.0,2.0,Severe,22,64,18,True
+63739.0,1.0,2.0,,0,0,0,False
+63741.0,1.0,2.0,Severe,24,93,24,True
+63744.0,1.0,2.0,No Periodontitis,28,99,28,True
+63746.0,1.0,2.0,Severe,8,32,8,True
+63749.0,1.0,2.0,No Periodontitis,26,101,26,True
+63752.0,1.0,2.0,,0,0,0,False
+63753.0,1.0,2.0,No Periodontitis,27,93,27,True
+63754.0,1.0,2.0,No Periodontitis,28,111,28,True
+63759.0,3.0,1.0,,28,0,0,False
+63765.0,3.0,1.0,,8,0,0,False
+63766.0,1.0,2.0,No Periodontitis,19,66,19,True
+63767.0,1.0,2.0,Moderate,16,64,16,True
+63768.0,1.0,2.0,,0,0,0,False
+63769.0,1.0,2.0,Severe,27,105,27,True
+63771.0,1.0,2.0,No Periodontitis,24,85,24,True
+63772.0,1.0,2.0,Mild,28,104,28,True
+63773.0,1.0,2.0,Moderate,27,92,27,True
+63777.0,1.0,2.0,Moderate,21,78,21,True
+63780.0,1.0,2.0,No Periodontitis,24,93,24,True
+63781.0,1.0,2.0,No Periodontitis,27,90,27,True
+63784.0,1.0,2.0,Moderate,24,89,24,True
+63787.0,1.0,2.0,No Periodontitis,26,71,23,True
+63788.0,3.0,2.0,,0,0,0,False
+63795.0,1.0,2.0,Severe,27,107,27,True
+63796.0,1.0,2.0,No Periodontitis,28,103,28,True
+63799.0,3.0,2.0,,0,0,0,False
+63801.0,1.0,2.0,Moderate,20,75,20,True
+63802.0,1.0,2.0,Moderate,28,106,28,True
+63803.0,1.0,2.0,No Periodontitis,23,91,23,True
+63804.0,1.0,2.0,Moderate,27,103,27,True
+63805.0,1.0,2.0,Mild,28,89,28,True
+63806.0,1.0,2.0,No Periodontitis,25,71,23,True
+63807.0,1.0,2.0,Severe,18,71,18,True
+63812.0,1.0,2.0,No Periodontitis,27,108,27,True
+63813.0,1.0,2.0,Severe,25,97,25,True
+63817.0,1.0,2.0,No Periodontitis,28,109,28,True
+63818.0,1.0,2.0,No Periodontitis,28,94,28,True
+63820.0,1.0,2.0,,0,0,0,False
+63825.0,1.0,2.0,No Periodontitis,28,87,27,True
+63827.0,3.0,1.0,,26,0,0,False
+63828.0,1.0,2.0,No Periodontitis,27,96,27,True
+63829.0,3.0,2.0,,0,0,0,False
+63830.0,3.0,2.0,,0,0,0,False
+63832.0,1.0,2.0,No Periodontitis,28,101,28,True
+63834.0,3.0,2.0,,0,0,0,False
+63835.0,1.0,2.0,,19,0,0,False
+63837.0,2.0,2.0,,26,0,0,False
+63838.0,1.0,2.0,No Periodontitis,6,24,6,True
+63839.0,1.0,2.0,,0,0,0,False
+63844.0,1.0,2.0,Moderate,28,54,24,True
+63845.0,1.0,2.0,Moderate,24,80,24,True
+63847.0,1.0,2.0,Mild,24,83,24,True
+63848.0,1.0,2.0,No Periodontitis,28,103,28,True
+63849.0,1.0,2.0,No Periodontitis,28,105,28,True
+63850.0,1.0,2.0,No Periodontitis,26,97,26,True
+63852.0,1.0,2.0,No Periodontitis,25,95,25,True
+63853.0,1.0,2.0,No Periodontitis,24,96,24,True
+63859.0,1.0,2.0,Severe,23,89,23,True
+63860.0,1.0,2.0,No Periodontitis,25,100,25,True
+63861.0,1.0,2.0,No Periodontitis,28,95,28,True
+63862.0,2.0,2.0,,17,0,0,False
+63867.0,1.0,2.0,No Periodontitis,24,89,24,True
+63868.0,1.0,2.0,Moderate,26,96,26,True
+63871.0,1.0,2.0,Moderate,26,99,26,True
+63873.0,1.0,2.0,,0,0,0,False
+63875.0,3.0,1.0,,22,0,0,False
+63879.0,1.0,2.0,No Periodontitis,22,77,22,True
+63880.0,1.0,2.0,No Periodontitis,6,13,5,True
+63882.0,1.0,2.0,Mild,28,105,28,True
+63884.0,1.0,2.0,Severe,26,95,26,True
+63887.0,1.0,2.0,Moderate,11,43,11,True
+63889.0,1.0,2.0,Moderate,18,68,18,True
+63890.0,1.0,2.0,Severe,14,53,14,True
+63891.0,1.0,2.0,No Periodontitis,21,84,21,True
+63895.0,1.0,2.0,No Periodontitis,28,99,28,True
+63898.0,1.0,2.0,Severe,28,46,18,True
+63899.0,3.0,1.0,,17,0,0,False
+63900.0,1.0,2.0,No Periodontitis,28,102,28,True
+63902.0,1.0,2.0,No Periodontitis,25,100,25,True
+63904.0,3.0,2.0,,0,0,0,False
+63907.0,1.0,2.0,Moderate,17,62,17,True
+63908.0,1.0,2.0,Moderate,27,97,27,True
+63909.0,3.0,1.0,,25,0,0,False
+63911.0,2.0,2.0,,20,0,0,False
+63915.0,1.0,2.0,,0,0,0,False
+63916.0,1.0,2.0,Moderate,21,80,21,True
+63917.0,3.0,2.0,,0,0,0,False
+63918.0,1.0,2.0,No Periodontitis,28,93,28,True
+63922.0,3.0,2.0,,25,0,0,False
+63923.0,1.0,2.0,Moderate,24,68,23,True
+63926.0,1.0,2.0,Moderate,28,100,28,True
+63927.0,1.0,2.0,Moderate,28,101,26,True
+63928.0,1.0,2.0,No Periodontitis,26,90,26,True
+63929.0,1.0,2.0,No Periodontitis,28,83,28,True
+63936.0,3.0,2.0,,0,0,0,False
+63939.0,1.0,2.0,Severe,18,70,18,True
+63941.0,1.0,2.0,Moderate,23,82,23,True
+63942.0,1.0,2.0,Moderate,25,92,25,True
+63946.0,1.0,2.0,No Periodontitis,26,91,26,True
+63948.0,1.0,2.0,,0,0,0,False
+63949.0,1.0,2.0,Moderate,27,92,27,True
+63953.0,1.0,2.0,Moderate,27,102,27,True
+63954.0,1.0,2.0,Severe,24,94,24,True
+63955.0,3.0,1.0,,26,0,0,False
+63956.0,3.0,2.0,,0,0,0,False
+63957.0,3.0,1.0,,17,0,0,False
+63958.0,1.0,2.0,No Periodontitis,28,97,27,True
+63959.0,1.0,2.0,Moderate,10,27,10,True
+63963.0,1.0,2.0,Severe,26,104,26,True
+63964.0,3.0,2.0,,26,0,0,False
+63965.0,1.0,2.0,,0,0,0,False
+63966.0,1.0,2.0,Moderate,27,102,27,True
+63968.0,1.0,2.0,No Periodontitis,17,64,17,True
+63971.0,1.0,2.0,Moderate,28,101,28,True
+63974.0,3.0,2.0,,0,0,0,False
+63982.0,1.0,2.0,Moderate,6,21,6,True
+63983.0,1.0,2.0,Moderate,24,96,24,True
+63986.0,1.0,2.0,Moderate,5,20,5,True
+63989.0,1.0,2.0,Moderate,23,82,23,True
+63991.0,1.0,2.0,Moderate,26,81,24,True
+63992.0,1.0,2.0,Moderate,28,98,28,True
+63995.0,3.0,2.0,,0,0,0,False
+63996.0,1.0,2.0,No Periodontitis,18,72,18,True
+63997.0,1.0,2.0,Moderate,23,91,23,True
+63998.0,3.0,1.0,,25,0,0,False
+63999.0,3.0,1.0,,28,0,0,False
+64000.0,1.0,2.0,No Periodontitis,24,56,23,True
+64002.0,2.0,2.0,,25,0,0,False
+64003.0,1.0,2.0,Moderate,28,111,28,True
+64009.0,1.0,2.0,No Periodontitis,27,91,27,True
+64011.0,3.0,2.0,,0,0,0,False
+64013.0,1.0,2.0,Severe,8,32,8,True
+64015.0,1.0,2.0,Mild,27,97,27,True
+64018.0,1.0,2.0,Moderate,25,56,23,True
+64021.0,1.0,2.0,No Periodontitis,25,93,25,True
+64023.0,1.0,2.0,Moderate,28,112,28,True
+64024.0,1.0,2.0,No Periodontitis,28,107,28,True
+64025.0,1.0,2.0,No Periodontitis,28,101,28,True
+64032.0,1.0,2.0,No Periodontitis,23,88,23,True
+64033.0,2.0,2.0,,27,0,0,False
+64034.0,1.0,2.0,Moderate,5,20,5,True
+64036.0,1.0,2.0,Severe,11,27,9,True
+64040.0,2.0,2.0,No Periodontitis,23,25,8,False
+64042.0,1.0,2.0,No Periodontitis,27,92,27,True
+64046.0,1.0,2.0,No Periodontitis,25,92,25,True
+64047.0,1.0,2.0,No Periodontitis,24,79,24,True
+64048.0,1.0,2.0,Moderate,23,92,23,True
+64050.0,3.0,2.0,,0,0,0,False
+64052.0,1.0,2.0,Severe,27,106,27,True
+64055.0,1.0,2.0,Moderate,27,94,26,True
+64058.0,1.0,2.0,No Periodontitis,27,102,27,True
+64059.0,1.0,2.0,,0,0,0,False
+64061.0,3.0,2.0,,0,0,0,False
+64063.0,1.0,2.0,No Periodontitis,12,47,12,True
+64064.0,1.0,2.0,No Periodontitis,27,89,25,True
+64065.0,3.0,1.0,,28,0,0,False
+64069.0,1.0,2.0,No Periodontitis,28,103,28,True
+64071.0,1.0,2.0,Moderate,22,88,22,True
+64072.0,3.0,2.0,,0,0,0,False
+64077.0,1.0,2.0,Mild,27,88,27,True
+64082.0,1.0,2.0,Severe,5,20,5,True
+64083.0,3.0,1.0,,0,0,0,False
+64084.0,1.0,2.0,,0,0,0,False
+64086.0,1.0,2.0,No Periodontitis,27,97,27,True
+64089.0,2.0,2.0,No Periodontitis,24,28,7,False
+64091.0,1.0,2.0,Severe,19,58,19,True
+64095.0,1.0,2.0,No Periodontitis,28,112,28,True
+64098.0,1.0,2.0,No Periodontitis,28,110,28,True
+64099.0,1.0,2.0,No Periodontitis,28,112,28,True
+64102.0,3.0,2.0,,0,0,0,False
+64106.0,1.0,2.0,No Periodontitis,28,95,27,True
+64107.0,1.0,2.0,Moderate,22,74,22,True
+64111.0,1.0,2.0,No Periodontitis,26,87,26,True
+64113.0,1.0,2.0,,0,0,0,False
+64120.0,1.0,2.0,Severe,12,48,12,True
+64121.0,1.0,2.0,No Periodontitis,24,67,24,True
+64122.0,1.0,2.0,Moderate,20,79,20,True
+64127.0,1.0,2.0,Severe,21,84,21,True
+64128.0,3.0,2.0,,0,0,0,False
+64130.0,1.0,2.0,,0,0,0,False
+64131.0,1.0,2.0,,0,0,0,False
+64132.0,1.0,2.0,No Periodontitis,28,57,20,True
+64133.0,1.0,2.0,No Periodontitis,28,96,28,True
+64134.0,1.0,2.0,No Periodontitis,27,108,27,True
+64137.0,1.0,2.0,,0,0,0,False
+64138.0,1.0,2.0,No Periodontitis,26,103,26,True
+64139.0,1.0,2.0,No Periodontitis,22,77,22,True
+64141.0,3.0,2.0,,9,0,0,False
+64142.0,1.0,2.0,No Periodontitis,24,77,23,True
+64143.0,3.0,2.0,,0,0,0,False
+64146.0,1.0,2.0,Moderate,17,45,17,True
+64147.0,1.0,2.0,No Periodontitis,23,82,23,True
+64154.0,3.0,2.0,,0,0,0,False
+64157.0,1.0,2.0,Moderate,25,99,25,True
+64159.0,1.0,2.0,No Periodontitis,1,4,1,True
+64161.0,1.0,2.0,No Periodontitis,17,65,17,True
+64163.0,1.0,2.0,No Periodontitis,28,110,28,True
+64164.0,2.0,2.0,,25,0,0,False
+64168.0,1.0,2.0,Moderate,28,112,28,True
+64172.0,1.0,2.0,,0,0,0,False
+64173.0,1.0,2.0,No Periodontitis,28,106,28,True
+64175.0,1.0,2.0,,0,0,0,False
+64176.0,2.0,2.0,,20,0,0,False
+64179.0,1.0,2.0,Moderate,28,112,28,True
+64180.0,1.0,2.0,No Periodontitis,25,91,25,True
+64181.0,1.0,2.0,No Periodontitis,27,94,27,True
+64182.0,1.0,2.0,No Periodontitis,28,112,28,True
+64184.0,1.0,2.0,,0,0,0,False
+64186.0,3.0,2.0,,0,0,0,False
+64191.0,3.0,2.0,,0,0,0,False
+64192.0,1.0,2.0,No Periodontitis,28,106,28,True
+64193.0,3.0,2.0,,0,0,0,False
+64194.0,3.0,2.0,,28,0,0,False
+64195.0,1.0,2.0,No Periodontitis,27,104,27,True
+64197.0,1.0,2.0,,0,0,0,False
+64198.0,1.0,2.0,Moderate,4,16,4,True
+64203.0,1.0,2.0,No Periodontitis,28,111,28,True
+64206.0,1.0,2.0,Moderate,9,35,9,True
+64213.0,1.0,2.0,Severe,28,111,28,True
+64215.0,1.0,2.0,Moderate,9,34,9,True
+64217.0,1.0,2.0,Severe,27,80,27,True
+64218.0,1.0,2.0,Mild,27,100,27,True
+64219.0,1.0,2.0,,0,0,0,False
+64222.0,1.0,2.0,No Periodontitis,26,83,26,True
+64226.0,3.0,1.0,,6,0,0,False
+64227.0,1.0,2.0,Severe,24,78,22,True
+64228.0,1.0,2.0,Moderate,27,108,27,True
+64229.0,1.0,2.0,No Periodontitis,28,92,27,True
+64231.0,1.0,2.0,Moderate,3,12,3,True
+64235.0,1.0,2.0,Moderate,23,90,23,True
+64244.0,1.0,2.0,No Periodontitis,28,108,28,True
+64245.0,1.0,2.0,Moderate,27,91,27,True
+64247.0,1.0,2.0,Moderate,23,84,23,True
+64248.0,3.0,2.0,,0,0,0,False
+64252.0,1.0,2.0,Moderate,20,70,20,True
+64256.0,1.0,2.0,Moderate,16,64,16,True
+64259.0,1.0,2.0,No Periodontitis,28,109,28,True
+64261.0,1.0,2.0,Moderate,28,112,28,True
+64263.0,1.0,2.0,Moderate,16,59,17,True
+64265.0,1.0,2.0,Moderate,24,88,24,True
+64266.0,1.0,2.0,No Periodontitis,28,89,27,True
+64270.0,1.0,2.0,No Periodontitis,27,90,27,True
+64276.0,1.0,2.0,Moderate,15,48,13,True
+64277.0,1.0,2.0,Moderate,18,72,18,True
+64281.0,1.0,2.0,Mild,26,85,26,True
+64284.0,1.0,2.0,Moderate,27,107,27,True
+64286.0,1.0,2.0,No Periodontitis,27,102,27,True
+64288.0,1.0,2.0,No Periodontitis,28,110,28,True
+64290.0,1.0,2.0,Moderate,22,85,22,True
+64291.0,1.0,2.0,Severe,23,89,23,True
+64292.0,1.0,2.0,Moderate,25,92,25,True
+64296.0,3.0,2.0,,0,0,0,False
+64298.0,1.0,2.0,Moderate,21,67,20,True
+64299.0,1.0,2.0,Moderate,27,108,27,True
+64301.0,1.0,2.0,Moderate,4,15,4,True
+64302.0,1.0,2.0,No Periodontitis,28,81,27,True
+64305.0,1.0,2.0,No Periodontitis,21,84,21,True
+64308.0,1.0,2.0,Moderate,27,81,26,True
+64309.0,3.0,2.0,,22,0,0,False
+64310.0,3.0,2.0,,26,0,0,False
+64311.0,1.0,2.0,Severe,16,56,16,True
+64312.0,1.0,2.0,Moderate,10,38,10,True
+64313.0,1.0,2.0,Severe,21,84,21,True
+64315.0,1.0,2.0,Moderate,26,92,26,True
+64325.0,1.0,2.0,Moderate,28,100,28,True
+64328.0,1.0,2.0,No Periodontitis,8,27,8,True
+64329.0,1.0,2.0,Moderate,27,106,27,True
+64330.0,1.0,2.0,No Periodontitis,27,88,27,True
+64333.0,1.0,2.0,Moderate,26,95,26,True
+64336.0,1.0,2.0,Moderate,20,76,20,True
+64341.0,1.0,2.0,No Periodontitis,25,54,22,True
+64343.0,1.0,2.0,Moderate,8,29,8,True
+64344.0,3.0,2.0,,28,0,0,False
+64347.0,3.0,1.0,,24,0,0,False
+64351.0,1.0,2.0,Mild,28,85,27,True
+64354.0,1.0,2.0,Moderate,22,68,22,True
+64360.0,1.0,2.0,Moderate,22,79,22,True
+64362.0,1.0,2.0,Moderate,21,80,21,True
+64364.0,1.0,2.0,,0,0,0,False
+64367.0,1.0,2.0,No Periodontitis,24,55,19,True
+64368.0,1.0,2.0,Moderate,16,60,16,True
+64369.0,1.0,2.0,Moderate,20,80,20,True
+64371.0,1.0,2.0,No Periodontitis,24,79,22,True
+64374.0,1.0,2.0,No Periodontitis,23,88,23,True
+64376.0,1.0,2.0,,0,0,0,False
+64377.0,1.0,2.0,Severe,12,35,11,True
+64381.0,3.0,2.0,,0,0,0,False
+64387.0,1.0,2.0,Moderate,21,74,21,True
+64388.0,1.0,2.0,Severe,17,53,17,True
+64390.0,1.0,2.0,No Periodontitis,19,63,19,True
+64396.0,1.0,2.0,Moderate,22,69,21,True
+64397.0,1.0,2.0,No Periodontitis,25,96,25,True
+64399.0,1.0,2.0,Moderate,27,97,27,True
+64400.0,1.0,2.0,No Periodontitis,18,63,18,True
+64402.0,1.0,2.0,Moderate,26,90,25,True
+64403.0,1.0,2.0,No Periodontitis,21,76,21,True
+64404.0,1.0,2.0,Moderate,28,107,28,True
+64405.0,1.0,2.0,,0,0,0,False
+64407.0,1.0,2.0,Severe,16,56,16,True
+64411.0,1.0,2.0,No Periodontitis,27,98,27,True
+64412.0,1.0,2.0,Moderate,10,40,10,True
+64413.0,1.0,2.0,No Periodontitis,22,42,19,True
+64415.0,1.0,2.0,No Periodontitis,25,90,25,True
+64419.0,1.0,2.0,Moderate,8,26,7,True
+64420.0,1.0,2.0,No Periodontitis,28,112,28,True
+64427.0,1.0,2.0,No Periodontitis,28,112,28,True
+64430.0,1.0,2.0,No Periodontitis,18,71,18,True
+64431.0,3.0,2.0,No Periodontitis,27,108,27,False
+64433.0,1.0,2.0,Moderate,26,78,26,True
+64436.0,1.0,2.0,No Periodontitis,25,63,24,True
+64438.0,1.0,2.0,No Periodontitis,26,103,26,True
+64439.0,1.0,2.0,No Periodontitis,24,96,24,True
+64440.0,1.0,2.0,No Periodontitis,24,77,24,True
+64446.0,1.0,2.0,Severe,26,97,26,True
+64447.0,1.0,2.0,Severe,9,25,9,True
+64450.0,1.0,2.0,Moderate,16,49,16,True
+64451.0,1.0,2.0,Severe,28,99,28,True
+64456.0,1.0,2.0,No Periodontitis,27,97,27,True
+64459.0,1.0,2.0,No Periodontitis,20,71,20,True
+64461.0,1.0,2.0,No Periodontitis,11,31,12,True
+64463.0,1.0,2.0,Severe,16,58,16,True
+64465.0,1.0,2.0,Severe,28,101,28,True
+64469.0,1.0,2.0,Moderate,24,96,24,True
+64471.0,1.0,2.0,No Periodontitis,24,92,24,True
+64472.0,1.0,2.0,No Periodontitis,25,88,25,True
+64473.0,3.0,1.0,,27,0,0,False
+64474.0,3.0,2.0,,0,0,0,False
+64475.0,1.0,2.0,Severe,20,79,20,True
+64476.0,3.0,2.0,,0,0,0,False
+64477.0,3.0,2.0,,0,0,0,False
+64485.0,2.0,2.0,,22,0,0,False
+64488.0,3.0,2.0,,0,0,0,False
+64489.0,1.0,2.0,No Periodontitis,18,62,18,True
+64494.0,1.0,2.0,No Periodontitis,28,104,28,True
+64495.0,1.0,2.0,No Periodontitis,26,91,26,True
+64497.0,1.0,2.0,,0,0,0,False
+64498.0,1.0,2.0,No Periodontitis,28,103,28,True
+64499.0,1.0,2.0,Moderate,21,84,21,True
+64501.0,3.0,1.0,,0,0,0,False
+64503.0,1.0,2.0,Moderate,17,63,17,True
+64504.0,1.0,2.0,No Periodontitis,17,60,17,True
+64507.0,1.0,2.0,Severe,22,88,22,True
+64511.0,1.0,2.0,No Periodontitis,10,34,10,True
+64514.0,1.0,2.0,No Periodontitis,27,85,27,True
+64515.0,1.0,2.0,No Periodontitis,26,104,26,True
+64520.0,3.0,2.0,,18,0,0,False
+64526.0,1.0,2.0,No Periodontitis,28,105,28,True
+64530.0,1.0,2.0,Severe,28,105,28,True
+64532.0,1.0,2.0,No Periodontitis,28,67,24,True
+64536.0,1.0,2.0,No Periodontitis,5,17,5,True
+64540.0,3.0,2.0,,0,0,0,False
+64544.0,1.0,2.0,Moderate,12,48,12,True
+64548.0,1.0,2.0,Moderate,23,82,23,True
+64549.0,1.0,2.0,Moderate,28,104,28,True
+64550.0,1.0,2.0,Moderate,17,68,17,True
+64552.0,1.0,2.0,,0,0,0,False
+64553.0,1.0,2.0,,0,0,0,False
+64558.0,1.0,2.0,Moderate,26,99,26,True
+64559.0,1.0,2.0,Moderate,20,75,20,True
+64564.0,1.0,2.0,No Periodontitis,28,112,28,True
+64567.0,1.0,2.0,Moderate,28,100,28,True
+64570.0,1.0,2.0,,0,0,0,False
+64572.0,1.0,2.0,Moderate,22,86,22,True
+64576.0,3.0,1.0,,25,0,0,False
+64581.0,1.0,2.0,No Periodontitis,28,112,28,True
+64582.0,1.0,2.0,Moderate,24,96,24,True
+64584.0,1.0,2.0,No Periodontitis,21,77,21,True
+64585.0,3.0,2.0,,0,0,0,False
+64591.0,1.0,2.0,Severe,20,71,20,True
+64593.0,3.0,2.0,,0,0,0,False
+64598.0,1.0,2.0,No Periodontitis,28,92,28,True
+64599.0,1.0,2.0,Moderate,28,112,28,True
+64602.0,1.0,2.0,Severe,27,91,27,True
+64603.0,3.0,2.0,,0,0,0,False
+64604.0,1.0,2.0,No Periodontitis,21,84,21,True
+64606.0,3.0,2.0,,0,0,0,False
+64607.0,1.0,2.0,Moderate,26,71,22,True
+64609.0,1.0,2.0,Severe,23,89,23,True
+64610.0,1.0,2.0,Moderate,28,108,28,True
+64611.0,1.0,2.0,Severe,16,64,16,True
+64617.0,1.0,2.0,Moderate,17,67,17,True
+64620.0,1.0,2.0,Severe,24,85,25,True
+64621.0,1.0,2.0,No Periodontitis,27,99,27,True
+64625.0,1.0,2.0,,0,0,0,False
+64628.0,2.0,2.0,Moderate,27,69,20,False
+64634.0,1.0,2.0,,0,0,0,False
+64637.0,1.0,2.0,Moderate,16,47,16,True
+64639.0,1.0,2.0,Moderate,26,104,26,True
+64640.0,3.0,1.0,,17,0,0,False
+64643.0,1.0,2.0,No Periodontitis,26,92,26,True
+64644.0,1.0,2.0,No Periodontitis,24,91,24,True
+64646.0,1.0,2.0,Moderate,25,96,25,True
+64648.0,1.0,2.0,No Periodontitis,28,112,28,True
+64651.0,1.0,2.0,Moderate,21,79,21,True
+64654.0,1.0,2.0,Moderate,11,44,11,True
+64656.0,3.0,2.0,,0,0,0,False
+64658.0,3.0,2.0,,0,0,0,False
+64663.0,3.0,2.0,,0,0,0,False
+64664.0,1.0,2.0,No Periodontitis,27,102,27,True
+64667.0,1.0,2.0,Severe,28,111,28,True
+64669.0,1.0,2.0,No Periodontitis,22,87,22,True
+64674.0,1.0,2.0,No Periodontitis,25,88,25,True
+64675.0,1.0,2.0,No Periodontitis,24,90,24,True
+64676.0,1.0,2.0,No Periodontitis,21,50,19,True
+64677.0,1.0,2.0,Moderate,27,108,27,True
+64679.0,1.0,2.0,No Periodontitis,25,96,25,True
+64680.0,1.0,2.0,No Periodontitis,28,102,28,True
+64682.0,1.0,2.0,No Periodontitis,28,83,28,True
+64689.0,1.0,2.0,No Periodontitis,27,106,27,True
+64695.0,3.0,2.0,,0,0,0,False
+64701.0,1.0,2.0,,0,0,0,False
+64704.0,1.0,2.0,Moderate,17,66,17,True
+64705.0,1.0,2.0,No Periodontitis,8,32,8,True
+64709.0,1.0,2.0,,0,0,0,False
+64711.0,3.0,2.0,,28,0,0,False
+64713.0,3.0,1.0,,21,0,0,False
+64719.0,1.0,2.0,No Periodontitis,28,107,28,True
+64721.0,1.0,2.0,,0,0,0,False
+64722.0,1.0,2.0,Moderate,28,106,28,True
+64725.0,1.0,2.0,No Periodontitis,24,96,24,True
+64726.0,1.0,2.0,Moderate,19,69,19,True
+64727.0,1.0,2.0,Moderate,15,57,15,True
+64729.0,1.0,2.0,,0,0,0,False
+64731.0,1.0,2.0,No Periodontitis,28,88,25,True
+64733.0,1.0,2.0,Mild,28,110,28,True
+64734.0,1.0,2.0,Moderate,20,76,20,True
+64740.0,1.0,2.0,Severe,14,54,14,True
+64741.0,3.0,2.0,,28,0,0,False
+64742.0,1.0,2.0,No Periodontitis,25,94,25,True
+64745.0,3.0,1.0,,0,0,0,False
+64752.0,1.0,2.0,Moderate,20,60,20,True
+64753.0,3.0,2.0,,0,0,0,False
+64754.0,1.0,2.0,Moderate,21,66,18,True
+64756.0,3.0,1.0,,17,0,0,False
+64758.0,1.0,2.0,No Periodontitis,27,93,27,True
+64759.0,1.0,2.0,,0,0,0,False
+64764.0,1.0,2.0,No Periodontitis,22,85,22,True
+64765.0,1.0,2.0,No Periodontitis,28,102,28,True
+64769.0,1.0,2.0,No Periodontitis,21,73,21,True
+64771.0,1.0,2.0,Moderate,26,92,26,True
+64772.0,1.0,2.0,Severe,25,84,24,True
+64777.0,1.0,2.0,No Periodontitis,27,87,27,True
+64779.0,1.0,2.0,Moderate,28,104,28,True
+64782.0,1.0,2.0,Moderate,20,69,19,True
+64785.0,1.0,2.0,,0,0,0,False
+64786.0,1.0,2.0,No Periodontitis,24,91,24,True
+64789.0,1.0,2.0,No Periodontitis,23,80,23,True
+64792.0,1.0,2.0,Moderate,18,60,18,True
+64795.0,1.0,2.0,No Periodontitis,4,19,5,True
+64800.0,1.0,2.0,Severe,16,55,16,True
+64801.0,1.0,2.0,No Periodontitis,21,83,21,True
+64802.0,1.0,2.0,Moderate,28,102,28,True
+64803.0,1.0,2.0,No Periodontitis,28,112,28,True
+64805.0,1.0,2.0,Moderate,21,63,17,True
+64806.0,1.0,2.0,Moderate,21,84,21,True
+64807.0,1.0,2.0,No Periodontitis,28,112,28,True
+64808.0,1.0,2.0,Moderate,28,104,28,True
+64813.0,1.0,2.0,Moderate,18,72,18,True
+64821.0,1.0,2.0,No Periodontitis,17,68,17,True
+64822.0,1.0,2.0,Severe,10,40,10,True
+64823.0,1.0,2.0,No Periodontitis,28,96,28,True
+64824.0,3.0,2.0,,0,0,0,False
+64825.0,1.0,2.0,No Periodontitis,28,95,25,True
+64826.0,3.0,1.0,,21,0,0,False
+64828.0,3.0,2.0,,0,0,0,False
+64832.0,1.0,2.0,Mild,27,87,27,True
+64833.0,1.0,2.0,Moderate,27,99,27,True
+64835.0,3.0,1.0,,25,0,0,False
+64839.0,1.0,2.0,No Periodontitis,28,112,28,True
+64843.0,1.0,2.0,Moderate,21,68,21,True
+64846.0,1.0,2.0,Severe,25,76,21,True
+64848.0,1.0,2.0,,0,0,0,False
+64851.0,3.0,2.0,,0,0,0,False
+64854.0,1.0,2.0,Moderate,4,16,4,True
+64856.0,2.0,2.0,,26,0,0,False
+64857.0,1.0,2.0,No Periodontitis,24,87,24,True
+64858.0,1.0,2.0,,0,0,0,False
+64859.0,1.0,2.0,Moderate,26,95,26,True
+64860.0,1.0,2.0,Moderate,22,37,14,True
+64862.0,1.0,2.0,Moderate,28,97,28,True
+64867.0,1.0,2.0,Moderate,5,20,5,True
+64870.0,1.0,2.0,,0,0,0,False
+64871.0,1.0,2.0,No Periodontitis,28,85,25,True
+64873.0,1.0,2.0,No Periodontitis,28,111,28,True
+64875.0,1.0,2.0,No Periodontitis,28,112,28,True
+64876.0,1.0,2.0,Moderate,25,69,23,True
+64877.0,1.0,2.0,No Periodontitis,24,79,23,True
+64880.0,1.0,2.0,Severe,17,68,17,True
+64881.0,1.0,2.0,Moderate,28,100,28,True
+64882.0,1.0,2.0,No Periodontitis,28,112,28,True
+64886.0,1.0,2.0,Moderate,10,31,8,True
+64889.0,1.0,2.0,Moderate,11,37,11,True
+64895.0,1.0,2.0,Severe,18,72,18,True
+64897.0,1.0,2.0,Severe,26,89,25,True
+64898.0,1.0,2.0,Moderate,21,71,21,True
+64902.0,1.0,2.0,Moderate,19,68,19,True
+64903.0,1.0,2.0,,0,0,0,False
+64904.0,3.0,2.0,,0,0,0,False
+64906.0,1.0,2.0,,0,0,0,False
+64908.0,1.0,2.0,No Periodontitis,26,100,26,True
+64909.0,1.0,2.0,Severe,17,59,17,True
+64914.0,1.0,2.0,Moderate,28,96,28,True
+64916.0,1.0,2.0,Moderate,26,104,26,True
+64923.0,1.0,2.0,Moderate,7,20,7,True
+64928.0,1.0,2.0,Severe,20,61,16,True
+64930.0,1.0,2.0,,0,0,0,False
+64931.0,1.0,2.0,Moderate,7,28,7,True
+64933.0,1.0,2.0,No Periodontitis,28,101,28,True
+64937.0,1.0,2.0,No Periodontitis,28,112,28,True
+64938.0,1.0,2.0,Moderate,28,104,28,True
+64942.0,1.0,2.0,Severe,21,71,20,True
+64946.0,1.0,2.0,Moderate,7,25,7,True
+64948.0,1.0,2.0,No Periodontitis,24,92,24,True
+64953.0,1.0,2.0,No Periodontitis,28,102,28,True
+64954.0,1.0,2.0,Moderate,26,82,25,True
+64956.0,1.0,2.0,No Periodontitis,26,98,26,True
+64961.0,1.0,2.0,Severe,23,92,23,True
+64962.0,1.0,2.0,No Periodontitis,28,112,28,True
+64963.0,1.0,2.0,No Periodontitis,28,104,28,True
+64964.0,1.0,2.0,No Periodontitis,2,7,2,True
+64968.0,1.0,2.0,No Periodontitis,27,85,25,True
+64971.0,1.0,2.0,Moderate,25,99,25,True
+64972.0,1.0,2.0,Moderate,24,80,24,True
+64973.0,1.0,2.0,,0,0,0,False
+64974.0,1.0,2.0,Mild,25,100,25,True
+64975.0,1.0,2.0,Moderate,25,87,25,True
+64976.0,1.0,2.0,,24,0,0,False
+64977.0,1.0,2.0,No Periodontitis,6,20,6,True
+64978.0,1.0,2.0,No Periodontitis,17,68,17,True
+64979.0,3.0,2.0,,0,0,0,False
+64980.0,1.0,2.0,Moderate,21,73,21,True
+64981.0,1.0,2.0,Moderate,27,107,27,True
+64983.0,3.0,1.0,,0,0,0,False
+64985.0,1.0,2.0,Severe,17,56,16,True
+64992.0,1.0,2.0,No Periodontitis,19,73,19,True
+64995.0,1.0,2.0,,0,0,0,False
+64998.0,1.0,2.0,Moderate,25,73,24,True
+64999.0,1.0,2.0,No Periodontitis,26,104,26,True
+65002.0,1.0,2.0,No Periodontitis,21,83,21,True
+65005.0,1.0,2.0,No Periodontitis,25,82,25,True
+65006.0,1.0,2.0,No Periodontitis,27,99,27,True
+65009.0,1.0,2.0,Moderate,26,94,26,True
+65011.0,1.0,2.0,,0,0,0,False
+65012.0,3.0,2.0,,0,0,0,False
+65014.0,1.0,2.0,Mild,15,57,15,True
+65020.0,1.0,2.0,,0,0,0,False
+65021.0,1.0,2.0,Moderate,28,102,28,True
+65025.0,1.0,2.0,No Periodontitis,27,99,27,True
+65028.0,1.0,2.0,,0,0,0,False
+65032.0,1.0,2.0,,0,0,0,False
+65036.0,3.0,2.0,,0,0,0,False
+65040.0,1.0,2.0,Moderate,25,94,25,True
+65045.0,1.0,2.0,No Periodontitis,1,2,1,True
+65046.0,1.0,2.0,No Periodontitis,25,99,25,True
+65047.0,1.0,2.0,No Periodontitis,22,74,21,True
+65048.0,1.0,2.0,Moderate,25,88,25,True
+65050.0,3.0,2.0,,0,0,0,False
+65051.0,1.0,2.0,Moderate,20,76,20,True
+65052.0,1.0,2.0,No Periodontitis,26,75,26,True
+65056.0,1.0,2.0,,0,0,0,False
+65058.0,3.0,1.0,,24,0,0,False
+65061.0,1.0,2.0,No Periodontitis,28,91,28,True
+65065.0,1.0,2.0,No Periodontitis,24,96,24,True
+65066.0,1.0,2.0,Severe,19,74,19,True
+65067.0,1.0,2.0,No Periodontitis,28,88,28,True
+65069.0,1.0,2.0,Moderate,10,40,10,True
+65071.0,1.0,2.0,,0,0,0,False
+65074.0,3.0,2.0,,0,0,0,False
+65075.0,1.0,2.0,No Periodontitis,28,103,28,True
+65076.0,1.0,2.0,Moderate,27,78,23,True
+65077.0,1.0,2.0,Moderate,22,85,22,True
+65078.0,1.0,2.0,No Periodontitis,25,100,25,True
+65079.0,1.0,2.0,Moderate,20,79,20,True
+65080.0,1.0,2.0,,0,0,0,False
+65085.0,3.0,2.0,,0,0,0,False
+65086.0,1.0,2.0,No Periodontitis,28,112,28,True
+65087.0,1.0,2.0,,0,0,0,False
+65088.0,1.0,2.0,No Periodontitis,25,100,25,True
+65091.0,1.0,2.0,No Periodontitis,17,65,18,True
+65095.0,1.0,2.0,Mild,22,80,22,True
+65097.0,3.0,1.0,,24,0,0,False
+65098.0,1.0,2.0,No Periodontitis,15,53,15,True
+65101.0,1.0,2.0,Moderate,26,98,26,True
+65102.0,1.0,2.0,No Periodontitis,28,107,28,True
+65106.0,1.0,2.0,No Periodontitis,27,97,27,True
+65112.0,1.0,2.0,Moderate,22,85,22,True
+65113.0,1.0,2.0,Moderate,24,80,24,True
+65114.0,3.0,2.0,,0,0,0,False
+65119.0,1.0,2.0,No Periodontitis,28,105,28,True
+65125.0,1.0,2.0,No Periodontitis,27,102,27,True
+65126.0,1.0,2.0,No Periodontitis,28,79,26,True
+65129.0,1.0,2.0,Moderate,17,54,17,True
+65132.0,1.0,2.0,Moderate,28,112,28,True
+65133.0,1.0,2.0,No Periodontitis,19,66,19,True
+65135.0,1.0,2.0,Moderate,28,104,28,True
+65139.0,1.0,2.0,,0,0,0,False
+65143.0,1.0,2.0,,0,0,0,False
+65144.0,1.0,2.0,Mild,10,33,10,True
+65145.0,1.0,2.0,Severe,7,26,7,True
+65149.0,1.0,2.0,Moderate,27,107,27,True
+65150.0,1.0,2.0,No Periodontitis,22,88,22,True
+65153.0,1.0,2.0,Moderate,27,107,27,True
+65156.0,1.0,2.0,Severe,28,100,28,True
+65157.0,1.0,2.0,Moderate,19,69,19,True
+65161.0,1.0,2.0,,11,0,0,False
+65162.0,1.0,2.0,No Periodontitis,22,87,22,True
+65163.0,3.0,2.0,,21,0,0,False
+65164.0,1.0,2.0,Severe,23,53,16,True
+65165.0,1.0,2.0,No Periodontitis,21,80,21,True
+65169.0,1.0,2.0,Moderate,17,59,17,True
+65172.0,1.0,2.0,No Periodontitis,28,94,28,True
+65173.0,3.0,2.0,,28,0,0,False
+65174.0,1.0,2.0,No Periodontitis,27,100,27,True
+65175.0,1.0,2.0,Moderate,8,30,8,True
+65176.0,1.0,2.0,Moderate,28,109,28,True
+65179.0,1.0,2.0,No Periodontitis,28,106,28,True
+65182.0,1.0,2.0,Moderate,16,60,16,True
+65183.0,1.0,2.0,Moderate,28,101,28,True
+65184.0,1.0,2.0,Severe,25,100,25,True
+65188.0,1.0,2.0,No Periodontitis,28,98,28,True
+65189.0,1.0,2.0,Moderate,26,89,26,True
+65190.0,1.0,2.0,Moderate,8,30,8,True
+65191.0,1.0,2.0,No Periodontitis,24,91,24,True
+65192.0,1.0,2.0,Severe,19,70,19,True
+65194.0,1.0,2.0,No Periodontitis,24,93,24,True
+65195.0,2.0,2.0,,26,0,0,False
+65198.0,1.0,2.0,Moderate,27,96,27,True
+65199.0,1.0,2.0,No Periodontitis,24,90,24,True
+65201.0,3.0,1.0,,7,0,0,False
+65202.0,1.0,2.0,Moderate,14,56,14,True
+65205.0,1.0,2.0,Moderate,23,74,23,True
+65209.0,1.0,2.0,Moderate,20,80,20,True
+65210.0,3.0,1.0,,25,0,0,False
+65213.0,1.0,2.0,No Periodontitis,5,18,5,True
+65214.0,1.0,2.0,No Periodontitis,28,88,27,True
+65218.0,1.0,2.0,Moderate,22,77,22,True
+65220.0,1.0,2.0,Moderate,28,104,28,True
+65225.0,1.0,2.0,No Periodontitis,28,105,28,True
+65227.0,1.0,2.0,Moderate,27,91,27,True
+65228.0,1.0,2.0,Mild,28,89,28,True
+65229.0,1.0,2.0,No Periodontitis,28,109,28,True
+65230.0,1.0,2.0,Moderate,27,102,27,True
+65231.0,1.0,2.0,Severe,28,112,28,True
+65233.0,1.0,2.0,No Periodontitis,28,76,26,True
+65234.0,1.0,2.0,Moderate,19,56,16,True
+65236.0,1.0,2.0,Severe,6,24,6,True
+65239.0,3.0,2.0,,0,0,0,False
+65240.0,1.0,2.0,,0,0,0,False
+65241.0,1.0,2.0,Moderate,28,109,28,True
+65243.0,1.0,2.0,No Periodontitis,25,75,25,True
+65244.0,1.0,2.0,,0,0,0,False
+65248.0,1.0,2.0,,0,0,0,False
+65250.0,1.0,2.0,Severe,28,112,28,True
+65255.0,1.0,2.0,No Periodontitis,27,96,27,True
+65256.0,1.0,2.0,No Periodontitis,28,77,27,True
+65260.0,3.0,1.0,,0,0,0,False
+65261.0,1.0,2.0,Moderate,27,106,27,True
+65262.0,1.0,2.0,Moderate,25,77,25,True
+65264.0,1.0,2.0,No Periodontitis,26,104,26,True
+65265.0,1.0,2.0,No Periodontitis,23,86,23,True
+65266.0,1.0,2.0,No Periodontitis,23,92,23,True
+65267.0,1.0,2.0,No Periodontitis,28,104,28,True
+65280.0,3.0,2.0,,0,0,0,False
+65283.0,3.0,2.0,,0,0,0,False
+65285.0,1.0,2.0,No Periodontitis,17,64,17,True
+65286.0,1.0,2.0,Moderate,28,112,28,True
+65288.0,1.0,2.0,No Periodontitis,28,99,28,True
+65289.0,3.0,1.0,,15,0,0,False
+65293.0,1.0,2.0,,0,0,0,False
+65296.0,3.0,2.0,,0,0,0,False
+65297.0,1.0,2.0,Moderate,2,8,2,True
+65298.0,1.0,2.0,No Periodontitis,28,97,28,True
+65301.0,1.0,2.0,Moderate,20,74,20,True
+65304.0,3.0,2.0,,0,0,0,False
+65306.0,1.0,2.0,No Periodontitis,26,97,26,True
+65308.0,1.0,2.0,Moderate,18,72,18,True
+65310.0,1.0,2.0,Moderate,23,86,23,True
+65316.0,1.0,2.0,Severe,25,94,25,True
+65318.0,1.0,2.0,No Periodontitis,26,90,26,True
+65319.0,1.0,2.0,Severe,23,91,23,True
+65320.0,1.0,2.0,No Periodontitis,25,82,25,True
+65325.0,1.0,2.0,Severe,14,56,14,True
+65326.0,3.0,2.0,,0,0,0,False
+65327.0,1.0,2.0,Moderate,26,88,26,True
+65328.0,1.0,2.0,Severe,14,47,14,True
+65331.0,1.0,2.0,No Periodontitis,16,61,17,True
+65334.0,3.0,1.0,,19,0,0,False
+65335.0,1.0,2.0,Moderate,10,39,10,True
+65337.0,1.0,2.0,No Periodontitis,23,73,23,True
+65339.0,1.0,2.0,No Periodontitis,28,109,28,True
+65341.0,1.0,2.0,No Periodontitis,27,100,26,True
+65344.0,1.0,2.0,Severe,7,24,6,True
+65346.0,1.0,2.0,Mild,24,93,24,True
+65347.0,1.0,2.0,No Periodontitis,28,95,28,True
+65348.0,1.0,2.0,No Periodontitis,26,104,26,True
+65351.0,1.0,2.0,No Periodontitis,28,111,28,True
+65352.0,1.0,2.0,Moderate,27,102,27,True
+65353.0,1.0,2.0,No Periodontitis,26,103,26,True
+65355.0,1.0,2.0,No Periodontitis,27,85,27,True
+65358.0,1.0,2.0,No Periodontitis,28,67,23,True
+65366.0,1.0,2.0,Severe,23,76,23,True
+65372.0,1.0,2.0,No Periodontitis,28,92,27,True
+65373.0,1.0,2.0,No Periodontitis,28,109,28,True
+65374.0,1.0,2.0,Moderate,16,63,16,True
+65375.0,3.0,1.0,,24,0,0,False
+65384.0,3.0,2.0,,0,0,0,False
+65388.0,3.0,2.0,,0,0,0,False
+65389.0,1.0,2.0,No Periodontitis,28,84,28,True
+65391.0,1.0,2.0,Severe,19,73,19,True
+65392.0,1.0,2.0,Severe,28,95,27,True
+65393.0,3.0,1.0,,0,0,0,False
+65394.0,1.0,2.0,Moderate,28,104,28,True
+65395.0,1.0,2.0,,0,0,0,False
+65396.0,1.0,2.0,Moderate,17,53,17,True
+65398.0,1.0,2.0,Moderate,8,21,8,True
+65399.0,1.0,2.0,Severe,25,93,24,True
+65401.0,3.0,1.0,,27,0,0,False
+65402.0,1.0,2.0,Severe,27,104,27,True
+65403.0,1.0,2.0,Moderate,12,39,12,True
+65407.0,1.0,2.0,Severe,24,68,21,True
+65410.0,1.0,2.0,Moderate,16,49,15,True
+65412.0,3.0,2.0,,0,0,0,False
+65417.0,1.0,2.0,Severe,17,64,17,True
+65421.0,1.0,2.0,Moderate,10,39,10,True
+65423.0,1.0,2.0,Moderate,17,67,17,True
+65427.0,1.0,2.0,Moderate,18,68,18,True
+65430.0,1.0,2.0,No Periodontitis,28,101,28,True
+65431.0,1.0,2.0,Moderate,23,90,23,True
+65433.0,2.0,2.0,,27,0,0,False
+65434.0,1.0,2.0,No Periodontitis,26,102,26,True
+65440.0,1.0,2.0,Moderate,8,28,8,True
+65443.0,1.0,2.0,No Periodontitis,28,81,27,True
+65446.0,1.0,2.0,Severe,4,16,4,True
+65447.0,2.0,2.0,,20,0,0,False
+65448.0,3.0,1.0,,23,0,0,False
+65450.0,1.0,2.0,No Periodontitis,27,108,27,True
+65451.0,1.0,2.0,No Periodontitis,28,82,26,True
+65453.0,1.0,2.0,Moderate,3,4,2,True
+65454.0,1.0,2.0,No Periodontitis,28,112,28,True
+65458.0,1.0,2.0,No Periodontitis,27,103,27,True
+65460.0,1.0,2.0,Moderate,20,80,20,True
+65461.0,1.0,2.0,,0,0,0,False
+65462.0,1.0,2.0,No Periodontitis,28,100,28,True
+65469.0,1.0,2.0,Moderate,26,84,26,True
+65473.0,1.0,2.0,,0,0,0,False
+65474.0,1.0,2.0,,0,0,0,False
+65475.0,1.0,2.0,Moderate,28,104,28,True
+65476.0,1.0,2.0,No Periodontitis,26,100,25,True
+65477.0,1.0,2.0,No Periodontitis,28,107,28,True
+65478.0,1.0,2.0,Moderate,15,60,15,True
+65479.0,2.0,2.0,,26,0,0,False
+65481.0,1.0,2.0,Severe,9,34,9,True
+65485.0,1.0,2.0,No Periodontitis,28,107,28,True
+65486.0,1.0,2.0,No Periodontitis,26,88,25,True
+65488.0,1.0,2.0,Mild,24,87,24,True
+65492.0,1.0,2.0,No Periodontitis,11,42,11,True
+65497.0,1.0,2.0,Moderate,26,55,20,True
+65498.0,1.0,2.0,Moderate,26,80,26,True
+65500.0,1.0,2.0,Moderate,18,72,18,True
+65503.0,1.0,2.0,Moderate,24,96,24,True
+65505.0,1.0,2.0,Moderate,24,85,24,True
+65506.0,1.0,2.0,Severe,24,70,21,True
+65508.0,1.0,2.0,Moderate,28,93,28,True
+65510.0,1.0,2.0,,0,0,0,False
+65512.0,1.0,2.0,No Periodontitis,28,108,28,True
+65513.0,1.0,2.0,Moderate,27,99,27,True
+65514.0,1.0,2.0,Moderate,27,88,27,True
+65518.0,1.0,2.0,Moderate,28,71,26,True
+65520.0,1.0,2.0,Moderate,20,79,20,True
+65522.0,1.0,2.0,No Periodontitis,8,24,8,True
+65524.0,1.0,2.0,Moderate,25,94,25,True
+65525.0,1.0,2.0,Moderate,20,60,19,True
+65530.0,1.0,2.0,Moderate,20,77,20,True
+65534.0,1.0,2.0,Moderate,26,93,25,True
+65536.0,3.0,2.0,,0,0,0,False
+65547.0,1.0,2.0,Moderate,18,68,18,True
+65548.0,1.0,2.0,No Periodontitis,28,107,28,True
+65549.0,1.0,2.0,Moderate,13,49,13,True
+65550.0,1.0,2.0,Moderate,26,96,26,True
+65553.0,3.0,2.0,,0,0,0,False
+65554.0,1.0,2.0,Moderate,8,28,8,True
+65557.0,1.0,2.0,Moderate,26,101,26,True
+65558.0,1.0,2.0,No Periodontitis,28,101,28,True
+65561.0,1.0,2.0,,0,0,0,False
+65562.0,1.0,2.0,No Periodontitis,23,86,23,True
+65564.0,1.0,2.0,No Periodontitis,25,99,25,True
+65566.0,1.0,2.0,No Periodontitis,28,90,28,True
+65568.0,1.0,2.0,No Periodontitis,23,87,23,True
+65571.0,1.0,2.0,No Periodontitis,26,88,26,True
+65572.0,1.0,2.0,Moderate,23,87,22,True
+65573.0,1.0,2.0,Moderate,22,88,22,True
+65577.0,1.0,2.0,Severe,25,89,25,True
+65581.0,1.0,2.0,Moderate,23,92,23,True
+65585.0,1.0,2.0,Moderate,20,76,20,True
+65586.0,1.0,2.0,No Periodontitis,28,98,27,True
+65587.0,1.0,2.0,Moderate,24,96,24,True
+65589.0,1.0,2.0,No Periodontitis,22,80,22,True
+65590.0,1.0,2.0,,0,0,0,False
+65592.0,1.0,2.0,,0,0,0,False
+65593.0,1.0,2.0,Moderate,26,100,26,True
+65594.0,1.0,2.0,Severe,13,52,13,True
+65596.0,1.0,2.0,No Periodontitis,22,80,22,True
+65599.0,1.0,2.0,No Periodontitis,27,108,27,True
+65603.0,1.0,2.0,Moderate,22,83,22,True
+65605.0,1.0,2.0,No Periodontitis,28,105,28,True
+65606.0,3.0,2.0,,0,0,0,False
+65613.0,1.0,2.0,No Periodontitis,28,98,28,True
+65617.0,1.0,2.0,No Periodontitis,28,111,28,True
+65621.0,3.0,2.0,,0,0,0,False
+65628.0,1.0,2.0,No Periodontitis,17,66,17,True
+65629.0,1.0,2.0,Moderate,27,81,27,True
+65632.0,1.0,2.0,Moderate,24,87,24,True
+65633.0,3.0,2.0,,26,0,0,False
+65634.0,1.0,2.0,Severe,15,59,15,True
+65636.0,1.0,2.0,Moderate,28,110,28,True
+65637.0,1.0,2.0,,0,0,0,False
+65640.0,1.0,2.0,,0,0,0,False
+65641.0,1.0,2.0,Moderate,24,79,23,True
+65642.0,1.0,2.0,No Periodontitis,28,106,28,True
+65643.0,1.0,2.0,No Periodontitis,26,91,26,True
+65645.0,1.0,2.0,No Periodontitis,9,25,8,True
+65648.0,1.0,2.0,,0,0,0,False
+65649.0,3.0,1.0,,28,0,0,False
+65650.0,1.0,2.0,No Periodontitis,25,84,25,True
+65653.0,1.0,2.0,Moderate,26,104,26,True
+65655.0,1.0,2.0,Severe,20,77,20,True
+65658.0,1.0,2.0,No Periodontitis,28,82,26,True
+65659.0,1.0,2.0,Moderate,27,108,27,True
+65660.0,1.0,2.0,,0,0,0,False
+65661.0,1.0,2.0,Moderate,19,67,19,True
+65662.0,1.0,2.0,Moderate,28,107,28,True
+65669.0,1.0,2.0,No Periodontitis,28,91,28,True
+65674.0,1.0,2.0,,0,0,0,False
+65675.0,1.0,2.0,Moderate,27,103,27,True
+65676.0,1.0,2.0,No Periodontitis,28,107,28,True
+65678.0,1.0,2.0,Severe,20,74,20,True
+65679.0,3.0,2.0,,0,0,0,False
+65680.0,1.0,2.0,No Periodontitis,24,88,24,True
+65682.0,1.0,2.0,No Periodontitis,28,110,28,True
+65683.0,1.0,2.0,No Periodontitis,27,104,27,True
+65687.0,2.0,2.0,,11,0,0,False
+65688.0,1.0,2.0,No Periodontitis,24,88,24,True
+65699.0,1.0,2.0,Mild,28,84,26,True
+65702.0,1.0,2.0,No Periodontitis,28,104,28,True
+65705.0,1.0,2.0,Moderate,14,43,14,True
+65707.0,1.0,2.0,Moderate,26,99,26,True
+65708.0,1.0,2.0,,0,0,0,False
+65711.0,1.0,2.0,No Periodontitis,27,108,27,True
+65712.0,1.0,2.0,,0,0,0,False
+65713.0,1.0,2.0,,0,0,0,False
+65714.0,1.0,2.0,Moderate,27,80,25,True
+65716.0,1.0,2.0,Moderate,27,85,26,True
+65719.0,3.0,2.0,,0,0,0,False
+65722.0,1.0,2.0,Moderate,15,36,15,True
+65730.0,1.0,2.0,No Periodontitis,27,108,27,True
+65735.0,1.0,2.0,No Periodontitis,25,82,25,True
+65736.0,3.0,2.0,,0,0,0,False
+65737.0,1.0,2.0,Moderate,19,61,19,True
+65738.0,1.0,2.0,No Periodontitis,28,85,27,True
+65739.0,3.0,1.0,,10,0,0,False
+65740.0,1.0,2.0,Moderate,20,74,20,True
+65742.0,1.0,2.0,No Periodontitis,28,99,28,True
+65743.0,3.0,1.0,,28,0,0,False
+65748.0,1.0,2.0,,0,0,0,False
+65751.0,1.0,2.0,Severe,18,71,18,True
+65753.0,1.0,2.0,Moderate,24,94,24,True
+65754.0,1.0,2.0,Moderate,17,48,15,True
+65757.0,3.0,1.0,,21,0,0,False
+65758.0,3.0,2.0,,0,0,0,False
+65760.0,1.0,2.0,No Periodontitis,28,112,28,True
+65761.0,1.0,2.0,No Periodontitis,28,103,28,True
+65763.0,1.0,2.0,No Periodontitis,21,79,21,True
+65764.0,1.0,2.0,No Periodontitis,14,51,14,True
+65768.0,1.0,2.0,No Periodontitis,28,88,28,True
+65769.0,1.0,2.0,Moderate,28,112,28,True
+65770.0,1.0,2.0,Severe,21,83,21,True
+65771.0,1.0,2.0,Severe,27,107,27,True
+65772.0,1.0,2.0,,0,0,0,False
+65773.0,3.0,2.0,,28,0,0,False
+65775.0,1.0,2.0,No Periodontitis,7,28,7,True
+65781.0,1.0,2.0,No Periodontitis,7,28,7,True
+65782.0,1.0,2.0,Moderate,19,74,19,True
+65784.0,1.0,2.0,Severe,9,36,9,True
+65787.0,1.0,2.0,No Periodontitis,28,111,28,True
+65796.0,1.0,2.0,Severe,15,55,14,True
+65797.0,1.0,2.0,No Periodontitis,25,99,25,True
+65800.0,3.0,1.0,,26,0,0,False
+65804.0,1.0,2.0,No Periodontitis,22,74,21,True
+65807.0,1.0,2.0,Moderate,28,100,28,True
+65808.0,1.0,2.0,Moderate,23,92,23,True
+65812.0,1.0,2.0,No Periodontitis,28,108,28,True
+65820.0,3.0,1.0,,0,0,0,False
+65822.0,1.0,2.0,Moderate,21,78,21,True
+65823.0,1.0,2.0,Moderate,28,101,28,True
+65824.0,1.0,2.0,Moderate,28,108,28,True
+65827.0,1.0,2.0,Moderate,25,100,25,True
+65832.0,2.0,2.0,,19,0,0,False
+65837.0,1.0,2.0,,0,0,0,False
+65838.0,1.0,2.0,Moderate,28,108,28,True
+65841.0,1.0,2.0,No Periodontitis,24,76,23,True
+65844.0,3.0,2.0,,14,0,0,False
+65846.0,1.0,2.0,No Periodontitis,24,80,24,True
+65849.0,1.0,2.0,,0,0,0,False
+65850.0,1.0,2.0,Moderate,24,91,24,True
+65854.0,1.0,2.0,No Periodontitis,28,112,28,True
+65856.0,1.0,2.0,Severe,28,81,24,True
+65857.0,1.0,2.0,No Periodontitis,28,107,28,True
+65862.0,1.0,2.0,Moderate,8,28,8,True
+65863.0,1.0,2.0,No Periodontitis,28,112,28,True
+65865.0,3.0,2.0,,0,0,0,False
+65867.0,1.0,2.0,Moderate,9,34,9,True
+65868.0,1.0,2.0,Moderate,23,89,23,True
+65869.0,1.0,2.0,Moderate,9,23,8,True
+65873.0,3.0,2.0,,0,0,0,False
+65874.0,1.0,2.0,No Periodontitis,28,97,28,True
+65876.0,1.0,2.0,Moderate,25,87,23,True
+65877.0,1.0,2.0,Moderate,28,87,24,True
+65879.0,1.0,2.0,No Periodontitis,28,112,28,True
+65883.0,1.0,2.0,No Periodontitis,27,108,27,True
+65885.0,1.0,2.0,Moderate,5,20,5,True
+65889.0,1.0,2.0,No Periodontitis,28,111,28,True
+65892.0,3.0,1.0,,24,0,0,False
+65893.0,2.0,2.0,,20,0,0,False
+65895.0,1.0,2.0,Moderate,24,95,24,True
+65896.0,1.0,2.0,No Periodontitis,22,77,22,True
+65898.0,1.0,2.0,Severe,28,103,28,True
+65905.0,3.0,2.0,,0,0,0,False
+65909.0,1.0,2.0,Mild,28,62,26,True
+65910.0,1.0,2.0,No Periodontitis,28,84,28,True
+65911.0,1.0,2.0,,0,0,0,False
+65914.0,1.0,2.0,No Periodontitis,6,22,6,True
+65915.0,1.0,2.0,Moderate,28,79,27,True
+65918.0,1.0,2.0,No Periodontitis,28,105,28,True
+65919.0,3.0,2.0,,0,0,0,False
+65920.0,1.0,2.0,Mild,28,99,27,True
+65921.0,1.0,2.0,No Periodontitis,27,86,26,True
+65923.0,1.0,2.0,Moderate,26,97,26,True
+65927.0,2.0,2.0,,18,0,0,False
+65928.0,1.0,2.0,Moderate,28,106,28,True
+65929.0,1.0,2.0,Moderate,20,75,20,True
+65930.0,1.0,2.0,,0,0,0,False
+65937.0,2.0,2.0,,6,0,0,False
+65944.0,1.0,2.0,Moderate,28,101,28,True
+65946.0,1.0,2.0,No Periodontitis,28,106,28,True
+65950.0,1.0,2.0,Severe,27,101,27,True
+65951.0,1.0,2.0,No Periodontitis,27,102,27,True
+65954.0,3.0,1.0,,26,0,0,False
+65955.0,1.0,2.0,Moderate,25,92,25,True
+65956.0,1.0,2.0,Severe,27,108,27,True
+65957.0,1.0,2.0,No Periodontitis,28,110,28,True
+65962.0,1.0,2.0,No Periodontitis,17,48,17,True
+65963.0,3.0,2.0,,0,0,0,False
+65967.0,1.0,2.0,No Periodontitis,28,105,28,True
+65971.0,1.0,2.0,No Periodontitis,28,107,28,True
+65974.0,1.0,2.0,No Periodontitis,28,99,28,True
+65975.0,1.0,2.0,No Periodontitis,27,80,27,True
+65978.0,1.0,2.0,Severe,10,39,10,True
+65980.0,1.0,2.0,Moderate,27,87,27,True
+65986.0,1.0,2.0,No Periodontitis,28,101,28,True
+65990.0,3.0,2.0,,0,0,0,False
+65992.0,1.0,2.0,,0,0,0,False
+65993.0,1.0,2.0,No Periodontitis,27,92,27,True
+65994.0,1.0,2.0,Moderate,13,47,13,True
+65998.0,1.0,2.0,Moderate,14,56,14,True
+65999.0,3.0,2.0,,0,0,0,False
+66000.0,1.0,2.0,No Periodontitis,27,98,27,True
+66001.0,3.0,1.0,,28,0,0,False
+66008.0,1.0,2.0,No Periodontitis,27,91,27,True
+66010.0,1.0,2.0,Moderate,24,89,24,True
+66015.0,1.0,2.0,Severe,26,104,26,True
+66021.0,1.0,2.0,No Periodontitis,27,98,27,True
+66022.0,2.0,2.0,No Periodontitis,28,28,7,False
+66026.0,3.0,2.0,,0,0,0,False
+66027.0,1.0,2.0,Moderate,28,105,28,True
+66028.0,1.0,2.0,No Periodontitis,28,89,27,True
+66031.0,3.0,2.0,,0,0,0,False
+66032.0,1.0,2.0,No Periodontitis,26,53,24,True
+66033.0,3.0,1.0,,28,0,0,False
+66036.0,1.0,2.0,Moderate,27,102,27,True
+66041.0,1.0,2.0,Severe,25,100,25,True
+66043.0,1.0,2.0,Moderate,18,72,18,True
+66045.0,2.0,2.0,,21,0,0,False
+66049.0,1.0,2.0,No Periodontitis,21,81,21,True
+66050.0,1.0,2.0,,0,0,0,False
+66051.0,1.0,2.0,No Periodontitis,28,111,28,True
+66052.0,1.0,2.0,No Periodontitis,28,89,28,True
+66053.0,1.0,2.0,Moderate,23,86,23,True
+66054.0,3.0,2.0,,28,0,0,False
+66056.0,1.0,2.0,No Periodontitis,26,91,26,True
+66057.0,3.0,2.0,,0,0,0,False
+66058.0,1.0,2.0,No Periodontitis,21,74,21,True
+66059.0,1.0,2.0,Moderate,27,87,27,True
+66061.0,1.0,2.0,,0,0,0,False
+66066.0,2.0,2.0,,26,0,0,False
+66068.0,1.0,2.0,,0,0,0,False
+66070.0,1.0,2.0,Moderate,22,76,21,True
+66071.0,1.0,2.0,,0,0,0,False
+66073.0,3.0,2.0,,0,0,0,False
+66075.0,1.0,2.0,No Periodontitis,16,53,16,True
+66077.0,1.0,2.0,No Periodontitis,26,83,25,True
+66079.0,1.0,2.0,No Periodontitis,5,20,5,True
+66084.0,1.0,2.0,Moderate,7,28,7,True
+66089.0,1.0,2.0,Moderate,28,99,28,True
+66091.0,3.0,2.0,,27,0,0,False
+66092.0,1.0,2.0,No Periodontitis,24,71,21,True
+66093.0,1.0,2.0,No Periodontitis,28,104,28,True
+66095.0,1.0,2.0,Moderate,28,112,28,True
+66104.0,1.0,2.0,,0,0,0,False
+66108.0,3.0,2.0,,0,0,0,False
+66109.0,1.0,2.0,Moderate,22,64,18,True
+66110.0,3.0,2.0,,20,0,0,False
+66113.0,1.0,2.0,No Periodontitis,28,90,28,True
+66114.0,1.0,2.0,Moderate,26,104,26,True
+66115.0,1.0,2.0,No Periodontitis,28,93,28,True
+66116.0,3.0,2.0,,15,0,0,False
+66121.0,1.0,2.0,No Periodontitis,28,97,28,True
+66124.0,1.0,2.0,Severe,28,110,28,True
+66125.0,1.0,2.0,No Periodontitis,27,98,27,True
+66126.0,1.0,2.0,No Periodontitis,10,40,10,True
+66127.0,1.0,2.0,Severe,26,101,26,True
+66129.0,1.0,2.0,No Periodontitis,28,94,28,True
+66131.0,3.0,2.0,,19,0,0,False
+66133.0,1.0,2.0,Mild,26,95,26,True
+66138.0,1.0,2.0,No Periodontitis,26,94,26,True
+66139.0,1.0,2.0,Moderate,27,103,27,True
+66140.0,1.0,2.0,Severe,13,46,13,True
+66141.0,1.0,2.0,,0,0,0,False
+66147.0,1.0,2.0,No Periodontitis,26,98,26,True
+66150.0,1.0,2.0,,0,0,0,False
+66151.0,3.0,2.0,,28,0,0,False
+66152.0,1.0,2.0,Moderate,26,100,26,True
+66153.0,2.0,2.0,,20,0,0,False
+66154.0,1.0,2.0,,0,0,0,False
+66157.0,1.0,2.0,,0,0,0,False
+66160.0,1.0,2.0,No Periodontitis,26,92,26,True
+66161.0,3.0,1.0,,14,0,0,False
+66162.0,1.0,2.0,No Periodontitis,20,74,20,True
+66169.0,3.0,2.0,,21,0,0,False
+66173.0,1.0,2.0,No Periodontitis,26,104,26,True
+66177.0,1.0,2.0,Moderate,21,74,21,True
+66178.0,1.0,2.0,Moderate,5,20,5,True
+66186.0,1.0,2.0,Moderate,14,44,14,True
+66189.0,1.0,2.0,Moderate,26,95,26,True
+66191.0,1.0,2.0,Moderate,20,68,20,True
+66192.0,1.0,2.0,Moderate,14,51,14,True
+66194.0,1.0,2.0,No Periodontitis,28,64,26,True
+66196.0,3.0,2.0,,0,0,0,False
+66197.0,2.0,2.0,,25,0,0,False
+66198.0,1.0,2.0,Severe,23,89,23,True
+66199.0,1.0,2.0,No Periodontitis,26,97,26,True
+66201.0,1.0,2.0,Moderate,26,91,26,True
+66202.0,3.0,2.0,,0,0,0,False
+66204.0,1.0,2.0,No Periodontitis,28,101,28,True
+66206.0,1.0,2.0,No Periodontitis,26,92,26,True
+66207.0,1.0,2.0,Moderate,2,8,2,True
+66208.0,1.0,2.0,Severe,6,8,4,True
+66210.0,1.0,2.0,No Periodontitis,9,23,8,True
+66214.0,1.0,2.0,,0,0,0,False
+66215.0,1.0,2.0,No Periodontitis,13,49,15,True
+66217.0,1.0,2.0,Moderate,28,103,28,True
+66218.0,3.0,1.0,,20,0,0,False
+66219.0,1.0,2.0,No Periodontitis,28,84,25,True
+66221.0,1.0,2.0,Severe,20,64,20,True
+66222.0,1.0,2.0,Severe,23,72,23,True
+66224.0,1.0,2.0,No Periodontitis,26,98,26,True
+66227.0,3.0,2.0,,0,0,0,False
+66229.0,1.0,2.0,Mild,27,97,27,True
+66230.0,1.0,2.0,Moderate,22,79,22,True
+66235.0,2.0,2.0,,28,0,0,False
+66237.0,3.0,2.0,,0,0,0,False
+66238.0,1.0,2.0,No Periodontitis,25,97,25,True
+66239.0,1.0,2.0,Moderate,20,79,20,True
+66240.0,1.0,2.0,No Periodontitis,28,85,28,True
+66241.0,3.0,2.0,,0,0,0,False
+66243.0,1.0,2.0,No Periodontitis,28,106,28,True
+66245.0,3.0,2.0,,0,0,0,False
+66246.0,1.0,2.0,,0,0,0,False
+66247.0,1.0,2.0,Severe,10,34,10,True
+66251.0,1.0,2.0,Moderate,28,101,28,True
+66253.0,1.0,2.0,No Periodontitis,28,96,28,True
+66254.0,1.0,2.0,Moderate,9,33,9,True
+66256.0,1.0,2.0,Moderate,22,83,22,True
+66259.0,1.0,2.0,No Periodontitis,28,107,28,True
+66261.0,2.0,2.0,Severe,19,56,18,False
+66263.0,1.0,2.0,No Periodontitis,24,90,24,True
+66264.0,3.0,2.0,,0,0,0,False
+66268.0,1.0,2.0,Mild,28,94,27,True
+66270.0,1.0,2.0,Severe,26,95,26,True
+66271.0,1.0,2.0,,0,0,0,False
+66276.0,1.0,2.0,Moderate,25,84,25,True
+66278.0,1.0,2.0,No Periodontitis,21,78,21,True
+66279.0,1.0,2.0,Moderate,20,80,20,True
+66280.0,1.0,2.0,,0,0,0,False
+66281.0,1.0,2.0,Moderate,23,85,23,True
+66283.0,1.0,2.0,No Periodontitis,28,112,28,True
+66285.0,1.0,2.0,No Periodontitis,28,80,27,True
+66287.0,1.0,2.0,No Periodontitis,28,102,28,True
+66289.0,1.0,2.0,No Periodontitis,23,92,23,True
+66290.0,3.0,1.0,,28,0,0,False
+66291.0,1.0,2.0,No Periodontitis,27,105,27,True
+66293.0,1.0,2.0,No Periodontitis,22,68,22,True
+66294.0,1.0,2.0,Moderate,3,9,3,True
+66295.0,1.0,2.0,No Periodontitis,19,74,19,True
+66296.0,1.0,2.0,No Periodontitis,28,110,28,True
+66297.0,3.0,2.0,,12,0,0,False
+66298.0,1.0,2.0,Moderate,26,93,26,True
+66300.0,1.0,2.0,No Periodontitis,28,110,28,True
+66302.0,1.0,2.0,Severe,21,53,20,True
+66304.0,1.0,2.0,No Periodontitis,28,104,28,True
+66306.0,1.0,2.0,Mild,23,81,23,True
+66307.0,3.0,1.0,,26,0,0,False
+66308.0,1.0,2.0,,0,0,0,False
+66309.0,1.0,2.0,Moderate,28,90,28,True
+66310.0,1.0,2.0,No Periodontitis,25,84,24,True
+66311.0,1.0,2.0,No Periodontitis,25,78,25,True
+66312.0,1.0,2.0,Moderate,25,83,25,True
+66317.0,1.0,2.0,No Periodontitis,24,64,24,True
+66321.0,1.0,2.0,Moderate,22,87,22,True
+66323.0,1.0,2.0,Moderate,18,72,18,True
+66326.0,1.0,2.0,Severe,26,82,23,True
+66327.0,1.0,2.0,No Periodontitis,27,79,26,True
+66331.0,1.0,2.0,Moderate,24,92,25,True
+66334.0,1.0,2.0,Moderate,28,85,28,True
+66335.0,1.0,2.0,Moderate,28,101,28,True
+66336.0,1.0,2.0,No Periodontitis,17,60,17,True
+66338.0,1.0,2.0,No Periodontitis,28,82,27,True
+66341.0,1.0,2.0,No Periodontitis,28,97,28,True
+66342.0,3.0,1.0,,23,0,0,False
+66347.0,1.0,2.0,,0,0,0,False
+66351.0,1.0,2.0,No Periodontitis,27,96,27,True
+66355.0,1.0,2.0,Severe,22,79,22,True
+66358.0,1.0,2.0,Moderate,25,100,25,True
+66362.0,1.0,2.0,No Periodontitis,26,98,26,True
+66369.0,1.0,2.0,Severe,20,74,19,True
+66371.0,1.0,2.0,,0,0,0,False
+66373.0,1.0,2.0,Moderate,14,54,14,True
+66375.0,1.0,2.0,No Periodontitis,23,85,23,True
+66377.0,1.0,2.0,Moderate,15,58,15,True
+66378.0,1.0,2.0,No Periodontitis,28,92,28,True
+66381.0,1.0,2.0,Moderate,23,87,23,True
+66382.0,1.0,2.0,No Periodontitis,21,66,20,True
+66384.0,1.0,2.0,No Periodontitis,28,104,28,True
+66385.0,3.0,2.0,,11,0,0,False
+66386.0,1.0,2.0,No Periodontitis,25,90,25,True
+66389.0,3.0,1.0,,28,0,0,False
+66393.0,1.0,2.0,No Periodontitis,28,86,26,True
+66395.0,1.0,2.0,No Periodontitis,28,94,28,True
+66396.0,1.0,2.0,Severe,25,99,25,True
+66397.0,1.0,2.0,Moderate,20,82,21,True
+66398.0,1.0,2.0,,0,0,0,False
+66399.0,1.0,2.0,Moderate,7,28,7,True
+66402.0,1.0,2.0,No Periodontitis,13,38,13,True
+66404.0,1.0,2.0,No Periodontitis,28,100,28,True
+66405.0,3.0,2.0,,0,0,0,False
+66409.0,1.0,2.0,No Periodontitis,16,66,20,True
+66410.0,3.0,2.0,,28,0,0,False
+66412.0,1.0,2.0,Moderate,28,101,28,True
+66416.0,1.0,2.0,No Periodontitis,28,82,25,True
+66421.0,3.0,1.0,,28,0,0,False
+66422.0,3.0,2.0,,0,0,0,False
+66425.0,3.0,2.0,,0,0,0,False
+66427.0,1.0,2.0,Moderate,18,53,15,True
+66429.0,1.0,2.0,Severe,7,28,7,True
+66436.0,3.0,2.0,,0,0,0,False
+66438.0,1.0,2.0,No Periodontitis,24,61,23,True
+66439.0,1.0,2.0,Moderate,27,108,27,True
+66441.0,1.0,2.0,Moderate,3,12,3,True
+66442.0,1.0,2.0,No Periodontitis,26,90,26,True
+66443.0,1.0,2.0,No Periodontitis,23,74,22,True
+66444.0,1.0,2.0,No Periodontitis,28,103,28,True
+66448.0,1.0,2.0,Moderate,27,102,27,True
+66449.0,1.0,2.0,Severe,26,74,21,True
+66451.0,1.0,2.0,No Periodontitis,28,112,28,True
+66456.0,1.0,2.0,Moderate,17,66,17,True
+66457.0,1.0,2.0,,0,0,0,False
+66458.0,3.0,1.0,,18,0,0,False
+66460.0,1.0,2.0,No Periodontitis,25,92,25,True
+66462.0,3.0,2.0,,0,0,0,False
+66465.0,1.0,2.0,No Periodontitis,24,94,24,True
+66467.0,3.0,1.0,,24,0,0,False
+66470.0,1.0,2.0,No Periodontitis,27,94,27,True
+66472.0,3.0,2.0,,26,0,0,False
+66473.0,1.0,2.0,No Periodontitis,28,74,25,True
+66474.0,1.0,2.0,Moderate,25,91,25,True
+66475.0,3.0,2.0,,11,0,0,False
+66476.0,1.0,2.0,Severe,25,97,25,True
+66485.0,1.0,2.0,No Periodontitis,28,53,22,True
+66487.0,1.0,2.0,Moderate,27,65,22,True
+66491.0,1.0,2.0,No Periodontitis,28,82,24,True
+66494.0,1.0,2.0,No Periodontitis,26,96,26,True
+66495.0,1.0,2.0,Moderate,6,19,6,True
+66503.0,1.0,2.0,Severe,25,95,25,True
+66504.0,1.0,2.0,Moderate,27,100,27,True
+66505.0,1.0,2.0,No Periodontitis,26,102,26,True
+66507.0,1.0,2.0,Severe,27,100,27,True
+66509.0,1.0,2.0,,0,0,0,False
+66511.0,1.0,2.0,Moderate,22,77,22,True
+66513.0,1.0,2.0,Moderate,5,20,5,True
+66514.0,1.0,2.0,Moderate,21,84,21,True
+66515.0,1.0,2.0,No Periodontitis,24,91,24,True
+66518.0,1.0,2.0,,0,0,0,False
+66520.0,1.0,2.0,No Periodontitis,24,91,24,True
+66522.0,1.0,2.0,No Periodontitis,28,72,26,True
+66523.0,3.0,1.0,,25,0,0,False
+66524.0,1.0,2.0,Severe,21,80,21,True
+66525.0,1.0,2.0,Moderate,23,84,23,True
+66527.0,1.0,2.0,Moderate,14,55,14,True
+66531.0,1.0,2.0,No Periodontitis,27,89,27,True
+66532.0,1.0,2.0,No Periodontitis,27,99,27,True
+66533.0,1.0,2.0,,0,0,0,False
+66536.0,3.0,2.0,,24,0,0,False
+66538.0,2.0,2.0,,26,0,0,False
+66541.0,1.0,2.0,,0,0,0,False
+66542.0,1.0,2.0,Moderate,4,16,4,True
+66543.0,1.0,2.0,No Periodontitis,28,94,28,True
+66544.0,1.0,2.0,No Periodontitis,28,98,28,True
+66547.0,1.0,2.0,No Periodontitis,24,92,24,True
+66550.0,1.0,2.0,No Periodontitis,20,80,20,True
+66552.0,1.0,2.0,Moderate,26,100,26,True
+66553.0,3.0,2.0,,0,0,0,False
+66554.0,1.0,2.0,Mild,26,97,26,True
+66556.0,1.0,2.0,No Periodontitis,28,104,28,True
+66558.0,1.0,2.0,No Periodontitis,26,91,24,True
+66559.0,1.0,2.0,No Periodontitis,27,108,27,True
+66561.0,1.0,2.0,Moderate,28,79,28,True
+66563.0,1.0,2.0,Moderate,22,88,22,True
+66564.0,1.0,2.0,No Periodontitis,24,82,24,True
+66565.0,1.0,2.0,Severe,27,101,27,True
+66568.0,1.0,2.0,Moderate,26,101,26,True
+66569.0,1.0,2.0,,0,0,0,False
+66573.0,1.0,2.0,Severe,16,45,15,True
+66575.0,1.0,2.0,No Periodontitis,24,84,24,True
+66582.0,1.0,2.0,No Periodontitis,28,112,28,True
+66583.0,1.0,2.0,Moderate,20,73,20,True
+66584.0,1.0,2.0,Mild,28,107,28,True
+66585.0,1.0,2.0,No Periodontitis,28,93,28,True
+66587.0,1.0,2.0,No Periodontitis,28,110,28,True
+66591.0,1.0,2.0,No Periodontitis,28,98,28,True
+66594.0,1.0,2.0,Moderate,18,72,18,True
+66597.0,1.0,2.0,Severe,28,104,28,True
+66598.0,1.0,2.0,No Periodontitis,28,103,28,True
+66599.0,1.0,2.0,No Periodontitis,26,104,26,True
+66600.0,1.0,2.0,No Periodontitis,28,82,27,True
+66602.0,1.0,2.0,No Periodontitis,26,87,26,True
+66603.0,2.0,2.0,,23,0,0,False
+66609.0,1.0,2.0,Severe,24,95,24,True
+66612.0,3.0,2.0,,0,0,0,False
+66614.0,1.0,2.0,No Periodontitis,26,101,26,True
+66619.0,1.0,2.0,Moderate,22,85,22,True
+66620.0,1.0,2.0,Moderate,28,95,25,True
+66623.0,3.0,1.0,,19,0,0,False
+66628.0,1.0,2.0,No Periodontitis,28,83,28,True
+66630.0,1.0,2.0,Moderate,22,87,22,True
+66631.0,1.0,2.0,Moderate,14,49,14,True
+66632.0,3.0,2.0,,0,0,0,False
+66633.0,1.0,2.0,Moderate,28,104,28,True
+66635.0,1.0,2.0,,0,0,0,False
+66640.0,1.0,2.0,No Periodontitis,27,81,26,True
+66641.0,1.0,2.0,No Periodontitis,28,96,28,True
+66642.0,1.0,2.0,No Periodontitis,27,92,27,True
+66643.0,1.0,2.0,No Periodontitis,17,51,16,True
+66644.0,1.0,2.0,No Periodontitis,23,81,23,True
+66646.0,3.0,2.0,,0,0,0,False
+66649.0,1.0,2.0,Severe,12,48,12,True
+66653.0,1.0,2.0,Moderate,24,88,24,True
+66654.0,1.0,2.0,Severe,17,64,17,True
+66655.0,1.0,2.0,No Periodontitis,22,79,22,True
+66660.0,1.0,2.0,Moderate,26,93,26,True
+66661.0,1.0,2.0,Severe,21,83,21,True
+66662.0,1.0,2.0,No Periodontitis,28,91,28,True
+66663.0,1.0,2.0,No Periodontitis,28,106,28,True
+66668.0,1.0,2.0,No Periodontitis,28,99,28,True
+66669.0,3.0,2.0,,0,0,0,False
+66670.0,1.0,2.0,Moderate,27,100,27,True
+66671.0,1.0,2.0,No Periodontitis,28,112,28,True
+66672.0,1.0,2.0,No Periodontitis,25,85,24,True
+66674.0,1.0,2.0,,0,0,0,False
+66679.0,1.0,2.0,No Periodontitis,27,88,26,True
+66680.0,1.0,2.0,No Periodontitis,15,60,15,True
+66683.0,3.0,2.0,,14,0,0,False
+66686.0,1.0,2.0,No Periodontitis,24,86,24,True
+66687.0,3.0,2.0,,0,0,0,False
+66690.0,1.0,2.0,Severe,28,111,28,True
+66695.0,3.0,2.0,,27,0,0,False
+66699.0,1.0,2.0,No Periodontitis,28,112,28,True
+66701.0,1.0,2.0,Severe,18,67,18,True
+66702.0,1.0,2.0,Severe,26,87,26,True
+66708.0,1.0,2.0,Mild,28,85,28,True
+66710.0,1.0,2.0,Moderate,26,82,26,True
+66712.0,1.0,2.0,No Periodontitis,28,84,24,True
+66713.0,1.0,2.0,No Periodontitis,27,99,26,True
+66715.0,1.0,2.0,Moderate,20,79,20,True
+66716.0,3.0,2.0,,0,0,0,False
+66718.0,1.0,2.0,No Periodontitis,28,84,28,True
+66720.0,1.0,2.0,No Periodontitis,25,88,25,True
+66721.0,1.0,2.0,No Periodontitis,28,104,28,True
+66722.0,1.0,2.0,No Periodontitis,28,100,28,True
+66724.0,1.0,2.0,No Periodontitis,28,93,28,True
+66725.0,1.0,2.0,No Periodontitis,27,98,27,True
+66728.0,1.0,2.0,Moderate,27,93,27,True
+66729.0,1.0,2.0,No Periodontitis,28,90,28,True
+66731.0,1.0,2.0,No Periodontitis,28,107,28,True
+66733.0,3.0,2.0,,0,0,0,False
+66736.0,1.0,2.0,Moderate,23,90,23,True
+66738.0,3.0,2.0,,0,0,0,False
+66741.0,3.0,2.0,,0,0,0,False
+66743.0,1.0,2.0,,0,0,0,False
+66744.0,1.0,2.0,,0,0,0,False
+66747.0,1.0,2.0,Severe,28,103,28,True
+66748.0,1.0,2.0,Moderate,2,8,2,True
+66749.0,1.0,2.0,Moderate,21,81,21,True
+66750.0,1.0,2.0,Moderate,27,108,27,True
+66752.0,3.0,1.0,,23,0,0,False
+66754.0,1.0,2.0,Mild,28,108,28,True
+66755.0,1.0,2.0,No Periodontitis,27,64,25,True
+66758.0,1.0,2.0,Moderate,19,73,19,True
+66759.0,1.0,2.0,Moderate,24,79,21,True
+66763.0,1.0,2.0,Moderate,27,105,27,True
+66765.0,1.0,2.0,,0,0,0,False
+66766.0,1.0,2.0,Moderate,9,36,9,True
+66771.0,1.0,2.0,Moderate,28,111,28,True
+66777.0,1.0,2.0,Severe,17,44,11,True
+66781.0,1.0,2.0,Severe,18,72,18,True
+66785.0,1.0,2.0,Moderate,22,88,22,True
+66788.0,1.0,2.0,Severe,23,56,17,True
+66789.0,1.0,2.0,Moderate,27,104,27,True
+66793.0,1.0,2.0,No Periodontitis,19,76,19,True
+66796.0,3.0,1.0,,9,0,0,False
+66797.0,3.0,2.0,,0,0,0,False
+66798.0,1.0,2.0,Severe,15,59,15,True
+66802.0,1.0,2.0,No Periodontitis,26,99,26,True
+66804.0,1.0,2.0,,0,0,0,False
+66808.0,3.0,2.0,,0,0,0,False
+66817.0,1.0,2.0,,0,0,0,False
+66821.0,1.0,2.0,No Periodontitis,28,112,28,True
+66826.0,3.0,2.0,,0,0,0,False
+66832.0,3.0,1.0,,10,0,0,False
+66833.0,1.0,2.0,Mild,25,88,25,True
+66834.0,1.0,2.0,No Periodontitis,24,94,24,True
+66835.0,2.0,2.0,,21,0,0,False
+66838.0,3.0,2.0,,0,0,0,False
+66847.0,1.0,2.0,Mild,28,104,28,True
+66848.0,1.0,2.0,No Periodontitis,28,112,28,True
+66850.0,1.0,2.0,Moderate,26,85,23,True
+66851.0,1.0,2.0,Moderate,28,95,27,True
+66854.0,1.0,2.0,No Periodontitis,27,108,27,True
+66863.0,1.0,2.0,Moderate,25,100,25,True
+66869.0,1.0,2.0,Moderate,28,112,28,True
+66872.0,1.0,2.0,No Periodontitis,26,102,26,True
+66873.0,3.0,2.0,,28,0,0,False
+66874.0,1.0,2.0,No Periodontitis,28,112,28,True
+66875.0,1.0,2.0,Moderate,23,63,22,True
+66876.0,1.0,2.0,No Periodontitis,27,94,27,True
+66877.0,1.0,2.0,Moderate,27,108,27,True
+66879.0,1.0,2.0,No Periodontitis,28,108,28,True
+66881.0,1.0,2.0,No Periodontitis,28,89,25,True
+66883.0,1.0,2.0,Moderate,28,108,28,True
+66884.0,1.0,2.0,No Periodontitis,27,97,25,True
+66885.0,1.0,2.0,Severe,19,63,17,True
+66889.0,1.0,2.0,Moderate,25,98,25,True
+66893.0,2.0,2.0,,26,0,0,False
+66896.0,1.0,2.0,,0,0,0,False
+66898.0,1.0,2.0,No Periodontitis,28,94,27,True
+66901.0,1.0,2.0,No Periodontitis,23,87,23,True
+66902.0,1.0,2.0,No Periodontitis,23,87,23,True
+66903.0,3.0,2.0,,0,0,0,False
+66907.0,1.0,2.0,No Periodontitis,26,98,26,True
+66908.0,1.0,2.0,,0,0,0,False
+66911.0,1.0,2.0,Moderate,23,89,23,True
+66914.0,1.0,2.0,No Periodontitis,26,101,26,True
+66915.0,3.0,2.0,,0,0,0,False
+66918.0,1.0,2.0,No Periodontitis,27,104,27,True
+66920.0,1.0,2.0,No Periodontitis,4,14,4,True
+66921.0,1.0,2.0,No Periodontitis,28,85,26,True
+66923.0,1.0,2.0,No Periodontitis,28,108,28,True
+66924.0,3.0,2.0,,0,0,0,False
+66926.0,1.0,2.0,Moderate,5,18,5,True
+66928.0,3.0,2.0,,0,0,0,False
+66929.0,1.0,2.0,Moderate,14,55,14,True
+66930.0,1.0,2.0,Severe,26,74,26,True
+66932.0,1.0,2.0,Moderate,17,57,17,True
+66933.0,1.0,2.0,No Periodontitis,28,111,28,True
+66937.0,1.0,2.0,Moderate,28,97,27,True
+66938.0,1.0,2.0,Moderate,26,101,26,True
+66942.0,1.0,2.0,Moderate,6,17,6,True
+66943.0,1.0,2.0,Moderate,19,73,19,True
+66944.0,1.0,2.0,No Periodontitis,23,66,22,True
+66945.0,1.0,2.0,Severe,24,96,24,True
+66946.0,3.0,2.0,,28,0,0,False
+66947.0,1.0,2.0,Severe,24,89,24,True
+66949.0,1.0,2.0,No Periodontitis,22,87,22,True
+66950.0,1.0,2.0,,0,0,0,False
+66955.0,1.0,2.0,Moderate,24,96,24,True
+66957.0,1.0,2.0,No Periodontitis,24,93,24,True
+66958.0,1.0,2.0,Moderate,25,94,25,True
+66959.0,1.0,2.0,No Periodontitis,26,104,26,True
+66961.0,1.0,2.0,No Periodontitis,28,80,28,True
+66967.0,1.0,2.0,No Periodontitis,28,104,28,True
+66973.0,1.0,2.0,No Periodontitis,27,90,26,True
+66974.0,1.0,2.0,,0,0,0,False
+66981.0,1.0,2.0,No Periodontitis,28,103,28,True
+66982.0,1.0,2.0,,0,0,0,False
+66984.0,1.0,2.0,Moderate,23,74,23,True
+66985.0,2.0,2.0,,26,0,0,False
+66988.0,1.0,2.0,Mild,27,90,27,True
+66993.0,1.0,2.0,Moderate,21,72,21,True
+66994.0,1.0,2.0,No Periodontitis,25,87,25,True
+66995.0,1.0,2.0,No Periodontitis,28,93,25,True
+67000.0,1.0,2.0,No Periodontitis,24,95,24,True
+67001.0,1.0,2.0,,0,0,0,False
+67002.0,1.0,2.0,No Periodontitis,26,64,24,True
+67003.0,3.0,2.0,,0,0,0,False
+67007.0,1.0,2.0,Moderate,28,112,28,True
+67009.0,1.0,2.0,No Periodontitis,21,65,21,True
+67011.0,1.0,2.0,Severe,22,88,22,True
+67012.0,1.0,2.0,Mild,27,88,26,True
+67014.0,2.0,2.0,,24,0,0,False
+67020.0,3.0,1.0,,27,0,0,False
+67021.0,1.0,2.0,No Periodontitis,25,87,25,True
+67022.0,1.0,2.0,,0,0,0,False
+67023.0,3.0,2.0,,0,0,0,False
+67025.0,1.0,2.0,Moderate,17,57,17,True
+67026.0,1.0,2.0,Moderate,28,111,28,True
+67032.0,1.0,2.0,Moderate,27,108,27,True
+67034.0,1.0,2.0,No Periodontitis,27,104,27,True
+67037.0,1.0,2.0,Moderate,25,96,25,True
+67039.0,1.0,2.0,No Periodontitis,28,87,25,True
+67041.0,1.0,2.0,Moderate,26,75,22,True
+67046.0,1.0,2.0,No Periodontitis,26,83,26,True
+67047.0,1.0,2.0,No Periodontitis,21,84,21,True
+67049.0,1.0,2.0,Moderate,2,8,2,True
+67051.0,1.0,2.0,No Periodontitis,28,97,28,True
+67052.0,1.0,2.0,,0,0,0,False
+67053.0,1.0,2.0,Moderate,3,12,3,True
+67055.0,1.0,2.0,,0,0,0,False
+67056.0,1.0,2.0,No Periodontitis,26,104,26,True
+67058.0,1.0,2.0,Moderate,26,82,25,True
+67061.0,1.0,2.0,No Periodontitis,24,92,24,True
+67064.0,1.0,2.0,No Periodontitis,28,101,28,True
+67065.0,1.0,2.0,No Periodontitis,25,94,25,True
+67066.0,1.0,2.0,,0,0,0,False
+67068.0,1.0,2.0,Severe,28,112,28,True
+67070.0,1.0,2.0,No Periodontitis,19,71,19,True
+67074.0,1.0,2.0,No Periodontitis,28,112,28,True
+67078.0,1.0,2.0,,0,0,0,False
+67079.0,1.0,2.0,No Periodontitis,22,81,22,True
+67081.0,1.0,2.0,Mild,23,78,23,True
+67088.0,1.0,2.0,No Periodontitis,28,112,28,True
+67092.0,1.0,2.0,Moderate,28,108,28,True
+67094.0,1.0,2.0,Moderate,18,68,18,True
+67095.0,1.0,2.0,No Periodontitis,28,107,28,True
+67098.0,1.0,2.0,,0,0,0,False
+67105.0,1.0,2.0,No Periodontitis,19,76,19,True
+67107.0,3.0,1.0,,0,0,0,False
+67112.0,1.0,2.0,No Periodontitis,26,104,26,True
+67113.0,1.0,2.0,No Periodontitis,28,103,28,True
+67115.0,1.0,2.0,,0,0,0,False
+67116.0,1.0,2.0,No Periodontitis,28,111,28,True
+67118.0,1.0,2.0,No Periodontitis,24,80,24,True
+67119.0,1.0,2.0,Moderate,28,105,28,True
+67121.0,1.0,2.0,No Periodontitis,24,91,24,True
+67123.0,1.0,2.0,No Periodontitis,26,94,26,True
+67128.0,2.0,2.0,,23,0,0,False
+67132.0,3.0,1.0,,28,0,0,False
+67133.0,1.0,2.0,No Periodontitis,28,97,28,True
+67135.0,1.0,2.0,Moderate,28,96,28,True
+67137.0,3.0,1.0,,3,0,0,False
+67141.0,1.0,2.0,No Periodontitis,28,112,28,True
+67143.0,3.0,2.0,,28,0,0,False
+67144.0,1.0,2.0,No Periodontitis,25,100,25,True
+67148.0,1.0,2.0,Moderate,6,24,6,True
+67149.0,1.0,2.0,,0,0,0,False
+67159.0,1.0,2.0,Moderate,8,34,9,True
+67165.0,1.0,2.0,Moderate,26,101,26,True
+67169.0,1.0,2.0,Moderate,28,106,28,True
+67171.0,1.0,2.0,No Periodontitis,21,78,21,True
+67175.0,1.0,2.0,Mild,28,96,28,True
+67177.0,1.0,2.0,No Periodontitis,3,6,3,True
+67180.0,1.0,2.0,Moderate,18,70,18,True
+67181.0,1.0,2.0,Moderate,28,110,28,True
+67182.0,1.0,2.0,Moderate,25,96,25,True
+67183.0,1.0,2.0,No Periodontitis,26,100,27,True
+67184.0,1.0,2.0,Moderate,24,90,24,True
+67185.0,1.0,2.0,Moderate,21,74,21,True
+67189.0,1.0,2.0,,0,0,0,False
+67190.0,1.0,2.0,No Periodontitis,28,96,28,True
+67191.0,1.0,2.0,No Periodontitis,24,47,21,True
+67192.0,3.0,1.0,,27,0,0,False
+67193.0,1.0,2.0,No Periodontitis,28,106,28,True
+67194.0,1.0,2.0,Moderate,28,83,27,True
+67195.0,1.0,2.0,No Periodontitis,28,111,28,True
+67197.0,2.0,2.0,,27,0,0,False
+67198.0,1.0,2.0,No Periodontitis,22,85,22,True
+67199.0,1.0,2.0,No Periodontitis,28,102,28,True
+67200.0,1.0,2.0,No Periodontitis,28,111,28,True
+67201.0,1.0,2.0,Moderate,27,73,24,True
+67203.0,1.0,2.0,No Periodontitis,28,63,28,True
+67208.0,1.0,2.0,Moderate,15,60,15,True
+67209.0,3.0,1.0,,28,0,0,False
+67210.0,1.0,2.0,Moderate,23,90,23,True
+67214.0,1.0,2.0,No Periodontitis,24,85,24,True
+67217.0,1.0,2.0,Severe,24,96,24,True
+67219.0,1.0,2.0,No Periodontitis,28,102,28,True
+67220.0,1.0,2.0,No Periodontitis,28,108,28,True
+67222.0,2.0,2.0,,5,0,0,False
+67223.0,1.0,2.0,Moderate,27,105,27,True
+67225.0,1.0,2.0,,0,0,0,False
+67226.0,3.0,2.0,,0,0,0,False
+67228.0,1.0,2.0,Moderate,27,108,27,True
+67229.0,1.0,2.0,Severe,11,44,11,True
+67230.0,3.0,1.0,,22,0,0,False
+67232.0,1.0,2.0,No Periodontitis,24,90,24,True
+67236.0,1.0,2.0,Moderate,28,109,28,True
+67237.0,1.0,2.0,Mild,27,102,27,True
+67239.0,3.0,2.0,,0,0,0,False
+67243.0,1.0,2.0,Moderate,10,37,10,True
+67249.0,1.0,2.0,Severe,28,97,28,True
+67250.0,1.0,2.0,No Periodontitis,28,112,28,True
+67255.0,1.0,2.0,Moderate,20,64,19,True
+67258.0,3.0,2.0,,21,0,0,False
+67259.0,1.0,2.0,No Periodontitis,28,79,25,True
+67261.0,1.0,2.0,,15,0,0,False
+67264.0,3.0,1.0,,15,0,0,False
+67266.0,1.0,2.0,Moderate,27,95,27,True
+67269.0,1.0,2.0,No Periodontitis,28,100,28,True
+67270.0,1.0,2.0,Moderate,21,76,21,True
+67273.0,1.0,2.0,Severe,27,103,27,True
+67274.0,1.0,2.0,No Periodontitis,22,62,21,True
+67275.0,1.0,2.0,Moderate,6,24,7,True
+67276.0,1.0,2.0,Moderate,19,57,18,True
+67279.0,1.0,2.0,No Periodontitis,28,83,28,True
+67281.0,3.0,2.0,,21,0,0,False
+67283.0,1.0,2.0,Moderate,27,88,27,True
+67285.0,1.0,2.0,No Periodontitis,26,96,26,True
+67291.0,1.0,2.0,No Periodontitis,25,95,25,True
+67293.0,3.0,1.0,,28,0,0,False
+67300.0,3.0,2.0,,0,0,0,False
+67306.0,1.0,2.0,Moderate,15,51,15,True
+67309.0,1.0,2.0,,0,0,0,False
+67310.0,1.0,2.0,Moderate,24,94,24,True
+67312.0,1.0,2.0,Severe,28,111,28,True
+67314.0,1.0,2.0,Moderate,15,58,15,True
+67315.0,1.0,2.0,Moderate,18,67,18,True
+67316.0,1.0,2.0,No Periodontitis,24,89,24,True
+67321.0,3.0,2.0,,25,0,0,False
+67326.0,1.0,2.0,Moderate,24,84,23,True
+67327.0,1.0,2.0,Moderate,28,85,28,True
+67329.0,1.0,2.0,Severe,21,84,21,True
+67330.0,1.0,2.0,Moderate,25,91,25,True
+67332.0,3.0,2.0,,0,0,0,False
+67333.0,1.0,2.0,No Periodontitis,27,108,27,True
+67335.0,1.0,2.0,No Periodontitis,28,112,28,True
+67337.0,1.0,2.0,No Periodontitis,22,75,22,True
+67339.0,3.0,2.0,,28,0,0,False
+67340.0,1.0,2.0,,10,0,0,False
+67341.0,3.0,1.0,,25,0,0,False
+67342.0,1.0,2.0,Moderate,14,55,14,True
+67343.0,1.0,2.0,Severe,22,85,22,True
+67344.0,1.0,2.0,Moderate,22,81,22,True
+67346.0,1.0,2.0,Moderate,20,80,20,True
+67347.0,1.0,2.0,No Periodontitis,8,30,8,True
+67349.0,1.0,2.0,Severe,24,82,24,True
+67352.0,1.0,2.0,No Periodontitis,28,87,28,True
+67353.0,1.0,2.0,Moderate,28,112,28,True
+67356.0,1.0,2.0,No Periodontitis,26,104,26,True
+67359.0,1.0,2.0,Moderate,24,65,21,True
+67361.0,3.0,2.0,,0,0,0,False
+67362.0,1.0,2.0,Severe,28,97,27,True
+67363.0,1.0,2.0,Severe,17,61,17,True
+67365.0,1.0,2.0,Moderate,27,98,27,True
+67367.0,1.0,2.0,No Periodontitis,28,108,28,True
+67370.0,1.0,2.0,Moderate,28,108,28,True
+67373.0,1.0,2.0,,0,0,0,False
+67375.0,1.0,2.0,Severe,23,92,23,True
+67376.0,1.0,2.0,No Periodontitis,24,63,21,True
+67380.0,1.0,2.0,Moderate,12,46,12,True
+67381.0,1.0,2.0,Moderate,15,58,15,True
+67385.0,1.0,2.0,Severe,22,83,22,True
+67386.0,1.0,2.0,Moderate,28,95,28,True
+67388.0,1.0,2.0,No Periodontitis,24,96,24,True
+67389.0,1.0,2.0,Moderate,9,34,9,True
+67390.0,1.0,2.0,Severe,26,98,25,True
+67391.0,1.0,2.0,No Periodontitis,28,92,28,True
+67392.0,1.0,2.0,No Periodontitis,28,102,28,True
+67395.0,1.0,2.0,Moderate,23,90,23,True
+67399.0,1.0,2.0,Moderate,5,19,5,True
+67400.0,1.0,2.0,,0,0,0,False
+67402.0,1.0,2.0,Severe,17,68,17,True
+67406.0,1.0,2.0,No Periodontitis,24,92,24,True
+67407.0,1.0,2.0,Moderate,8,32,8,True
+67408.0,1.0,2.0,No Periodontitis,27,105,27,True
+67409.0,3.0,2.0,,0,0,0,False
+67411.0,1.0,2.0,Moderate,20,80,20,True
+67412.0,1.0,2.0,,0,0,0,False
+67413.0,3.0,1.0,,0,0,0,False
+67414.0,1.0,2.0,,0,0,0,False
+67417.0,1.0,2.0,No Periodontitis,27,92,27,True
+67418.0,1.0,2.0,,0,0,0,False
+67424.0,3.0,2.0,,23,0,0,False
+67425.0,1.0,2.0,No Periodontitis,28,112,28,True
+67429.0,1.0,2.0,No Periodontitis,25,86,25,True
+67431.0,1.0,2.0,Severe,28,64,26,True
+67433.0,3.0,2.0,,0,0,0,False
+67434.0,1.0,2.0,No Periodontitis,28,101,28,True
+67435.0,1.0,2.0,No Periodontitis,15,58,15,True
+67438.0,1.0,2.0,No Periodontitis,20,78,20,True
+67439.0,1.0,2.0,Moderate,28,112,28,True
+67441.0,1.0,2.0,Severe,24,96,24,True
+67442.0,1.0,2.0,No Periodontitis,28,73,22,True
+67445.0,1.0,2.0,Moderate,28,110,28,True
+67446.0,1.0,2.0,No Periodontitis,26,79,25,True
+67447.0,1.0,2.0,No Periodontitis,28,105,28,True
+67449.0,1.0,2.0,No Periodontitis,28,107,28,True
+67450.0,1.0,2.0,,0,0,0,False
+67452.0,1.0,2.0,No Periodontitis,23,92,25,True
+67454.0,1.0,2.0,Moderate,24,88,24,True
+67455.0,1.0,2.0,,0,0,0,False
+67457.0,1.0,2.0,,0,0,0,False
+67460.0,1.0,2.0,No Periodontitis,26,92,26,True
+67462.0,1.0,2.0,Moderate,25,100,25,True
+67466.0,1.0,2.0,Moderate,26,99,26,True
+67470.0,1.0,2.0,Moderate,28,81,27,True
+67471.0,1.0,2.0,Severe,28,111,28,True
+67473.0,1.0,2.0,Moderate,5,17,5,True
+67474.0,1.0,2.0,Moderate,28,112,28,True
+67475.0,1.0,2.0,Severe,17,48,17,True
+67477.0,1.0,2.0,No Periodontitis,18,71,18,True
+67480.0,3.0,2.0,,0,0,0,False
+67481.0,1.0,2.0,No Periodontitis,22,62,22,True
+67483.0,1.0,2.0,,0,0,0,False
+67486.0,1.0,2.0,No Periodontitis,28,112,28,True
+67487.0,1.0,2.0,,0,0,0,False
+67489.0,3.0,1.0,,19,0,0,False
+67490.0,1.0,2.0,Moderate,20,80,20,True
+67492.0,1.0,2.0,No Periodontitis,28,102,28,True
+67493.0,1.0,2.0,Moderate,13,52,13,True
+67494.0,1.0,2.0,No Periodontitis,24,77,23,True
+67499.0,1.0,2.0,No Periodontitis,24,89,24,True
+67501.0,1.0,2.0,Moderate,21,80,21,True
+67502.0,1.0,2.0,Moderate,28,110,28,True
+67503.0,1.0,2.0,Moderate,24,91,24,True
+67504.0,1.0,2.0,No Periodontitis,27,96,27,True
+67505.0,1.0,2.0,No Periodontitis,28,95,27,True
+67509.0,1.0,2.0,Moderate,27,102,27,True
+67513.0,3.0,2.0,,22,0,0,False
+67515.0,1.0,2.0,Moderate,26,72,22,True
+67516.0,3.0,1.0,,17,0,0,False
+67517.0,1.0,2.0,No Periodontitis,25,85,25,True
+67519.0,1.0,2.0,No Periodontitis,2,1,1,True
+67520.0,2.0,2.0,,23,0,0,False
+67521.0,1.0,2.0,,0,0,0,False
+67525.0,1.0,2.0,Severe,28,112,28,True
+67526.0,1.0,2.0,Moderate,28,102,28,True
+67530.0,1.0,2.0,No Periodontitis,28,112,28,True
+67532.0,1.0,2.0,,0,0,0,False
+67534.0,1.0,2.0,Moderate,25,89,25,True
+67535.0,1.0,2.0,Moderate,24,96,24,True
+67537.0,1.0,2.0,No Periodontitis,28,98,28,True
+67542.0,3.0,2.0,,0,0,0,False
+67544.0,1.0,2.0,Moderate,22,71,22,True
+67546.0,1.0,2.0,No Periodontitis,25,100,25,True
+67548.0,3.0,1.0,,17,0,0,False
+67555.0,1.0,2.0,Moderate,10,41,11,True
+67560.0,1.0,2.0,No Periodontitis,22,65,22,True
+67563.0,1.0,2.0,Moderate,3,12,3,True
+67564.0,1.0,2.0,No Periodontitis,28,92,28,True
+67566.0,1.0,2.0,No Periodontitis,11,24,10,True
+67567.0,1.0,2.0,Moderate,23,80,23,True
+67571.0,1.0,2.0,No Periodontitis,28,107,28,True
+67573.0,3.0,1.0,,2,0,0,False
+67577.0,1.0,2.0,Moderate,26,92,26,True
+67580.0,1.0,2.0,No Periodontitis,28,104,28,True
+67584.0,1.0,2.0,Severe,26,64,18,True
+67585.0,1.0,2.0,No Periodontitis,27,108,27,True
+67586.0,1.0,2.0,Severe,6,24,6,True
+67587.0,1.0,2.0,No Periodontitis,25,71,22,True
+67589.0,1.0,2.0,No Periodontitis,1,4,1,True
+67590.0,1.0,2.0,Moderate,28,111,28,True
+67591.0,1.0,2.0,Severe,27,93,27,True
+67592.0,3.0,2.0,,0,0,0,False
+67594.0,1.0,2.0,No Periodontitis,28,83,26,True
+67595.0,1.0,2.0,No Periodontitis,28,98,28,True
+67596.0,1.0,2.0,Moderate,20,73,20,True
+67597.0,1.0,2.0,No Periodontitis,23,66,23,True
+67598.0,1.0,2.0,Moderate,7,27,7,True
+67602.0,1.0,2.0,Severe,28,90,28,True
+67603.0,1.0,2.0,No Periodontitis,27,106,27,True
+67606.0,1.0,2.0,Severe,7,28,7,True
+67607.0,1.0,2.0,No Periodontitis,24,64,23,True
+67614.0,1.0,2.0,Moderate,27,108,27,True
+67616.0,1.0,2.0,Moderate,7,28,7,True
+67618.0,3.0,2.0,,26,0,0,False
+67619.0,1.0,2.0,No Periodontitis,28,100,27,True
+67620.0,1.0,2.0,Moderate,24,91,24,True
+67624.0,1.0,2.0,No Periodontitis,27,98,27,True
+67625.0,1.0,2.0,Severe,10,38,10,True
+67629.0,1.0,2.0,Moderate,15,46,15,True
+67631.0,2.0,2.0,Severe,25,38,12,False
+67632.0,3.0,2.0,,0,0,0,False
+67635.0,1.0,2.0,Severe,21,82,21,True
+67640.0,1.0,2.0,Severe,12,48,12,True
+67643.0,1.0,2.0,Moderate,22,73,20,True
+67644.0,2.0,2.0,,23,0,0,False
+67646.0,1.0,2.0,Moderate,28,108,28,True
+67647.0,1.0,2.0,,0,0,0,False
+67649.0,1.0,2.0,No Periodontitis,28,112,28,True
+67652.0,1.0,2.0,Severe,21,84,21,True
+67653.0,3.0,1.0,,24,0,0,False
+67656.0,3.0,2.0,,0,0,0,False
+67658.0,1.0,2.0,Moderate,24,96,24,True
+67661.0,1.0,2.0,Moderate,21,84,21,True
+67665.0,3.0,2.0,,0,0,0,False
+67666.0,1.0,2.0,Moderate,14,54,14,True
+67668.0,1.0,2.0,No Periodontitis,19,54,18,True
+67670.0,1.0,2.0,Moderate,25,99,25,True
+67675.0,1.0,2.0,Moderate,5,10,3,True
+67677.0,1.0,2.0,No Periodontitis,25,100,25,True
+67681.0,1.0,2.0,No Periodontitis,28,71,24,True
+67683.0,2.0,2.0,No Periodontitis,12,24,6,False
+67690.0,1.0,2.0,Moderate,27,100,27,True
+67694.0,3.0,2.0,,0,0,0,False
+67696.0,1.0,2.0,Mild,26,104,26,True
+67698.0,1.0,2.0,No Periodontitis,20,73,20,True
+67699.0,1.0,2.0,No Periodontitis,24,96,24,True
+67700.0,3.0,2.0,,22,0,0,False
+67701.0,3.0,2.0,,0,0,0,False
+67703.0,1.0,2.0,Moderate,20,80,20,True
+67707.0,3.0,2.0,,0,0,0,False
+67708.0,1.0,2.0,Severe,20,31,13,True
+67709.0,1.0,2.0,Severe,24,82,24,True
+67710.0,1.0,2.0,No Periodontitis,28,87,28,True
+67713.0,1.0,2.0,No Periodontitis,28,100,28,True
+67714.0,1.0,2.0,,0,0,0,False
+67716.0,3.0,2.0,,0,0,0,False
+67717.0,1.0,2.0,Severe,28,106,28,True
+67718.0,1.0,2.0,Moderate,26,104,26,True
+67719.0,1.0,2.0,Severe,24,79,23,True
+67720.0,1.0,2.0,No Periodontitis,25,100,25,True
+67721.0,3.0,2.0,,0,0,0,False
+67726.0,3.0,2.0,,0,0,0,False
+67727.0,1.0,2.0,No Periodontitis,26,93,26,True
+67728.0,3.0,2.0,,0,0,0,False
+67732.0,1.0,2.0,No Periodontitis,3,19,6,True
+67740.0,3.0,2.0,,0,0,0,False
+67743.0,1.0,2.0,No Periodontitis,21,83,21,True
+67745.0,3.0,1.0,,0,0,0,False
+67754.0,1.0,2.0,Moderate,27,108,27,True
+67762.0,1.0,2.0,Moderate,28,105,28,True
+67763.0,1.0,2.0,Mild,24,87,24,True
+67764.0,2.0,2.0,,17,0,0,False
+67766.0,1.0,2.0,Moderate,20,68,20,True
+67767.0,3.0,1.0,,24,0,0,False
+67769.0,1.0,2.0,Severe,25,88,24,True
+67772.0,1.0,2.0,,0,0,0,False
+67773.0,1.0,2.0,No Periodontitis,15,59,15,True
+67774.0,1.0,2.0,No Periodontitis,28,99,28,True
+67776.0,1.0,2.0,No Periodontitis,28,108,28,True
+67778.0,1.0,2.0,Mild,28,72,28,True
+67779.0,1.0,2.0,No Periodontitis,28,77,27,True
+67781.0,1.0,2.0,No Periodontitis,24,50,15,True
+67782.0,1.0,2.0,No Periodontitis,26,95,26,True
+67785.0,1.0,2.0,,0,0,0,False
+67786.0,1.0,2.0,Moderate,23,81,23,True
+67787.0,1.0,2.0,No Periodontitis,28,101,28,True
+67788.0,1.0,2.0,Moderate,21,80,20,True
+67791.0,1.0,2.0,Moderate,27,104,27,True
+67793.0,1.0,2.0,No Periodontitis,28,104,28,True
+67794.0,3.0,2.0,,0,0,0,False
+67795.0,1.0,2.0,Moderate,28,95,28,True
+67797.0,1.0,2.0,Moderate,18,71,18,True
+67798.0,3.0,2.0,,0,0,0,False
+67799.0,2.0,2.0,No Periodontitis,25,19,5,False
+67808.0,2.0,2.0,,21,0,0,False
+67812.0,1.0,2.0,Severe,8,32,8,True
+67813.0,1.0,2.0,Moderate,16,60,16,True
+67817.0,1.0,2.0,Severe,13,22,9,True
+67819.0,1.0,2.0,,0,0,0,False
+67820.0,1.0,2.0,Moderate,21,74,21,True
+67822.0,3.0,2.0,,0,0,0,False
+67824.0,1.0,2.0,No Periodontitis,28,103,28,True
+67826.0,1.0,2.0,Moderate,28,98,27,True
+67827.0,1.0,2.0,No Periodontitis,27,106,27,True
+67828.0,1.0,2.0,Severe,21,83,21,True
+67832.0,1.0,2.0,,0,0,0,False
+67833.0,3.0,2.0,,25,0,0,False
+67834.0,1.0,2.0,No Periodontitis,28,102,28,True
+67838.0,1.0,2.0,Moderate,26,25,10,True
+67839.0,1.0,2.0,No Periodontitis,28,93,27,True
+67841.0,1.0,2.0,Severe,28,111,28,True
+67842.0,1.0,2.0,Moderate,27,108,27,True
+67845.0,1.0,2.0,No Periodontitis,21,64,21,True
+67847.0,1.0,2.0,No Periodontitis,28,107,27,True
+67848.0,1.0,2.0,Moderate,22,88,22,True
+67850.0,1.0,2.0,Moderate,23,45,15,True
+67853.0,1.0,2.0,Moderate,23,73,23,True
+67854.0,1.0,2.0,Moderate,23,92,23,True
+67855.0,1.0,2.0,Moderate,25,95,25,True
+67858.0,1.0,2.0,,0,0,0,False
+67861.0,1.0,2.0,No Periodontitis,28,59,24,True
+67863.0,1.0,2.0,No Periodontitis,28,89,28,True
+67865.0,1.0,2.0,No Periodontitis,28,93,28,True
+67866.0,1.0,2.0,No Periodontitis,28,109,28,True
+67872.0,1.0,2.0,No Periodontitis,8,32,8,True
+67873.0,1.0,2.0,No Periodontitis,27,108,27,True
+67874.0,3.0,2.0,,0,0,0,False
+67877.0,1.0,2.0,Moderate,18,68,18,True
+67879.0,1.0,2.0,No Periodontitis,26,89,26,True
+67885.0,1.0,2.0,Severe,8,32,8,True
+67887.0,1.0,2.0,Moderate,28,93,28,True
+67889.0,1.0,2.0,No Periodontitis,28,102,28,True
+67893.0,1.0,2.0,No Periodontitis,28,108,28,True
+67894.0,1.0,2.0,,0,0,0,False
+67897.0,1.0,2.0,No Periodontitis,27,96,27,True
+67898.0,1.0,2.0,Moderate,27,86,25,True
+67899.0,1.0,2.0,Moderate,15,58,15,True
+67901.0,1.0,2.0,Severe,16,61,16,True
+67907.0,1.0,2.0,Severe,18,68,18,True
+67910.0,3.0,2.0,,0,0,0,False
+67912.0,1.0,2.0,Moderate,22,88,22,True
+67916.0,1.0,2.0,No Periodontitis,26,97,26,True
+67919.0,1.0,2.0,No Periodontitis,24,89,24,True
+67921.0,1.0,2.0,Moderate,21,80,21,True
+67924.0,1.0,2.0,No Periodontitis,27,98,27,True
+67925.0,1.0,2.0,Moderate,27,108,27,True
+67926.0,1.0,2.0,No Periodontitis,28,112,28,True
+67927.0,1.0,2.0,No Periodontitis,28,99,28,True
+67928.0,1.0,2.0,Moderate,28,106,28,True
+67930.0,1.0,2.0,No Periodontitis,24,91,24,True
+67935.0,1.0,2.0,No Periodontitis,28,95,28,True
+67939.0,1.0,2.0,Moderate,24,96,24,True
+67940.0,3.0,2.0,,26,0,0,False
+67947.0,1.0,2.0,Moderate,17,49,15,True
+67951.0,1.0,2.0,Moderate,6,24,6,True
+67952.0,1.0,2.0,,0,0,0,False
+67957.0,1.0,2.0,Severe,9,34,9,True
+67958.0,1.0,2.0,No Periodontitis,28,81,26,True
+67960.0,1.0,2.0,Moderate,27,93,27,True
+67962.0,3.0,2.0,,0,0,0,False
+67964.0,3.0,2.0,,0,0,0,False
+67965.0,3.0,1.0,,23,0,0,False
+67967.0,1.0,2.0,Moderate,28,104,28,True
+67969.0,1.0,2.0,No Periodontitis,24,89,24,True
+67970.0,1.0,2.0,Moderate,23,92,23,True
+67972.0,1.0,2.0,No Periodontitis,27,108,27,True
+67975.0,1.0,2.0,No Periodontitis,28,112,28,True
+67977.0,1.0,2.0,No Periodontitis,24,86,25,True
+67978.0,1.0,2.0,,0,0,0,False
+67979.0,1.0,2.0,Severe,25,76,24,True
+67983.0,1.0,2.0,Moderate,28,98,28,True
+67986.0,1.0,2.0,Moderate,28,106,28,True
+67991.0,1.0,2.0,Severe,24,90,24,True
+67992.0,1.0,2.0,Moderate,26,104,26,True
+67993.0,1.0,2.0,Severe,16,56,16,True
+67995.0,1.0,2.0,,0,0,0,False
+67998.0,1.0,2.0,Moderate,17,68,17,True
+67999.0,2.0,2.0,,25,0,0,False
+68000.0,1.0,2.0,No Periodontitis,24,80,24,True
+68001.0,1.0,2.0,,0,0,0,False
+68003.0,1.0,2.0,Moderate,6,24,6,True
+68004.0,1.0,2.0,No Periodontitis,28,110,28,True
+68007.0,1.0,2.0,No Periodontitis,28,107,28,True
+68008.0,1.0,2.0,Moderate,19,69,18,True
+68010.0,1.0,2.0,Moderate,13,52,13,True
+68012.0,1.0,2.0,,0,0,0,False
+68013.0,1.0,2.0,No Periodontitis,20,79,20,True
+68016.0,3.0,2.0,,7,0,0,False
+68017.0,1.0,2.0,Moderate,25,96,25,True
+68020.0,1.0,2.0,,0,0,0,False
+68021.0,1.0,2.0,No Periodontitis,28,95,27,True
+68022.0,1.0,2.0,Severe,27,98,27,True
+68027.0,1.0,2.0,No Periodontitis,26,104,26,True
+68028.0,1.0,2.0,No Periodontitis,9,36,9,True
+68029.0,1.0,2.0,Severe,8,29,8,True
+68032.0,1.0,2.0,Moderate,28,108,27,True
+68034.0,1.0,2.0,Moderate,24,84,24,True
+68035.0,3.0,2.0,,28,0,0,False
+68038.0,1.0,2.0,Moderate,6,24,6,True
+68041.0,1.0,2.0,Moderate,25,90,25,True
+68043.0,1.0,2.0,No Periodontitis,28,109,28,True
+68044.0,1.0,2.0,Moderate,25,99,25,True
+68046.0,1.0,2.0,Moderate,6,24,6,True
+68050.0,1.0,2.0,Moderate,7,22,6,True
+68052.0,1.0,2.0,No Periodontitis,20,79,20,True
+68058.0,3.0,1.0,,23,0,0,False
+68061.0,1.0,2.0,Moderate,23,92,23,True
+68063.0,1.0,2.0,Severe,23,79,24,True
+68064.0,1.0,2.0,,0,0,0,False
+68066.0,1.0,2.0,,0,0,0,False
+68068.0,1.0,2.0,Moderate,28,108,28,True
+68069.0,3.0,2.0,,0,0,0,False
+68070.0,1.0,2.0,Severe,20,69,20,True
+68073.0,1.0,2.0,Moderate,20,85,22,True
+68075.0,1.0,2.0,Moderate,25,81,25,True
+68076.0,1.0,2.0,No Periodontitis,28,107,28,True
+68077.0,3.0,2.0,,24,0,0,False
+68078.0,1.0,2.0,No Periodontitis,27,108,27,True
+68079.0,1.0,2.0,No Periodontitis,27,94,27,True
+68080.0,3.0,2.0,,0,0,0,False
+68089.0,1.0,2.0,Moderate,24,69,24,True
+68091.0,1.0,2.0,Moderate,18,64,18,True
+68093.0,1.0,2.0,Severe,28,112,28,True
+68095.0,1.0,2.0,No Periodontitis,28,96,28,True
+68096.0,3.0,2.0,,25,0,0,False
+68099.0,2.0,2.0,Moderate,25,27,7,False
+68100.0,1.0,2.0,No Periodontitis,26,104,26,True
+68101.0,1.0,2.0,Moderate,23,87,23,True
+68102.0,1.0,2.0,,0,0,0,False
+68105.0,1.0,2.0,Moderate,26,87,25,True
+68106.0,1.0,2.0,Moderate,28,105,28,True
+68109.0,1.0,2.0,Moderate,26,104,26,True
+68110.0,1.0,2.0,Moderate,27,98,27,True
+68112.0,1.0,2.0,No Periodontitis,24,96,24,True
+68115.0,1.0,2.0,No Periodontitis,21,60,19,True
+68119.0,1.0,2.0,Moderate,28,112,28,True
+68121.0,1.0,2.0,Moderate,28,103,28,True
+68122.0,1.0,2.0,,0,0,0,False
+68123.0,1.0,2.0,No Periodontitis,5,19,5,True
+68127.0,1.0,2.0,Severe,20,80,20,True
+68128.0,1.0,2.0,Severe,24,87,24,True
+68129.0,3.0,2.0,,13,0,0,False
+68131.0,1.0,2.0,Moderate,28,91,28,True
+68133.0,1.0,2.0,No Periodontitis,24,86,24,True
+68134.0,1.0,2.0,Moderate,28,98,28,True
+68135.0,1.0,2.0,No Periodontitis,28,104,28,True
+68137.0,3.0,2.0,,0,0,0,False
+68139.0,1.0,2.0,No Periodontitis,22,86,22,True
+68140.0,1.0,2.0,No Periodontitis,23,84,23,True
+68142.0,1.0,2.0,No Periodontitis,27,94,27,True
+68143.0,1.0,2.0,Moderate,18,67,18,True
+68145.0,1.0,2.0,Moderate,24,82,24,True
+68147.0,1.0,2.0,,0,0,0,False
+68152.0,1.0,2.0,Moderate,28,110,28,True
+68154.0,1.0,2.0,Severe,25,95,25,True
+68155.0,1.0,2.0,No Periodontitis,23,84,23,True
+68156.0,1.0,2.0,Moderate,24,85,24,True
+68159.0,1.0,2.0,Severe,20,63,18,True
+68170.0,1.0,2.0,No Periodontitis,28,112,28,True
+68171.0,1.0,2.0,No Periodontitis,21,75,21,True
+68173.0,1.0,2.0,Moderate,26,96,26,True
+68176.0,1.0,2.0,Moderate,17,64,17,True
+68177.0,1.0,2.0,Moderate,28,112,28,True
+68180.0,1.0,2.0,No Periodontitis,28,105,28,True
+68181.0,1.0,2.0,Moderate,15,58,15,True
+68182.0,1.0,2.0,Moderate,26,99,26,True
+68188.0,2.0,2.0,,23,0,0,False
+68191.0,1.0,2.0,Moderate,9,36,9,True
+68195.0,1.0,2.0,Severe,4,16,4,True
+68196.0,1.0,2.0,No Periodontitis,28,70,26,True
+68197.0,1.0,2.0,No Periodontitis,28,64,25,True
+68198.0,1.0,2.0,Mild,27,80,26,True
+68199.0,1.0,2.0,No Periodontitis,28,107,28,True
+68200.0,1.0,2.0,Moderate,26,95,25,True
+68203.0,1.0,2.0,Moderate,23,78,23,True
+68205.0,3.0,1.0,,20,0,0,False
+68206.0,1.0,2.0,No Periodontitis,28,96,28,True
+68207.0,1.0,2.0,Moderate,15,60,15,True
+68212.0,1.0,2.0,Severe,13,52,13,True
+68213.0,1.0,2.0,No Periodontitis,21,79,21,True
+68222.0,1.0,2.0,Moderate,25,100,25,True
+68226.0,1.0,2.0,No Periodontitis,28,64,26,True
+68227.0,1.0,2.0,No Periodontitis,9,36,9,True
+68229.0,1.0,2.0,No Periodontitis,28,82,28,True
+68234.0,1.0,2.0,Severe,11,41,11,True
+68235.0,1.0,2.0,Moderate,7,40,11,True
+68236.0,1.0,2.0,Mild,24,73,24,True
+68237.0,1.0,2.0,Moderate,26,96,26,True
+68244.0,1.0,2.0,,0,0,0,False
+68247.0,1.0,2.0,,0,0,0,False
+68249.0,1.0,2.0,Moderate,26,85,26,True
+68250.0,1.0,2.0,No Periodontitis,24,86,24,True
+68251.0,1.0,2.0,Moderate,27,99,27,True
+68252.0,3.0,2.0,,0,0,0,False
+68254.0,1.0,2.0,Severe,27,106,27,True
+68255.0,1.0,2.0,Severe,27,99,27,True
+68256.0,1.0,2.0,No Periodontitis,20,80,20,True
+68260.0,1.0,2.0,Moderate,12,48,12,True
+68261.0,1.0,2.0,,0,0,0,False
+68262.0,1.0,2.0,No Periodontitis,8,28,8,True
+68263.0,1.0,2.0,Moderate,28,77,27,True
+68270.0,1.0,2.0,,0,0,0,False
+68271.0,1.0,2.0,No Periodontitis,24,69,21,True
+68273.0,1.0,2.0,No Periodontitis,28,111,28,True
+68275.0,3.0,1.0,,21,0,0,False
+68276.0,2.0,2.0,,14,0,0,False
+68277.0,1.0,2.0,Severe,17,66,17,True
+68282.0,1.0,2.0,Mild,20,55,19,True
+68283.0,1.0,2.0,Moderate,23,85,23,True
+68285.0,1.0,2.0,No Periodontitis,27,106,27,True
+68290.0,2.0,2.0,,20,0,0,False
+68291.0,1.0,2.0,Moderate,15,49,14,True
+68293.0,1.0,2.0,Severe,24,96,24,True
+68296.0,1.0,2.0,Moderate,25,89,25,True
+68301.0,1.0,2.0,Moderate,3,12,3,True
+68309.0,1.0,2.0,No Periodontitis,25,92,25,True
+68310.0,1.0,2.0,No Periodontitis,20,54,16,True
+68311.0,1.0,2.0,No Periodontitis,26,86,26,True
+68312.0,1.0,2.0,Moderate,17,68,17,True
+68314.0,3.0,2.0,,27,0,0,False
+68316.0,1.0,2.0,,0,0,0,False
+68318.0,1.0,2.0,,0,0,0,False
+68319.0,1.0,2.0,No Periodontitis,28,51,19,True
+68321.0,1.0,2.0,,0,0,0,False
+68322.0,1.0,2.0,Mild,28,79,27,True
+68327.0,1.0,2.0,Moderate,26,104,26,True
+68330.0,1.0,2.0,Moderate,27,105,27,True
+68331.0,1.0,2.0,Moderate,28,100,28,True
+68334.0,1.0,2.0,Mild,28,112,28,True
+68337.0,1.0,2.0,No Periodontitis,28,112,28,True
+68338.0,1.0,2.0,Moderate,14,50,14,True
+68339.0,3.0,2.0,,0,0,0,False
+68341.0,1.0,2.0,No Periodontitis,23,65,22,True
+68342.0,3.0,2.0,,0,0,0,False
+68343.0,1.0,2.0,Severe,12,46,12,True
+68344.0,1.0,2.0,Mild,24,87,24,True
+68348.0,1.0,2.0,No Periodontitis,24,78,24,True
+68352.0,3.0,1.0,,16,0,0,False
+68353.0,1.0,2.0,No Periodontitis,26,94,25,True
+68354.0,1.0,2.0,Severe,28,108,28,True
+68356.0,1.0,2.0,Moderate,6,24,6,True
+68364.0,1.0,2.0,Moderate,8,26,8,True
+68365.0,1.0,2.0,Severe,21,70,19,True
+68367.0,1.0,2.0,No Periodontitis,21,84,21,True
+68369.0,3.0,2.0,,0,0,0,False
+68374.0,1.0,2.0,Moderate,27,99,26,True
+68375.0,1.0,2.0,No Periodontitis,18,60,17,True
+68376.0,3.0,2.0,,0,0,0,False
+68377.0,1.0,2.0,,0,0,0,False
+68380.0,1.0,2.0,Moderate,17,66,17,True
+68387.0,1.0,2.0,No Periodontitis,21,73,21,True
+68394.0,1.0,2.0,No Periodontitis,26,98,26,True
+68401.0,1.0,2.0,No Periodontitis,26,85,26,True
+68403.0,1.0,2.0,Moderate,24,88,24,True
+68404.0,1.0,2.0,No Periodontitis,14,56,14,True
+68407.0,3.0,2.0,,0,0,0,False
+68411.0,1.0,2.0,No Periodontitis,28,79,27,True
+68412.0,3.0,1.0,,26,0,0,False
+68415.0,1.0,2.0,Mild,25,88,25,True
+68416.0,1.0,2.0,Severe,18,49,17,True
+68418.0,1.0,2.0,Moderate,26,79,26,True
+68419.0,1.0,2.0,Moderate,3,10,3,True
+68422.0,1.0,2.0,Moderate,7,30,8,True
+68423.0,3.0,2.0,,0,0,0,False
+68424.0,1.0,2.0,,0,0,0,False
+68425.0,1.0,2.0,Moderate,21,84,21,True
+68428.0,1.0,2.0,No Periodontitis,18,48,16,True
+68432.0,1.0,2.0,Moderate,5,16,4,True
+68434.0,1.0,2.0,Moderate,13,51,13,True
+68436.0,1.0,2.0,No Periodontitis,24,86,24,True
+68438.0,1.0,2.0,No Periodontitis,26,92,26,True
+68440.0,1.0,2.0,Severe,26,96,26,True
+68441.0,1.0,2.0,Moderate,21,67,20,True
+68442.0,3.0,2.0,,0,0,0,False
+68443.0,3.0,2.0,,0,0,0,False
+68445.0,3.0,1.0,,26,0,0,False
+68446.0,1.0,2.0,No Periodontitis,26,94,26,True
+68447.0,1.0,2.0,,0,0,0,False
+68450.0,1.0,2.0,No Periodontitis,28,99,28,True
+68452.0,1.0,2.0,Moderate,6,24,6,True
+68453.0,2.0,2.0,,25,0,0,False
+68458.0,1.0,2.0,No Periodontitis,28,105,28,True
+68462.0,1.0,2.0,Severe,18,70,18,True
+68464.0,1.0,2.0,,0,0,0,False
+68465.0,1.0,2.0,,0,0,0,False
+68466.0,3.0,2.0,,0,0,0,False
+68467.0,1.0,2.0,No Periodontitis,24,93,24,True
+68468.0,1.0,2.0,Moderate,22,79,22,True
+68470.0,1.0,2.0,No Periodontitis,28,97,28,True
+68474.0,1.0,2.0,No Periodontitis,28,97,27,True
+68478.0,1.0,2.0,No Periodontitis,28,101,28,True
+68482.0,1.0,2.0,No Periodontitis,12,48,12,True
+68484.0,1.0,2.0,Moderate,21,84,21,True
+68485.0,1.0,2.0,Mild,28,98,28,True
+68488.0,3.0,2.0,,0,0,0,False
+68491.0,1.0,2.0,No Periodontitis,22,81,22,True
+68494.0,1.0,2.0,No Periodontitis,27,93,26,True
+68495.0,1.0,2.0,No Periodontitis,28,112,28,True
+68496.0,3.0,2.0,,0,0,0,False
+68497.0,1.0,2.0,Moderate,28,112,28,True
+68498.0,3.0,2.0,,21,0,0,False
+68499.0,1.0,2.0,Moderate,25,94,25,True
+68500.0,1.0,2.0,Moderate,16,54,16,True
+68501.0,1.0,2.0,Moderate,23,92,23,True
+68505.0,1.0,2.0,No Periodontitis,17,64,17,True
+68506.0,1.0,2.0,,0,0,0,False
+68507.0,1.0,2.0,Moderate,28,112,28,True
+68508.0,1.0,2.0,No Periodontitis,28,102,28,True
+68510.0,1.0,2.0,Severe,19,74,19,True
+68512.0,1.0,2.0,No Periodontitis,16,33,9,True
+68513.0,1.0,2.0,,0,0,0,False
+68516.0,1.0,2.0,No Periodontitis,28,106,28,True
+68523.0,3.0,2.0,,0,0,0,False
+68525.0,1.0,2.0,Moderate,27,97,27,True
+68526.0,1.0,2.0,Moderate,21,78,21,True
+68528.0,1.0,2.0,Moderate,8,33,9,True
+68529.0,1.0,2.0,No Periodontitis,23,86,23,True
+68531.0,3.0,2.0,,0,0,0,False
+68536.0,1.0,2.0,Moderate,9,36,9,True
+68537.0,1.0,2.0,No Periodontitis,28,108,28,True
+68538.0,1.0,2.0,,0,0,0,False
+68544.0,1.0,2.0,No Periodontitis,22,82,22,True
+68545.0,1.0,2.0,Severe,6,15,5,True
+68548.0,1.0,2.0,Moderate,27,99,27,True
+68549.0,1.0,2.0,Moderate,8,26,8,True
+68551.0,3.0,2.0,,0,0,0,False
+68553.0,1.0,2.0,,0,0,0,False
+68556.0,1.0,2.0,No Periodontitis,26,104,26,True
+68557.0,3.0,2.0,,0,0,0,False
+68558.0,1.0,2.0,Moderate,22,72,21,True
+68559.0,1.0,2.0,Severe,23,92,23,True
+68561.0,1.0,2.0,No Periodontitis,28,105,28,True
+68564.0,1.0,2.0,No Periodontitis,24,47,20,True
+68565.0,1.0,2.0,Moderate,22,84,22,True
+68567.0,1.0,2.0,Moderate,20,63,19,True
+68569.0,3.0,1.0,,24,0,0,False
+68570.0,1.0,2.0,No Periodontitis,27,85,27,True
+68571.0,1.0,2.0,Severe,15,44,15,True
+68572.0,1.0,2.0,No Periodontitis,28,105,28,True
+68573.0,1.0,2.0,Severe,17,66,17,True
+68575.0,1.0,2.0,No Periodontitis,27,69,26,True
+68580.0,1.0,2.0,No Periodontitis,25,86,25,True
+68581.0,1.0,2.0,No Periodontitis,16,64,16,True
+68582.0,1.0,2.0,No Periodontitis,26,66,24,True
+68589.0,1.0,2.0,Moderate,25,99,25,True
+68591.0,1.0,2.0,Severe,18,68,18,True
+68592.0,1.0,2.0,No Periodontitis,28,105,28,True
+68593.0,1.0,2.0,Moderate,28,97,28,True
+68594.0,1.0,2.0,,0,0,0,False
+68595.0,1.0,2.0,Severe,25,84,26,True
+68597.0,3.0,1.0,,23,0,0,False
+68602.0,1.0,2.0,No Periodontitis,27,102,27,True
+68605.0,1.0,2.0,Moderate,19,63,19,True
+68606.0,1.0,2.0,No Periodontitis,22,65,20,True
+68612.0,1.0,2.0,Moderate,17,57,17,True
+68613.0,1.0,2.0,,0,0,0,False
+68614.0,1.0,2.0,Moderate,24,96,24,True
+68619.0,1.0,2.0,No Periodontitis,28,104,28,True
+68620.0,1.0,2.0,No Periodontitis,26,104,26,True
+68622.0,3.0,2.0,,0,0,0,False
+68624.0,1.0,2.0,Severe,25,99,25,True
+68626.0,3.0,1.0,,8,0,0,False
+68627.0,1.0,2.0,No Periodontitis,28,101,28,True
+68630.0,3.0,1.0,,25,0,0,False
+68632.0,1.0,2.0,No Periodontitis,28,104,28,True
+68633.0,1.0,2.0,Moderate,24,95,24,True
+68635.0,1.0,2.0,,0,0,0,False
+68637.0,1.0,2.0,Mild,25,94,24,True
+68645.0,1.0,2.0,Moderate,24,81,24,True
+68646.0,1.0,2.0,Moderate,28,105,28,True
+68647.0,1.0,2.0,Severe,5,20,5,True
+68648.0,1.0,2.0,No Periodontitis,28,103,28,True
+68651.0,1.0,2.0,No Periodontitis,28,88,26,True
+68652.0,1.0,2.0,No Periodontitis,27,101,27,True
+68657.0,1.0,2.0,Moderate,3,12,3,True
+68661.0,3.0,1.0,,19,0,0,False
+68662.0,1.0,2.0,Moderate,24,96,24,True
+68663.0,1.0,2.0,Moderate,28,97,28,True
+68665.0,1.0,2.0,Moderate,22,80,22,True
+68667.0,1.0,2.0,Moderate,26,92,26,True
+68669.0,1.0,2.0,Moderate,22,80,22,True
+68672.0,1.0,2.0,Mild,28,83,28,True
+68673.0,1.0,2.0,Severe,27,108,27,True
+68675.0,1.0,2.0,Moderate,24,85,24,True
+68676.0,1.0,2.0,Moderate,21,83,21,True
+68678.0,1.0,2.0,Moderate,22,74,22,True
+68679.0,1.0,2.0,Moderate,24,96,24,True
+68681.0,3.0,2.0,,0,0,0,False
+68682.0,1.0,2.0,,0,0,0,False
+68687.0,1.0,2.0,No Periodontitis,26,93,26,True
+68688.0,1.0,2.0,No Periodontitis,23,84,23,True
+68689.0,1.0,2.0,Moderate,2,8,2,True
+68694.0,1.0,2.0,Moderate,23,90,23,True
+68696.0,3.0,1.0,,28,0,0,False
+68702.0,1.0,2.0,Severe,27,105,27,True
+68703.0,1.0,2.0,Moderate,20,80,20,True
+68707.0,1.0,2.0,No Periodontitis,28,105,28,True
+68708.0,1.0,2.0,No Periodontitis,23,84,23,True
+68709.0,1.0,2.0,No Periodontitis,28,77,26,True
+68710.0,1.0,2.0,No Periodontitis,24,93,24,True
+68714.0,1.0,2.0,Moderate,26,95,26,True
+68715.0,1.0,2.0,No Periodontitis,26,97,26,True
+68717.0,1.0,2.0,,0,0,0,False
+68720.0,1.0,2.0,,0,0,0,False
+68721.0,1.0,2.0,Moderate,28,104,28,True
+68722.0,1.0,2.0,No Periodontitis,28,112,28,True
+68726.0,1.0,2.0,Moderate,24,90,24,True
+68730.0,1.0,2.0,Moderate,5,18,5,True
+68732.0,1.0,2.0,No Periodontitis,28,95,28,True
+68733.0,3.0,2.0,,22,0,0,False
+68736.0,3.0,1.0,,0,0,0,False
+68737.0,1.0,2.0,Moderate,22,78,22,True
+68739.0,1.0,2.0,Moderate,28,87,24,True
+68740.0,1.0,2.0,Moderate,28,110,28,True
+68741.0,1.0,2.0,Moderate,28,112,28,True
+68744.0,1.0,2.0,No Periodontitis,27,89,27,True
+68745.0,1.0,2.0,,0,0,0,False
+68746.0,3.0,2.0,,0,0,0,False
+68748.0,1.0,2.0,Moderate,27,106,27,True
+68751.0,1.0,2.0,Moderate,27,97,27,True
+68752.0,1.0,2.0,Moderate,28,100,28,True
+68753.0,1.0,2.0,No Periodontitis,28,104,28,True
+68754.0,1.0,2.0,Moderate,20,73,20,True
+68758.0,3.0,1.0,,0,0,0,False
+68762.0,1.0,2.0,No Periodontitis,25,79,25,True
+68767.0,1.0,2.0,No Periodontitis,21,66,21,True
+68768.0,1.0,2.0,Moderate,5,19,5,True
+68769.0,1.0,2.0,No Periodontitis,28,108,28,True
+68770.0,1.0,2.0,Severe,22,70,21,True
+68772.0,1.0,2.0,Moderate,25,99,25,True
+68773.0,1.0,2.0,No Periodontitis,28,62,23,True
+68780.0,1.0,2.0,Severe,27,103,27,True
+68781.0,1.0,2.0,Moderate,27,91,27,True
+68786.0,1.0,2.0,Moderate,27,108,27,True
+68787.0,1.0,2.0,Moderate,28,108,28,True
+68790.0,1.0,2.0,No Periodontitis,27,98,27,True
+68791.0,1.0,2.0,Severe,23,88,23,True
+68793.0,1.0,2.0,Moderate,28,107,28,True
+68794.0,1.0,2.0,No Periodontitis,25,89,25,True
+68799.0,3.0,2.0,,0,0,0,False
+68802.0,1.0,2.0,Moderate,27,105,27,True
+68807.0,1.0,2.0,No Periodontitis,28,101,28,True
+68808.0,1.0,2.0,No Periodontitis,8,28,8,True
+68810.0,1.0,2.0,,0,0,0,False
+68812.0,1.0,2.0,No Periodontitis,28,104,28,True
+68814.0,1.0,2.0,No Periodontitis,26,101,26,True
+68816.0,1.0,2.0,Moderate,23,87,23,True
+68817.0,1.0,2.0,No Periodontitis,25,66,22,True
+68818.0,1.0,2.0,Moderate,20,61,18,True
+68819.0,1.0,2.0,Severe,28,112,28,True
+68823.0,1.0,2.0,Moderate,20,76,20,True
+68824.0,1.0,2.0,Moderate,8,31,8,True
+68825.0,1.0,2.0,Severe,26,86,26,True
+68827.0,1.0,2.0,No Periodontitis,25,94,25,True
+68830.0,1.0,2.0,No Periodontitis,25,96,25,True
+68831.0,1.0,2.0,No Periodontitis,20,44,17,True
+68833.0,1.0,2.0,No Periodontitis,24,77,24,True
+68836.0,1.0,2.0,No Periodontitis,18,65,18,True
+68837.0,1.0,2.0,No Periodontitis,24,91,24,True
+68839.0,1.0,2.0,Moderate,23,90,23,True
+68840.0,1.0,2.0,Moderate,26,100,26,True
+68841.0,1.0,2.0,Severe,15,60,15,True
+68842.0,1.0,2.0,Moderate,17,68,17,True
+68843.0,1.0,2.0,Moderate,25,87,25,True
+68845.0,1.0,2.0,Severe,17,67,17,True
+68846.0,1.0,2.0,Moderate,23,91,23,True
+68853.0,3.0,2.0,,0,0,0,False
+68854.0,1.0,2.0,,0,0,0,False
+68855.0,3.0,1.0,,9,0,0,False
+68859.0,1.0,2.0,No Periodontitis,28,95,27,True
+68860.0,1.0,2.0,No Periodontitis,26,101,26,True
+68864.0,1.0,2.0,No Periodontitis,24,83,24,True
+68865.0,3.0,2.0,,28,0,0,False
+68868.0,1.0,2.0,Moderate,25,98,25,True
+68869.0,3.0,2.0,,0,0,0,False
+68871.0,3.0,1.0,,28,0,0,False
+68872.0,1.0,2.0,No Periodontitis,27,106,27,True
+68874.0,1.0,2.0,Moderate,7,26,7,True
+68875.0,1.0,2.0,No Periodontitis,27,106,27,True
+68876.0,1.0,2.0,Severe,21,77,21,True
+68877.0,1.0,2.0,Moderate,18,72,18,True
+68881.0,1.0,2.0,No Periodontitis,27,99,27,True
+68882.0,1.0,2.0,No Periodontitis,28,109,28,True
+68884.0,1.0,2.0,Moderate,27,107,27,True
+68886.0,1.0,2.0,No Periodontitis,28,90,25,True
+68888.0,3.0,2.0,,8,0,0,False
+68892.0,1.0,2.0,Moderate,28,107,28,True
+68894.0,1.0,2.0,No Periodontitis,28,105,28,True
+68895.0,1.0,2.0,No Periodontitis,9,26,9,True
+68899.0,1.0,2.0,Severe,26,80,23,True
+68901.0,1.0,2.0,No Periodontitis,23,85,23,True
+68902.0,1.0,2.0,Moderate,22,74,22,True
+68908.0,1.0,2.0,Moderate,26,99,25,True
+68910.0,1.0,2.0,Moderate,21,68,21,True
+68912.0,1.0,2.0,,0,0,0,False
+68914.0,1.0,2.0,Moderate,26,100,26,True
+68915.0,1.0,2.0,No Periodontitis,24,96,24,True
+68916.0,1.0,2.0,Severe,23,88,23,True
+68917.0,1.0,2.0,No Periodontitis,24,90,24,True
+68918.0,1.0,2.0,Severe,15,53,15,True
+68919.0,1.0,2.0,No Periodontitis,28,112,28,True
+68920.0,1.0,2.0,No Periodontitis,20,56,16,True
+68922.0,1.0,2.0,No Periodontitis,24,82,24,True
+68925.0,1.0,2.0,,0,0,0,False
+68928.0,1.0,2.0,No Periodontitis,14,55,14,True
+68933.0,1.0,2.0,Moderate,17,68,17,True
+68934.0,1.0,2.0,Moderate,14,56,14,True
+68935.0,1.0,2.0,Severe,27,105,27,True
+68936.0,1.0,2.0,Moderate,24,75,23,True
+68937.0,1.0,2.0,No Periodontitis,27,97,27,True
+68944.0,1.0,2.0,No Periodontitis,22,88,22,True
+68946.0,3.0,2.0,,0,0,0,False
+68947.0,1.0,2.0,,0,0,0,False
+68948.0,1.0,2.0,No Periodontitis,24,94,24,True
+68949.0,1.0,2.0,,0,0,0,False
+68950.0,1.0,2.0,No Periodontitis,26,98,26,True
+68952.0,1.0,2.0,Moderate,24,87,24,True
+68953.0,1.0,2.0,Mild,20,77,20,True
+68955.0,1.0,2.0,No Periodontitis,5,64,17,True
+68959.0,1.0,2.0,Moderate,23,75,22,True
+68961.0,1.0,2.0,Moderate,25,91,25,True
+68966.0,3.0,1.0,,0,0,0,False
+68972.0,1.0,2.0,,0,0,0,False
+68976.0,1.0,2.0,Moderate,25,91,25,True
+68977.0,1.0,2.0,,0,0,0,False
+68978.0,1.0,2.0,Moderate,28,112,28,True
+68979.0,1.0,2.0,No Periodontitis,28,110,28,True
+68981.0,3.0,1.0,,28,0,0,False
+68983.0,1.0,2.0,Moderate,27,96,27,True
+68988.0,1.0,2.0,,0,0,0,False
+68989.0,1.0,2.0,No Periodontitis,28,106,28,True
+68990.0,1.0,2.0,Mild,27,104,27,True
+68991.0,1.0,2.0,Moderate,22,80,21,True
+68992.0,1.0,2.0,Moderate,8,32,8,True
+68993.0,1.0,2.0,Moderate,24,81,24,True
+68995.0,1.0,2.0,Severe,28,112,28,True
+68998.0,1.0,2.0,No Periodontitis,28,90,28,True
+69001.0,1.0,2.0,,0,0,0,False
+69005.0,1.0,2.0,No Periodontitis,28,106,28,True
+69006.0,1.0,2.0,No Periodontitis,28,73,24,True
+69007.0,3.0,2.0,,0,0,0,False
+69009.0,1.0,2.0,Severe,28,112,28,True
+69010.0,3.0,2.0,,11,0,0,False
+69011.0,1.0,2.0,No Periodontitis,27,99,27,True
+69013.0,1.0,2.0,Severe,24,96,24,True
+69014.0,1.0,2.0,,0,0,0,False
+69017.0,3.0,2.0,,0,0,0,False
+69018.0,1.0,2.0,Moderate,26,56,21,True
+69019.0,1.0,2.0,No Periodontitis,15,54,15,True
+69020.0,1.0,2.0,No Periodontitis,28,78,28,True
+69022.0,1.0,2.0,Moderate,23,90,23,True
+69024.0,1.0,2.0,Severe,19,56,19,True
+69025.0,1.0,2.0,Moderate,26,104,26,True
+69027.0,1.0,2.0,No Periodontitis,28,93,28,True
+69032.0,3.0,2.0,,0,0,0,False
+69034.0,1.0,2.0,Moderate,26,92,25,True
+69035.0,1.0,2.0,Severe,25,98,25,True
+69036.0,3.0,2.0,,0,0,0,False
+69037.0,1.0,2.0,Severe,28,112,28,True
+69040.0,3.0,2.0,,0,0,0,False
+69042.0,1.0,2.0,No Periodontitis,27,84,27,True
+69045.0,3.0,2.0,,0,0,0,False
+69047.0,1.0,2.0,No Periodontitis,28,106,28,True
+69049.0,1.0,2.0,,0,0,0,False
+69053.0,1.0,2.0,Moderate,8,29,8,True
+69054.0,1.0,2.0,Severe,25,98,25,True
+69056.0,1.0,2.0,Severe,28,107,28,True
+69057.0,1.0,2.0,No Periodontitis,26,100,26,True
+69058.0,3.0,2.0,,0,0,0,False
+69061.0,1.0,2.0,No Periodontitis,27,77,23,True
+69062.0,1.0,2.0,Moderate,22,87,22,True
+69066.0,1.0,2.0,No Periodontitis,28,112,28,True
+69067.0,3.0,2.0,,0,0,0,False
+69068.0,1.0,2.0,No Periodontitis,24,74,24,True
+69077.0,3.0,2.0,,0,0,0,False
+69078.0,1.0,2.0,No Periodontitis,26,102,26,True
+69079.0,1.0,2.0,No Periodontitis,28,112,28,True
+69085.0,1.0,2.0,Moderate,24,80,24,True
+69088.0,1.0,2.0,No Periodontitis,23,86,23,True
+69089.0,1.0,2.0,Moderate,12,48,12,True
+69091.0,1.0,2.0,No Periodontitis,23,92,23,True
+69097.0,1.0,2.0,No Periodontitis,28,82,27,True
+69101.0,1.0,2.0,Severe,24,79,22,True
+69102.0,1.0,2.0,Severe,11,43,11,True
+69105.0,1.0,2.0,Moderate,20,80,20,True
+69107.0,1.0,2.0,Moderate,17,55,16,True
+69108.0,3.0,1.0,,18,0,0,False
+69110.0,1.0,2.0,Moderate,27,99,27,True
+69114.0,2.0,2.0,,21,0,0,False
+69115.0,1.0,2.0,,0,0,0,False
+69120.0,1.0,2.0,Severe,23,92,23,True
+69123.0,1.0,2.0,No Periodontitis,22,82,22,True
+69125.0,1.0,2.0,Moderate,28,106,28,True
+69130.0,1.0,2.0,,0,0,0,False
+69136.0,1.0,2.0,No Periodontitis,25,79,25,True
+69137.0,3.0,2.0,,0,0,0,False
+69140.0,1.0,2.0,No Periodontitis,13,49,13,True
+69141.0,1.0,2.0,Moderate,11,33,11,True
+69142.0,1.0,2.0,Moderate,24,66,22,True
+69144.0,1.0,2.0,Moderate,23,88,23,True
+69146.0,1.0,2.0,Moderate,28,105,28,True
+69147.0,1.0,2.0,No Periodontitis,28,104,28,True
+69149.0,1.0,2.0,Moderate,25,99,25,True
+69151.0,1.0,2.0,Moderate,28,109,28,True
+69154.0,1.0,2.0,Moderate,16,64,16,True
+69158.0,3.0,1.0,,0,0,0,False
+69162.0,1.0,2.0,,0,0,0,False
+69164.0,3.0,1.0,,14,0,0,False
+69165.0,1.0,2.0,Severe,17,68,17,True
+69166.0,1.0,2.0,Moderate,11,42,11,True
+69167.0,1.0,2.0,,0,0,0,False
+69168.0,1.0,2.0,Severe,15,49,14,True
+69170.0,1.0,2.0,No Periodontitis,28,98,28,True
+69171.0,1.0,2.0,No Periodontitis,28,72,24,True
+69172.0,1.0,2.0,No Periodontitis,28,112,28,True
+69175.0,1.0,2.0,Mild,28,83,28,True
+69176.0,1.0,2.0,Moderate,20,80,20,True
+69177.0,1.0,2.0,No Periodontitis,28,71,28,True
+69181.0,1.0,2.0,No Periodontitis,28,108,28,True
+69184.0,1.0,2.0,Severe,19,75,20,True
+69185.0,3.0,1.0,,23,0,0,False
+69190.0,1.0,2.0,No Periodontitis,25,80,25,True
+69199.0,1.0,2.0,Severe,2,8,2,True
+69200.0,1.0,2.0,No Periodontitis,25,100,25,True
+69201.0,1.0,2.0,No Periodontitis,23,89,23,True
+69203.0,1.0,2.0,No Periodontitis,24,96,24,True
+69205.0,3.0,2.0,,0,0,0,False
+69207.0,3.0,2.0,,26,0,0,False
+69208.0,1.0,2.0,Moderate,18,57,18,True
+69212.0,1.0,2.0,Severe,28,86,23,True
+69213.0,1.0,2.0,No Periodontitis,22,79,21,True
+69216.0,1.0,2.0,No Periodontitis,28,99,28,True
+69221.0,1.0,2.0,Moderate,28,100,28,True
+69224.0,1.0,2.0,Moderate,19,59,19,True
+69227.0,1.0,2.0,No Periodontitis,27,96,27,True
+69229.0,1.0,2.0,No Periodontitis,28,89,28,True
+69236.0,1.0,2.0,Moderate,27,87,26,True
+69237.0,1.0,2.0,No Periodontitis,22,68,22,True
+69241.0,1.0,2.0,No Periodontitis,28,112,28,True
+69243.0,1.0,2.0,No Periodontitis,24,85,24,True
+69247.0,1.0,2.0,Moderate,2,8,2,True
+69248.0,1.0,2.0,No Periodontitis,24,80,24,True
+69249.0,2.0,2.0,,22,0,0,False
+69250.0,2.0,2.0,Moderate,2,3,2,False
+69253.0,1.0,2.0,Moderate,20,80,20,True
+69255.0,3.0,1.0,,25,0,0,False
+69256.0,1.0,2.0,,0,0,0,False
+69258.0,1.0,2.0,No Periodontitis,20,75,20,True
+69259.0,1.0,2.0,No Periodontitis,28,112,28,True
+69261.0,1.0,2.0,Moderate,25,93,25,True
+69263.0,3.0,2.0,,9,0,0,False
+69264.0,1.0,2.0,Moderate,26,93,26,True
+69270.0,1.0,2.0,Severe,17,67,17,True
+69272.0,1.0,2.0,Severe,24,96,24,True
+69278.0,1.0,2.0,No Periodontitis,11,32,11,True
+69279.0,1.0,2.0,No Periodontitis,25,98,25,True
+69280.0,1.0,2.0,Moderate,18,69,18,True
+69283.0,3.0,1.0,,20,0,0,False
+69284.0,1.0,2.0,No Periodontitis,23,86,23,True
+69286.0,1.0,2.0,No Periodontitis,28,112,28,True
+69287.0,1.0,2.0,Moderate,28,103,28,True
+69288.0,1.0,2.0,,0,0,0,False
+69295.0,1.0,2.0,No Periodontitis,22,81,22,True
+69299.0,2.0,2.0,,10,0,0,False
+69301.0,1.0,2.0,No Periodontitis,28,108,28,True
+69307.0,1.0,2.0,Severe,15,51,15,True
+69309.0,1.0,2.0,No Periodontitis,25,99,25,True
+69314.0,3.0,2.0,,0,0,0,False
+69319.0,1.0,2.0,Severe,22,86,22,True
+69320.0,3.0,2.0,,0,0,0,False
+69321.0,1.0,2.0,Mild,22,85,22,True
+69322.0,1.0,2.0,Moderate,21,70,22,True
+69323.0,1.0,2.0,Severe,12,48,12,True
+69324.0,1.0,2.0,Severe,28,107,28,True
+69325.0,1.0,2.0,No Periodontitis,28,95,28,True
+69328.0,1.0,2.0,Moderate,26,89,26,True
+69329.0,1.0,2.0,,0,0,0,False
+69333.0,1.0,2.0,,0,0,0,False
+69334.0,1.0,2.0,No Periodontitis,9,36,9,True
+69335.0,1.0,2.0,No Periodontitis,24,70,24,True
+69336.0,1.0,2.0,No Periodontitis,28,97,28,True
+69347.0,1.0,2.0,Moderate,19,73,19,True
+69349.0,1.0,2.0,No Periodontitis,25,90,25,True
+69351.0,3.0,1.0,,28,0,0,False
+69354.0,1.0,2.0,Severe,27,102,27,True
+69356.0,1.0,2.0,Moderate,18,62,18,True
+69361.0,1.0,2.0,Severe,9,36,9,True
+69365.0,1.0,2.0,No Periodontitis,28,96,28,True
+69366.0,1.0,2.0,No Periodontitis,27,97,27,True
+69368.0,1.0,2.0,No Periodontitis,25,87,25,True
+69369.0,3.0,2.0,,0,0,0,False
+69371.0,1.0,2.0,Severe,27,91,25,True
+69375.0,1.0,2.0,Moderate,28,111,28,True
+69379.0,1.0,2.0,Moderate,24,78,24,True
+69386.0,1.0,2.0,Moderate,23,89,23,True
+69388.0,3.0,1.0,,25,0,0,False
+69390.0,1.0,2.0,,0,0,0,False
+69391.0,1.0,2.0,Moderate,25,100,25,True
+69392.0,1.0,2.0,Mild,24,70,24,True
+69393.0,1.0,2.0,No Periodontitis,26,96,26,True
+69397.0,3.0,2.0,,0,0,0,False
+69400.0,1.0,2.0,Severe,23,79,21,True
+69402.0,1.0,2.0,Severe,28,112,28,True
+69403.0,1.0,2.0,,0,0,0,False
+69404.0,1.0,2.0,No Periodontitis,23,91,23,True
+69405.0,1.0,2.0,No Periodontitis,28,102,28,True
+69409.0,1.0,2.0,No Periodontitis,28,84,28,True
+69410.0,1.0,2.0,No Periodontitis,27,108,27,True
+69411.0,1.0,2.0,Moderate,22,75,22,True
+69412.0,1.0,2.0,,0,0,0,False
+69413.0,1.0,2.0,Moderate,25,100,25,True
+69418.0,1.0,2.0,Moderate,19,75,19,True
+69419.0,1.0,2.0,Severe,25,86,25,True
+69420.0,2.0,2.0,,12,0,0,False
+69421.0,1.0,2.0,Moderate,22,73,22,True
+69422.0,1.0,2.0,No Periodontitis,27,98,27,True
+69425.0,1.0,2.0,Moderate,19,75,19,True
+69427.0,1.0,2.0,Moderate,23,75,21,True
+69428.0,1.0,2.0,No Periodontitis,28,109,28,True
+69430.0,1.0,2.0,,0,0,0,False
+69431.0,1.0,2.0,No Periodontitis,7,28,7,True
+69433.0,1.0,2.0,Severe,26,92,26,True
+69434.0,1.0,2.0,No Periodontitis,28,98,28,True
+69435.0,2.0,2.0,Moderate,23,47,12,False
+69436.0,1.0,2.0,No Periodontitis,20,75,20,True
+69439.0,1.0,2.0,Severe,20,76,20,True
+69445.0,1.0,2.0,Moderate,24,72,20,True
+69449.0,1.0,2.0,Severe,27,90,25,True
+69450.0,1.0,2.0,No Periodontitis,26,97,26,True
+69451.0,3.0,1.0,,19,0,0,False
+69452.0,1.0,2.0,No Periodontitis,28,89,28,True
+69453.0,1.0,2.0,No Periodontitis,28,101,28,True
+69455.0,1.0,2.0,,0,0,0,False
+69456.0,3.0,2.0,,0,0,0,False
+69457.0,1.0,2.0,Moderate,21,76,21,True
+69458.0,1.0,2.0,No Periodontitis,28,81,25,True
+69459.0,1.0,2.0,Moderate,23,69,20,True
+69460.0,1.0,2.0,Moderate,22,72,22,True
+69462.0,1.0,2.0,No Periodontitis,25,100,25,True
+69464.0,1.0,2.0,No Periodontitis,28,104,28,True
+69465.0,1.0,2.0,Moderate,25,100,25,True
+69468.0,1.0,2.0,Moderate,11,35,11,True
+69471.0,1.0,2.0,Moderate,26,94,26,True
+69472.0,1.0,2.0,Severe,16,64,16,True
+69473.0,1.0,2.0,Moderate,11,44,11,True
+69474.0,1.0,2.0,No Periodontitis,20,52,17,True
+69478.0,1.0,2.0,,0,0,0,False
+69479.0,1.0,2.0,Severe,22,70,20,True
+69486.0,1.0,2.0,No Periodontitis,24,91,24,True
+69488.0,3.0,2.0,,0,0,0,False
+69489.0,1.0,2.0,No Periodontitis,25,95,25,True
+69491.0,1.0,2.0,No Periodontitis,26,100,26,True
+69494.0,1.0,2.0,No Periodontitis,28,93,28,True
+69498.0,1.0,2.0,No Periodontitis,28,86,26,True
+69499.0,1.0,2.0,No Periodontitis,24,92,24,True
+69502.0,3.0,1.0,,26,0,0,False
+69503.0,1.0,2.0,No Periodontitis,27,79,27,True
+69504.0,1.0,2.0,No Periodontitis,28,112,28,True
+69505.0,1.0,2.0,,0,0,0,False
+69506.0,3.0,1.0,,0,0,0,False
+69508.0,1.0,2.0,Moderate,28,101,28,True
+69509.0,1.0,2.0,Moderate,22,85,22,True
+69511.0,1.0,2.0,Moderate,28,112,28,True
+69513.0,1.0,2.0,No Periodontitis,25,93,25,True
+69514.0,1.0,2.0,Severe,23,89,23,True
+69515.0,3.0,1.0,,20,0,0,False
+69516.0,1.0,2.0,,0,0,0,False
+69521.0,1.0,2.0,Moderate,27,108,27,True
+69523.0,1.0,2.0,Severe,25,90,25,True
+69524.0,1.0,2.0,Moderate,23,92,23,True
+69525.0,3.0,1.0,,25,0,0,False
+69528.0,1.0,2.0,Moderate,4,16,4,True
+69532.0,3.0,2.0,,0,0,0,False
+69536.0,1.0,2.0,No Periodontitis,28,99,28,True
+69537.0,1.0,2.0,No Periodontitis,28,109,28,True
+69539.0,1.0,2.0,No Periodontitis,27,106,27,True
+69540.0,1.0,2.0,No Periodontitis,28,109,28,True
+69542.0,1.0,2.0,No Periodontitis,17,65,18,True
+69547.0,1.0,2.0,Severe,20,75,20,True
+69549.0,1.0,2.0,Moderate,25,90,25,True
+69550.0,1.0,2.0,Moderate,15,52,15,True
+69552.0,1.0,2.0,Moderate,11,44,11,True
+69553.0,1.0,2.0,,0,0,0,False
+69556.0,1.0,2.0,Severe,21,82,21,True
+69562.0,3.0,2.0,,16,0,0,False
+69564.0,1.0,2.0,No Periodontitis,28,107,28,True
+69566.0,2.0,2.0,,6,0,0,False
+69569.0,1.0,2.0,No Periodontitis,24,92,24,True
+69572.0,3.0,2.0,,0,0,0,False
+69573.0,1.0,2.0,Moderate,27,98,27,True
+69574.0,1.0,2.0,No Periodontitis,28,97,26,True
+69577.0,1.0,2.0,Severe,14,56,14,True
+69582.0,1.0,2.0,No Periodontitis,28,110,28,True
+69587.0,1.0,2.0,No Periodontitis,28,79,27,True
+69594.0,1.0,2.0,Mild,28,89,27,True
+69596.0,3.0,2.0,,0,0,0,False
+69598.0,1.0,2.0,Moderate,26,100,26,True
+69600.0,1.0,2.0,Severe,15,60,15,True
+69602.0,3.0,2.0,,21,0,0,False
+69607.0,1.0,2.0,Moderate,28,105,28,True
+69608.0,1.0,2.0,Moderate,12,25,10,True
+69618.0,1.0,2.0,Moderate,15,46,15,True
+69619.0,1.0,2.0,Moderate,25,94,25,True
+69620.0,1.0,2.0,,0,0,0,False
+69621.0,1.0,2.0,Moderate,27,108,27,True
+69622.0,3.0,1.0,,8,0,0,False
+69624.0,1.0,2.0,Severe,28,112,28,True
+69626.0,1.0,2.0,No Periodontitis,24,96,24,True
+69631.0,1.0,2.0,,0,0,0,False
+69632.0,1.0,2.0,Moderate,28,90,28,True
+69633.0,1.0,2.0,No Periodontitis,28,98,28,True
+69635.0,3.0,1.0,,24,0,0,False
+69637.0,3.0,1.0,,18,0,0,False
+69644.0,1.0,2.0,Moderate,13,31,10,True
+69645.0,1.0,2.0,Mild,25,100,25,True
+69647.0,1.0,2.0,Moderate,8,15,8,True
+69648.0,1.0,2.0,Moderate,18,72,18,True
+69650.0,1.0,2.0,Moderate,3,5,3,True
+69652.0,1.0,2.0,,0,0,0,False
+69655.0,1.0,2.0,No Periodontitis,26,101,26,True
+69656.0,1.0,2.0,Moderate,14,51,14,True
+69658.0,1.0,2.0,Moderate,4,13,4,True
+69660.0,3.0,2.0,,0,0,0,False
+69661.0,3.0,2.0,,0,0,0,False
+69665.0,2.0,2.0,No Periodontitis,28,9,5,False
+69666.0,1.0,2.0,Severe,26,92,26,True
+69667.0,1.0,2.0,No Periodontitis,22,72,22,True
+69668.0,1.0,2.0,Moderate,27,103,27,True
+69669.0,1.0,2.0,Severe,27,108,27,True
+69670.0,1.0,2.0,No Periodontitis,25,97,25,True
+69671.0,1.0,2.0,Moderate,25,100,25,True
+69672.0,3.0,2.0,,0,0,0,False
+69674.0,1.0,2.0,Severe,7,18,7,True
+69675.0,1.0,2.0,Severe,6,24,6,True
+69680.0,1.0,2.0,Severe,28,54,17,True
+69682.0,1.0,2.0,No Periodontitis,8,31,8,True
+69684.0,1.0,2.0,No Periodontitis,4,16,4,True
+69687.0,3.0,2.0,,0,0,0,False
+69688.0,1.0,2.0,Moderate,28,87,25,True
+69689.0,1.0,2.0,No Periodontitis,24,82,24,True
+69691.0,1.0,2.0,,0,0,0,False
+69692.0,1.0,2.0,Severe,13,48,13,True
+69693.0,1.0,2.0,No Periodontitis,27,93,26,True
+69695.0,1.0,2.0,Moderate,23,78,23,True
+69696.0,1.0,2.0,Severe,11,25,10,True
+69698.0,1.0,2.0,Severe,18,68,18,True
+69701.0,1.0,2.0,Moderate,28,88,28,True
+69702.0,1.0,2.0,No Periodontitis,26,99,26,True
+69704.0,1.0,2.0,Moderate,27,99,26,True
+69705.0,3.0,2.0,,23,0,0,False
+69709.0,1.0,2.0,No Periodontitis,4,16,4,True
+69711.0,3.0,2.0,,0,0,0,False
+69712.0,1.0,2.0,Moderate,25,68,24,True
+69715.0,1.0,2.0,No Periodontitis,27,101,27,True
+69716.0,1.0,2.0,No Periodontitis,27,88,26,True
+69724.0,2.0,2.0,,26,0,0,False
+69728.0,1.0,2.0,No Periodontitis,28,97,28,True
+69730.0,1.0,2.0,No Periodontitis,1,4,1,True
+69732.0,3.0,2.0,,0,0,0,False
+69737.0,1.0,2.0,Moderate,26,99,26,True
+69738.0,1.0,2.0,No Periodontitis,7,17,7,True
+69740.0,1.0,2.0,Moderate,14,51,14,True
+69743.0,1.0,2.0,Moderate,28,107,28,True
+69745.0,1.0,2.0,Moderate,21,83,21,True
+69746.0,1.0,2.0,No Periodontitis,27,70,24,True
+69747.0,1.0,2.0,No Periodontitis,27,102,27,True
+69748.0,1.0,2.0,No Periodontitis,27,107,27,True
+69750.0,1.0,2.0,No Periodontitis,28,109,28,True
+69752.0,2.0,2.0,,7,0,0,False
+69753.0,1.0,2.0,Moderate,16,64,16,True
+69754.0,1.0,2.0,Moderate,21,66,21,True
+69755.0,1.0,2.0,Moderate,28,112,28,True
+69758.0,1.0,2.0,No Periodontitis,25,87,25,True
+69759.0,1.0,2.0,No Periodontitis,24,76,24,True
+69761.0,1.0,2.0,,0,0,0,False
+69765.0,3.0,2.0,,0,0,0,False
+69767.0,1.0,2.0,No Periodontitis,24,90,24,True
+69773.0,1.0,2.0,Moderate,16,52,16,True
+69774.0,1.0,2.0,No Periodontitis,13,48,13,True
+69776.0,1.0,2.0,Moderate,27,97,27,True
+69777.0,1.0,2.0,No Periodontitis,23,92,23,True
+69778.0,1.0,2.0,No Periodontitis,26,95,26,True
+69782.0,3.0,2.0,,0,0,0,False
+69783.0,1.0,2.0,Moderate,20,80,20,True
+69784.0,1.0,2.0,,0,0,0,False
+69785.0,1.0,2.0,Moderate,7,28,7,True
+69787.0,1.0,2.0,Moderate,23,77,23,True
+69789.0,1.0,2.0,No Periodontitis,5,12,5,True
+69793.0,1.0,2.0,Moderate,27,107,27,True
+69797.0,1.0,2.0,No Periodontitis,28,112,28,True
+69803.0,1.0,2.0,No Periodontitis,28,106,28,True
+69806.0,1.0,2.0,No Periodontitis,8,23,8,True
+69807.0,1.0,2.0,No Periodontitis,2,8,2,True
+69811.0,1.0,2.0,Moderate,26,104,26,True
+69812.0,1.0,2.0,Moderate,24,92,24,True
+69813.0,1.0,2.0,Mild,25,85,25,True
+69815.0,1.0,2.0,Moderate,22,88,22,True
+69817.0,1.0,2.0,No Periodontitis,28,92,28,True
+69821.0,1.0,2.0,,0,0,0,False
+69822.0,1.0,2.0,Moderate,20,70,20,True
+69823.0,1.0,2.0,Moderate,27,75,24,True
+69824.0,3.0,2.0,,0,0,0,False
+69825.0,1.0,2.0,No Periodontitis,28,104,28,True
+69827.0,1.0,2.0,No Periodontitis,25,93,25,True
+69831.0,3.0,2.0,,0,0,0,False
+69832.0,1.0,2.0,Severe,18,70,18,True
+69833.0,1.0,2.0,No Periodontitis,28,101,28,True
+69835.0,1.0,2.0,,0,0,0,False
+69838.0,1.0,2.0,Mild,28,83,28,True
+69840.0,1.0,2.0,Moderate,15,57,15,True
+69842.0,1.0,2.0,No Periodontitis,28,112,28,True
+69843.0,1.0,2.0,Moderate,24,91,24,True
+69847.0,1.0,2.0,Moderate,27,91,27,True
+69848.0,1.0,2.0,No Periodontitis,22,84,22,True
+69849.0,1.0,2.0,Moderate,2,8,2,True
+69851.0,1.0,2.0,No Periodontitis,28,82,28,True
+69852.0,1.0,2.0,No Periodontitis,25,88,25,True
+69854.0,1.0,2.0,Moderate,24,78,24,True
+69855.0,1.0,2.0,Moderate,28,103,28,True
+69856.0,1.0,2.0,No Periodontitis,28,109,28,True
+69858.0,1.0,2.0,No Periodontitis,19,75,19,True
+69861.0,1.0,2.0,No Periodontitis,12,30,8,True
+69862.0,1.0,2.0,No Periodontitis,28,94,28,True
+69863.0,1.0,2.0,Moderate,23,71,21,True
+69864.0,1.0,2.0,Mild,24,94,25,True
+69866.0,1.0,2.0,Severe,17,62,17,True
+69867.0,1.0,2.0,No Periodontitis,21,78,21,True
+69868.0,1.0,2.0,Moderate,26,104,26,True
+69869.0,1.0,2.0,Moderate,28,112,28,True
+69870.0,1.0,2.0,Moderate,27,104,27,True
+69872.0,1.0,2.0,Moderate,21,83,21,True
+69875.0,1.0,2.0,No Periodontitis,26,91,26,True
+69876.0,1.0,2.0,Moderate,26,97,26,True
+69877.0,1.0,2.0,No Periodontitis,24,91,24,True
+69880.0,1.0,2.0,Moderate,28,112,28,True
+69884.0,1.0,2.0,,0,0,0,False
+69885.0,1.0,2.0,Moderate,27,102,27,True
+69888.0,1.0,2.0,No Periodontitis,28,83,28,True
+69891.0,1.0,2.0,,0,0,0,False
+69892.0,1.0,2.0,Severe,13,50,13,True
+69896.0,1.0,2.0,,0,0,0,False
+69898.0,1.0,2.0,Moderate,24,92,24,True
+69899.0,1.0,2.0,Mild,27,108,27,True
+69900.0,1.0,2.0,Severe,24,96,24,True
+69902.0,1.0,2.0,Severe,20,75,20,True
+69905.0,1.0,2.0,Severe,16,60,16,True
+69906.0,1.0,2.0,Severe,28,108,28,True
+69911.0,1.0,2.0,,0,0,0,False
+69913.0,1.0,2.0,,0,0,0,False
+69917.0,1.0,2.0,No Periodontitis,24,87,24,True
+69919.0,1.0,2.0,No Periodontitis,24,91,24,True
+69921.0,1.0,2.0,Severe,20,79,20,True
+69922.0,1.0,2.0,Severe,21,84,21,True
+69923.0,1.0,2.0,No Periodontitis,28,105,28,True
+69924.0,1.0,2.0,,0,0,0,False
+69925.0,3.0,2.0,,14,0,0,False
+69928.0,1.0,2.0,,0,0,0,False
+69934.0,1.0,2.0,No Periodontitis,24,82,24,True
+69935.0,3.0,2.0,,10,0,0,False
+69936.0,1.0,2.0,No Periodontitis,28,108,28,True
+69940.0,1.0,2.0,Severe,24,81,24,True
+69941.0,1.0,2.0,No Periodontitis,28,98,27,True
+69943.0,1.0,2.0,No Periodontitis,24,88,24,True
+69948.0,1.0,2.0,Moderate,27,96,27,True
+69954.0,1.0,2.0,Moderate,27,92,27,True
+69957.0,1.0,2.0,No Periodontitis,28,101,28,True
+69959.0,1.0,2.0,No Periodontitis,27,100,27,True
+69961.0,3.0,2.0,,0,0,0,False
+69962.0,1.0,2.0,Moderate,21,84,21,True
+69964.0,1.0,2.0,,0,0,0,False
+69972.0,1.0,2.0,Moderate,24,83,24,True
+69973.0,1.0,2.0,Severe,12,42,12,True
+69975.0,1.0,2.0,Moderate,26,99,26,True
+69976.0,1.0,2.0,Severe,27,97,27,True
+69979.0,1.0,2.0,No Periodontitis,22,88,22,True
+69981.0,1.0,2.0,No Periodontitis,24,88,24,True
+69983.0,1.0,2.0,No Periodontitis,28,103,28,True
+69985.0,1.0,2.0,,0,0,0,False
+69989.0,1.0,2.0,Moderate,16,61,16,True
+69991.0,1.0,2.0,Moderate,22,72,22,True
+69993.0,1.0,2.0,Mild,27,91,27,True
+69996.0,1.0,2.0,Moderate,28,95,26,True
+69997.0,1.0,2.0,No Periodontitis,26,100,26,True
+70000.0,1.0,2.0,Moderate,25,96,25,True
+70005.0,3.0,2.0,,0,0,0,False
+70008.0,1.0,2.0,Mild,28,107,28,True
+70010.0,1.0,2.0,Mild,22,67,22,True
+70013.0,1.0,2.0,Moderate,23,91,23,True
+70014.0,1.0,2.0,No Periodontitis,28,88,28,True
+70015.0,1.0,2.0,Severe,7,28,7,True
+70016.0,1.0,2.0,No Periodontitis,27,104,27,True
+70019.0,1.0,2.0,No Periodontitis,27,106,27,True
+70026.0,1.0,2.0,No Periodontitis,28,112,28,True
+70031.0,1.0,2.0,Moderate,28,91,26,True
+70032.0,3.0,1.0,,26,0,0,False
+70033.0,1.0,2.0,No Periodontitis,28,100,27,True
+70035.0,1.0,2.0,Moderate,23,91,23,True
+70045.0,1.0,2.0,No Periodontitis,28,104,28,True
+70046.0,1.0,2.0,Moderate,23,80,23,True
+70049.0,1.0,2.0,Moderate,28,111,28,True
+70050.0,1.0,2.0,Severe,24,92,24,True
+70054.0,1.0,2.0,No Periodontitis,28,103,28,True
+70055.0,1.0,2.0,No Periodontitis,28,86,27,True
+70058.0,1.0,2.0,Mild,28,103,28,True
+70059.0,1.0,2.0,Moderate,8,32,8,True
+70061.0,1.0,2.0,,0,0,0,False
+70062.0,1.0,2.0,No Periodontitis,27,93,27,True
+70063.0,1.0,2.0,No Periodontitis,28,112,28,True
+70064.0,1.0,2.0,No Periodontitis,19,65,19,True
+70065.0,1.0,2.0,,0,0,0,False
+70066.0,1.0,2.0,No Periodontitis,17,48,16,True
+70069.0,1.0,2.0,No Periodontitis,19,76,19,True
+70072.0,1.0,2.0,Severe,17,64,16,True
+70075.0,1.0,2.0,No Periodontitis,25,93,24,True
+70077.0,1.0,2.0,No Periodontitis,20,66,20,True
+70078.0,1.0,2.0,No Periodontitis,28,72,26,True
+70080.0,1.0,2.0,No Periodontitis,28,99,27,True
+70084.0,1.0,2.0,No Periodontitis,14,54,14,True
+70088.0,1.0,2.0,Severe,27,108,27,True
+70094.0,1.0,2.0,No Periodontitis,27,108,27,True
+70095.0,3.0,2.0,,0,0,0,False
+70096.0,1.0,2.0,,0,0,0,False
+70101.0,1.0,2.0,No Periodontitis,26,102,26,True
+70102.0,1.0,2.0,Severe,23,87,23,True
+70103.0,1.0,2.0,Severe,23,90,23,True
+70104.0,1.0,2.0,No Periodontitis,28,89,28,True
+70109.0,1.0,2.0,No Periodontitis,28,107,28,True
+70111.0,1.0,2.0,Moderate,22,80,22,True
+70114.0,1.0,2.0,Severe,26,93,26,True
+70115.0,1.0,2.0,Moderate,28,88,27,True
+70117.0,1.0,2.0,No Periodontitis,28,106,28,True
+70118.0,1.0,2.0,Moderate,25,88,25,True
+70120.0,1.0,2.0,No Periodontitis,28,95,28,True
+70121.0,1.0,2.0,No Periodontitis,26,78,26,True
+70122.0,1.0,2.0,No Periodontitis,26,103,26,True
+70123.0,1.0,2.0,No Periodontitis,26,104,26,True
+70125.0,1.0,2.0,Moderate,28,112,28,True
+70129.0,1.0,2.0,No Periodontitis,23,76,23,True
+70130.0,1.0,2.0,No Periodontitis,23,92,23,True
+70131.0,1.0,2.0,Severe,20,80,20,True
+70132.0,1.0,2.0,No Periodontitis,24,91,24,True
+70133.0,1.0,2.0,No Periodontitis,28,111,28,True
+70134.0,1.0,2.0,No Periodontitis,18,59,18,True
+70136.0,3.0,2.0,,0,0,0,False
+70142.0,1.0,2.0,No Periodontitis,28,97,28,True
+70143.0,1.0,2.0,No Periodontitis,26,89,26,True
+70145.0,3.0,2.0,,0,0,0,False
+70148.0,1.0,2.0,Mild,18,59,18,True
+70150.0,1.0,2.0,No Periodontitis,28,101,28,True
+70151.0,1.0,2.0,Moderate,22,79,22,True
+70152.0,1.0,2.0,No Periodontitis,26,78,25,True
+70153.0,3.0,2.0,,0,0,0,False
+70156.0,1.0,2.0,,6,0,0,False
+70158.0,1.0,2.0,No Periodontitis,25,100,25,True
+70160.0,1.0,2.0,No Periodontitis,22,72,22,True
+70161.0,1.0,2.0,Moderate,27,107,27,True
+70162.0,1.0,2.0,Moderate,26,96,26,True
+70163.0,1.0,2.0,No Periodontitis,28,100,28,True
+70164.0,1.0,2.0,Moderate,25,100,25,True
+70167.0,1.0,2.0,Moderate,10,39,10,True
+70168.0,3.0,1.0,,23,0,0,False
+70170.0,1.0,2.0,Moderate,18,55,18,True
+70171.0,1.0,2.0,No Periodontitis,28,92,25,True
+70175.0,1.0,2.0,No Periodontitis,8,19,8,True
+70183.0,1.0,2.0,No Periodontitis,28,112,28,True
+70186.0,1.0,2.0,No Periodontitis,27,94,27,True
+70191.0,1.0,2.0,No Periodontitis,27,100,27,True
+70195.0,1.0,2.0,Severe,9,28,9,True
+70196.0,3.0,2.0,,0,0,0,False
+70198.0,1.0,2.0,No Periodontitis,26,93,26,True
+70200.0,1.0,2.0,No Periodontitis,26,101,26,True
+70203.0,1.0,2.0,Moderate,25,82,25,True
+70206.0,1.0,2.0,No Periodontitis,28,97,28,True
+70209.0,1.0,2.0,No Periodontitis,6,13,6,True
+70210.0,1.0,2.0,Moderate,21,81,21,True
+70211.0,1.0,2.0,No Periodontitis,17,49,17,True
+70212.0,1.0,2.0,Moderate,25,98,25,True
+70213.0,2.0,2.0,,22,0,0,False
+70215.0,3.0,2.0,,23,0,0,False
+70217.0,1.0,2.0,Moderate,25,92,25,True
+70219.0,1.0,2.0,,0,0,0,False
+70220.0,1.0,2.0,Moderate,28,112,28,True
+70222.0,1.0,2.0,No Periodontitis,24,91,24,True
+70223.0,1.0,2.0,Severe,25,99,25,True
+70226.0,1.0,2.0,Moderate,19,68,17,True
+70227.0,1.0,2.0,Moderate,27,108,27,True
+70228.0,1.0,2.0,Severe,8,32,8,True
+70229.0,1.0,2.0,No Periodontitis,28,110,28,True
+70231.0,1.0,2.0,No Periodontitis,28,112,28,True
+70234.0,1.0,2.0,,0,0,0,False
+70235.0,1.0,2.0,Moderate,5,19,5,True
+70236.0,1.0,2.0,Moderate,17,68,17,True
+70239.0,1.0,2.0,Moderate,28,112,28,True
+70244.0,1.0,2.0,,0,0,0,False
+70246.0,1.0,2.0,Moderate,18,53,16,True
+70247.0,1.0,2.0,Severe,27,97,27,True
+70248.0,1.0,2.0,No Periodontitis,10,32,10,True
+70251.0,1.0,2.0,No Periodontitis,20,79,20,True
+70252.0,3.0,2.0,,0,0,0,False
+70254.0,1.0,2.0,No Periodontitis,24,79,24,True
+70255.0,1.0,2.0,Moderate,28,93,28,True
+70259.0,1.0,2.0,Moderate,20,66,20,True
+70263.0,1.0,2.0,No Periodontitis,26,97,26,True
+70265.0,1.0,2.0,No Periodontitis,28,112,28,True
+70266.0,1.0,2.0,Moderate,23,92,23,True
+70267.0,1.0,2.0,No Periodontitis,23,70,23,True
+70268.0,1.0,2.0,Moderate,28,112,28,True
+70274.0,1.0,2.0,No Periodontitis,18,72,18,True
+70276.0,3.0,2.0,,0,0,0,False
+70278.0,1.0,2.0,No Periodontitis,24,65,22,True
+70279.0,1.0,2.0,,6,0,0,False
+70281.0,1.0,2.0,Moderate,26,103,26,True
+70285.0,1.0,2.0,Moderate,25,88,25,True
+70287.0,3.0,2.0,,0,0,0,False
+70288.0,1.0,2.0,No Periodontitis,11,31,11,True
+70290.0,1.0,2.0,Severe,19,66,19,True
+70292.0,1.0,2.0,,0,0,0,False
+70293.0,1.0,2.0,Moderate,22,81,22,True
+70294.0,1.0,2.0,No Periodontitis,28,96,28,True
+70295.0,1.0,2.0,No Periodontitis,27,92,27,True
+70297.0,1.0,2.0,Moderate,12,48,12,True
+70298.0,1.0,2.0,Moderate,27,100,27,True
+70299.0,1.0,2.0,Moderate,25,92,24,True
+70300.0,1.0,2.0,No Periodontitis,26,99,26,True
+70301.0,3.0,2.0,,0,0,0,False
+70303.0,1.0,2.0,No Periodontitis,22,45,20,True
+70304.0,1.0,2.0,Moderate,23,89,23,True
+70312.0,1.0,2.0,Moderate,3,11,3,True
+70313.0,1.0,2.0,No Periodontitis,27,108,27,True
+70317.0,1.0,2.0,Moderate,28,85,28,True
+70319.0,1.0,2.0,Severe,23,88,23,True
+70321.0,1.0,2.0,Moderate,26,102,26,True
+70326.0,1.0,2.0,Moderate,28,104,28,True
+70327.0,3.0,2.0,,21,0,0,False
+70329.0,1.0,2.0,No Periodontitis,6,24,6,True
+70330.0,1.0,2.0,,0,0,0,False
+70331.0,3.0,2.0,,0,0,0,False
+70332.0,1.0,2.0,,0,0,0,False
+70335.0,1.0,2.0,No Periodontitis,22,57,22,True
+70336.0,1.0,2.0,Moderate,5,16,5,True
+70337.0,1.0,2.0,Moderate,26,97,26,True
+70338.0,1.0,2.0,Severe,27,108,27,True
+70339.0,1.0,2.0,No Periodontitis,25,67,24,True
+70341.0,3.0,2.0,,24,0,0,False
+70342.0,1.0,2.0,Moderate,27,94,27,True
+70347.0,3.0,2.0,,0,0,0,False
+70349.0,1.0,2.0,Moderate,6,12,6,True
+70351.0,1.0,2.0,No Periodontitis,27,94,27,True
+70352.0,1.0,2.0,Moderate,17,58,17,True
+70355.0,1.0,2.0,,0,0,0,False
+70357.0,1.0,2.0,No Periodontitis,28,105,28,True
+70358.0,1.0,2.0,No Periodontitis,24,94,24,True
+70359.0,1.0,2.0,No Periodontitis,25,93,25,True
+70361.0,1.0,2.0,,0,0,0,False
+70362.0,1.0,2.0,Moderate,19,79,20,True
+70363.0,1.0,2.0,Moderate,27,105,27,True
+70364.0,3.0,1.0,,0,0,0,False
+70366.0,1.0,2.0,No Periodontitis,19,66,18,True
+70367.0,1.0,2.0,No Periodontitis,28,103,28,True
+70368.0,3.0,1.0,,22,0,0,False
+70372.0,3.0,2.0,,0,0,0,False
+70378.0,1.0,2.0,Severe,28,112,28,True
+70385.0,3.0,2.0,,0,0,0,False
+70386.0,1.0,2.0,Moderate,25,85,23,True
+70387.0,1.0,2.0,Moderate,27,108,27,True
+70389.0,1.0,2.0,Moderate,16,60,16,True
+70391.0,3.0,1.0,,20,0,0,False
+70394.0,1.0,2.0,No Periodontitis,27,87,26,True
+70398.0,1.0,2.0,Moderate,15,50,15,True
+70401.0,3.0,2.0,,0,0,0,False
+70402.0,1.0,2.0,,0,0,0,False
+70405.0,1.0,2.0,No Periodontitis,28,99,28,True
+70406.0,3.0,2.0,,0,0,0,False
+70408.0,1.0,2.0,No Periodontitis,28,103,28,True
+70409.0,1.0,2.0,No Periodontitis,28,74,25,True
+70413.0,1.0,2.0,No Periodontitis,28,112,28,True
+70415.0,1.0,2.0,No Periodontitis,26,93,26,True
+70417.0,1.0,2.0,Severe,14,55,14,True
+70420.0,1.0,2.0,No Periodontitis,13,52,13,True
+70421.0,1.0,2.0,No Periodontitis,8,19,8,True
+70423.0,1.0,2.0,No Periodontitis,26,86,26,True
+70425.0,1.0,2.0,Moderate,21,84,21,True
+70426.0,1.0,2.0,Severe,18,68,18,True
+70427.0,1.0,2.0,No Periodontitis,27,98,27,True
+70429.0,1.0,2.0,Severe,24,79,24,True
+70430.0,1.0,2.0,No Periodontitis,27,105,27,True
+70432.0,3.0,2.0,,0,0,0,False
+70437.0,1.0,2.0,Severe,28,110,28,True
+70438.0,1.0,2.0,No Periodontitis,26,99,26,True
+70442.0,1.0,2.0,No Periodontitis,27,106,27,True
+70443.0,1.0,2.0,Severe,21,76,19,True
+70445.0,1.0,2.0,,0,0,0,False
+70446.0,1.0,2.0,No Periodontitis,26,87,26,True
+70451.0,1.0,2.0,No Periodontitis,28,91,25,True
+70455.0,1.0,2.0,,0,0,0,False
+70457.0,1.0,2.0,Mild,28,96,28,True
+70458.0,3.0,1.0,,24,0,0,False
+70464.0,1.0,2.0,Moderate,22,67,18,True
+70470.0,1.0,2.0,No Periodontitis,23,84,23,True
+70473.0,3.0,2.0,,0,0,0,False
+70474.0,1.0,2.0,Severe,7,28,7,True
+70476.0,1.0,2.0,No Periodontitis,25,98,25,True
+70478.0,3.0,2.0,,0,0,0,False
+70480.0,1.0,2.0,No Periodontitis,28,94,28,True
+70485.0,1.0,2.0,No Periodontitis,28,111,28,True
+70487.0,1.0,2.0,Moderate,14,50,13,True
+70489.0,1.0,2.0,No Periodontitis,27,98,27,True
+70493.0,1.0,2.0,Severe,24,86,24,True
+70495.0,1.0,2.0,Moderate,24,94,24,True
+70498.0,3.0,2.0,,28,0,0,False
+70499.0,1.0,2.0,Moderate,26,65,26,True
+70501.0,1.0,2.0,No Periodontitis,28,89,25,True
+70502.0,1.0,2.0,Moderate,27,108,27,True
+70504.0,1.0,2.0,Severe,9,35,9,True
+70505.0,1.0,2.0,No Periodontitis,28,82,28,True
+70507.0,1.0,2.0,No Periodontitis,10,18,9,True
+70511.0,1.0,2.0,No Periodontitis,28,94,28,True
+70517.0,1.0,2.0,Mild,17,67,17,True
+70520.0,1.0,2.0,Moderate,25,100,25,True
+70521.0,1.0,2.0,No Periodontitis,26,83,26,True
+70523.0,1.0,2.0,No Periodontitis,28,94,28,True
+70525.0,1.0,2.0,Moderate,5,20,5,True
+70527.0,1.0,2.0,Moderate,24,79,24,True
+70529.0,3.0,2.0,,17,0,0,False
+70531.0,1.0,2.0,Moderate,27,108,27,True
+70533.0,1.0,2.0,No Periodontitis,24,79,24,True
+70534.0,1.0,2.0,No Periodontitis,26,101,26,True
+70535.0,1.0,2.0,No Periodontitis,28,98,27,True
+70536.0,1.0,2.0,Moderate,28,104,28,True
+70543.0,1.0,2.0,Moderate,11,40,10,True
+70544.0,1.0,2.0,,0,0,0,False
+70545.0,1.0,2.0,No Periodontitis,28,112,28,True
+70547.0,3.0,1.0,,18,0,0,False
+70548.0,1.0,2.0,Moderate,27,100,27,True
+70550.0,1.0,2.0,Moderate,25,96,25,True
+70551.0,1.0,2.0,,0,0,0,False
+70554.0,1.0,2.0,No Periodontitis,28,79,27,True
+70561.0,1.0,2.0,No Periodontitis,28,110,28,True
+70562.0,1.0,2.0,Moderate,26,76,23,True
+70564.0,1.0,2.0,,0,0,0,False
+70565.0,1.0,2.0,No Periodontitis,22,58,22,True
+70566.0,1.0,2.0,Moderate,28,99,28,True
+70567.0,3.0,2.0,,0,0,0,False
+70568.0,1.0,2.0,No Periodontitis,19,73,19,True
+70570.0,3.0,2.0,,0,0,0,False
+70574.0,1.0,2.0,Severe,22,88,22,True
+70575.0,1.0,2.0,No Periodontitis,12,32,11,True
+70577.0,1.0,2.0,Moderate,6,12,6,True
+70580.0,1.0,2.0,Severe,6,23,6,True
+70581.0,1.0,2.0,Moderate,21,65,21,True
+70582.0,1.0,2.0,Moderate,24,85,24,True
+70584.0,1.0,2.0,No Periodontitis,28,101,28,True
+70586.0,1.0,2.0,Moderate,24,91,24,True
+70587.0,1.0,2.0,No Periodontitis,28,76,28,True
+70590.0,1.0,2.0,No Periodontitis,23,92,23,True
+70593.0,1.0,2.0,,0,0,0,False
+70595.0,3.0,2.0,,0,0,0,False
+70596.0,1.0,2.0,No Periodontitis,28,90,28,True
+70597.0,1.0,2.0,,0,0,0,False
+70599.0,1.0,2.0,Severe,23,91,23,True
+70600.0,1.0,2.0,,0,0,0,False
+70603.0,1.0,2.0,No Periodontitis,27,92,27,True
+70604.0,1.0,2.0,No Periodontitis,26,102,26,True
+70605.0,1.0,2.0,Mild,27,100,27,True
+70606.0,2.0,2.0,,4,0,0,False
+70607.0,1.0,2.0,No Periodontitis,28,108,28,True
+70613.0,1.0,2.0,No Periodontitis,28,99,28,True
+70617.0,2.0,2.0,,18,0,0,False
+70622.0,1.0,2.0,Moderate,18,68,18,True
+70623.0,1.0,2.0,,0,0,0,False
+70624.0,1.0,2.0,No Periodontitis,28,112,28,True
+70626.0,1.0,2.0,Moderate,24,96,24,True
+70627.0,1.0,2.0,Moderate,24,85,24,True
+70628.0,3.0,1.0,,28,0,0,False
+70633.0,1.0,2.0,Moderate,27,108,27,True
+70635.0,1.0,2.0,Mild,28,103,28,True
+70638.0,1.0,2.0,Severe,19,70,19,True
+70639.0,3.0,2.0,,0,0,0,False
+70641.0,1.0,2.0,Moderate,20,77,20,True
+70644.0,1.0,2.0,No Periodontitis,28,99,28,True
+70646.0,1.0,2.0,Moderate,22,87,22,True
+70647.0,1.0,2.0,Mild,27,70,27,True
+70649.0,1.0,2.0,Moderate,27,106,27,True
+70653.0,1.0,2.0,No Periodontitis,28,79,27,True
+70661.0,1.0,2.0,Moderate,22,87,22,True
+70664.0,1.0,2.0,,0,0,0,False
+70668.0,1.0,2.0,No Periodontitis,27,98,27,True
+70670.0,1.0,2.0,No Periodontitis,22,69,21,True
+70674.0,1.0,2.0,Moderate,4,15,4,True
+70675.0,1.0,2.0,No Periodontitis,25,98,25,True
+70676.0,3.0,1.0,,0,0,0,False
+70681.0,1.0,2.0,No Periodontitis,26,100,26,True
+70684.0,3.0,2.0,,0,0,0,False
+70686.0,1.0,2.0,No Periodontitis,28,109,28,True
+70687.0,1.0,2.0,No Periodontitis,28,102,28,True
+70689.0,1.0,2.0,Severe,26,89,26,True
+70695.0,1.0,2.0,Moderate,17,59,17,True
+70696.0,1.0,2.0,Moderate,21,74,21,True
+70697.0,1.0,2.0,No Periodontitis,27,105,27,True
+70703.0,1.0,2.0,,0,0,0,False
+70704.0,1.0,2.0,No Periodontitis,26,89,26,True
+70706.0,1.0,2.0,No Periodontitis,24,81,24,True
+70708.0,3.0,1.0,,26,0,0,False
+70710.0,1.0,2.0,Moderate,21,77,21,True
+70713.0,1.0,2.0,No Periodontitis,28,101,28,True
+70715.0,1.0,2.0,No Periodontitis,19,68,19,True
+70716.0,3.0,1.0,,27,0,0,False
+70717.0,1.0,2.0,,0,0,0,False
+70718.0,1.0,2.0,,0,0,0,False
+70721.0,1.0,2.0,Moderate,21,79,21,True
+70723.0,1.0,2.0,No Periodontitis,28,99,26,True
+70725.0,3.0,1.0,,25,0,0,False
+70727.0,1.0,2.0,No Periodontitis,26,83,24,True
+70728.0,3.0,2.0,,0,0,0,False
+70729.0,1.0,2.0,,0,0,0,False
+70730.0,1.0,2.0,Moderate,25,81,25,True
+70732.0,1.0,2.0,Moderate,28,112,28,True
+70733.0,3.0,2.0,,0,0,0,False
+70735.0,1.0,2.0,,0,0,0,False
+70736.0,1.0,2.0,No Periodontitis,24,96,24,True
+70738.0,1.0,2.0,No Periodontitis,28,105,28,True
+70739.0,1.0,2.0,,0,0,0,False
+70743.0,3.0,2.0,,28,0,0,False
+70745.0,1.0,2.0,Moderate,2,8,2,True
+70746.0,2.0,2.0,,19,0,0,False
+70747.0,3.0,2.0,,6,0,0,False
+70748.0,1.0,2.0,No Periodontitis,27,102,27,True
+70753.0,1.0,2.0,Moderate,28,107,28,True
+70755.0,1.0,2.0,Moderate,27,95,26,True
+70756.0,1.0,2.0,Severe,27,92,27,True
+70757.0,1.0,2.0,No Periodontitis,24,90,24,True
+70759.0,1.0,2.0,Moderate,21,84,21,True
+70761.0,1.0,2.0,Moderate,28,109,28,True
+70762.0,1.0,2.0,No Periodontitis,28,99,28,True
+70763.0,1.0,2.0,Moderate,14,55,14,True
+70765.0,1.0,2.0,Moderate,10,39,10,True
+70766.0,1.0,2.0,No Periodontitis,23,84,23,True
+70772.0,3.0,2.0,,28,0,0,False
+70773.0,1.0,2.0,No Periodontitis,27,104,27,True
+70774.0,1.0,2.0,Moderate,13,43,13,True
+70775.0,1.0,2.0,Moderate,14,53,14,True
+70776.0,1.0,2.0,Severe,6,24,6,True
+70779.0,1.0,2.0,,0,0,0,False
+70782.0,1.0,2.0,Moderate,20,78,20,True
+70783.0,1.0,2.0,No Periodontitis,25,90,25,True
+70784.0,1.0,2.0,No Periodontitis,28,85,28,True
+70785.0,3.0,2.0,,0,0,0,False
+70786.0,1.0,2.0,No Periodontitis,22,86,22,True
+70787.0,1.0,2.0,Moderate,20,74,20,True
+70788.0,1.0,2.0,No Periodontitis,27,99,27,True
+70790.0,1.0,2.0,No Periodontitis,28,97,28,True
+70791.0,1.0,2.0,No Periodontitis,23,69,22,True
+70792.0,1.0,2.0,No Periodontitis,25,96,25,True
+70793.0,3.0,2.0,,23,0,0,False
+70794.0,1.0,2.0,Moderate,15,59,15,True
+70797.0,1.0,2.0,No Periodontitis,28,104,28,True
+70798.0,1.0,2.0,Moderate,25,92,25,True
+70804.0,1.0,2.0,No Periodontitis,25,86,25,True
+70805.0,1.0,2.0,Moderate,27,108,27,True
+70806.0,1.0,2.0,Severe,22,84,22,True
+70808.0,1.0,2.0,Severe,20,80,20,True
+70811.0,1.0,2.0,No Periodontitis,14,50,14,True
+70816.0,3.0,2.0,,0,0,0,False
+70821.0,1.0,2.0,No Periodontitis,26,104,26,True
+70825.0,1.0,2.0,No Periodontitis,28,103,28,True
+70826.0,1.0,2.0,No Periodontitis,26,81,25,True
+70831.0,1.0,2.0,Moderate,28,98,28,True
+70832.0,1.0,2.0,No Periodontitis,28,70,24,True
+70833.0,1.0,2.0,No Periodontitis,27,101,27,True
+70835.0,1.0,2.0,Moderate,27,103,27,True
+70837.0,1.0,2.0,Moderate,26,87,26,True
+70842.0,3.0,1.0,,28,0,0,False
+70848.0,1.0,2.0,Moderate,15,54,15,True
+70849.0,1.0,2.0,,0,0,0,False
+70851.0,1.0,2.0,No Periodontitis,28,104,28,True
+70860.0,1.0,2.0,Moderate,28,102,28,True
+70862.0,1.0,2.0,Moderate,27,88,27,True
+70863.0,1.0,2.0,No Periodontitis,22,83,22,True
+70865.0,1.0,2.0,Moderate,28,107,28,True
+70868.0,1.0,2.0,,0,0,0,False
+70869.0,1.0,2.0,Moderate,27,108,27,True
+70871.0,1.0,2.0,No Periodontitis,28,99,27,True
+70874.0,1.0,2.0,Moderate,19,36,15,True
+70877.0,1.0,2.0,Moderate,27,87,27,True
+70883.0,1.0,2.0,No Periodontitis,24,91,24,True
+70887.0,1.0,2.0,Moderate,9,36,9,True
+70890.0,1.0,2.0,No Periodontitis,6,24,6,True
+70891.0,1.0,2.0,Moderate,26,80,26,True
+70893.0,1.0,2.0,No Periodontitis,26,76,26,True
+70894.0,1.0,2.0,Moderate,28,95,28,True
+70895.0,1.0,2.0,,0,0,0,False
+70897.0,1.0,2.0,Moderate,26,101,26,True
+70898.0,1.0,2.0,Moderate,23,70,22,True
+70899.0,1.0,2.0,Moderate,25,97,25,True
+70900.0,3.0,1.0,,19,0,0,False
+70906.0,1.0,2.0,No Periodontitis,27,106,27,True
+70910.0,1.0,2.0,,0,0,0,False
+70911.0,1.0,2.0,No Periodontitis,24,88,23,True
+70912.0,3.0,1.0,No Periodontitis,21,12,3,False
+70914.0,1.0,2.0,Moderate,28,91,28,True
+70916.0,1.0,2.0,,3,0,0,False
+70917.0,3.0,2.0,,0,0,0,False
+70920.0,1.0,2.0,No Periodontitis,23,78,23,True
+70923.0,3.0,2.0,,0,0,0,False
+70925.0,1.0,2.0,Severe,28,105,28,True
+70927.0,1.0,2.0,,0,0,0,False
+70931.0,1.0,2.0,No Periodontitis,27,106,27,True
+70932.0,1.0,2.0,No Periodontitis,27,102,26,True
+70933.0,1.0,2.0,Moderate,24,92,24,True
+70935.0,1.0,2.0,Moderate,28,104,28,True
+70938.0,1.0,2.0,Moderate,27,100,27,True
+70941.0,1.0,2.0,Moderate,26,104,26,True
+70945.0,1.0,2.0,Moderate,20,74,20,True
+70949.0,1.0,2.0,Moderate,16,64,16,True
+70950.0,1.0,2.0,Moderate,23,92,23,True
+70954.0,3.0,2.0,,27,0,0,False
+70959.0,1.0,2.0,No Periodontitis,26,100,25,True
+70961.0,1.0,2.0,Moderate,3,12,3,True
+70962.0,2.0,2.0,,24,0,0,False
+70964.0,1.0,2.0,No Periodontitis,24,96,24,True
+70969.0,3.0,2.0,,0,0,0,False
+70970.0,1.0,2.0,No Periodontitis,28,109,28,True
+70971.0,1.0,2.0,Severe,26,104,26,True
+70972.0,1.0,2.0,Moderate,13,44,13,True
+70973.0,1.0,2.0,No Periodontitis,28,107,28,True
+70974.0,1.0,2.0,Moderate,27,105,27,True
+70979.0,1.0,2.0,No Periodontitis,24,96,24,True
+70980.0,1.0,2.0,No Periodontitis,28,84,28,True
+70981.0,1.0,2.0,No Periodontitis,24,87,24,True
+70982.0,3.0,2.0,,0,0,0,False
+70983.0,1.0,2.0,No Periodontitis,28,86,25,True
+70984.0,1.0,2.0,Moderate,26,99,26,True
+70985.0,1.0,2.0,,3,0,0,False
+70991.0,1.0,2.0,,0,0,0,False
+70993.0,1.0,2.0,No Periodontitis,28,104,28,True
+70995.0,1.0,2.0,No Periodontitis,28,91,28,True
+70996.0,1.0,2.0,No Periodontitis,28,95,27,True
+70997.0,1.0,2.0,No Periodontitis,28,111,28,True
+70999.0,1.0,2.0,No Periodontitis,28,98,28,True
+71003.0,1.0,2.0,Severe,19,75,19,True
+71004.0,1.0,2.0,No Periodontitis,8,32,8,True
+71005.0,3.0,2.0,,0,0,0,False
+71008.0,1.0,2.0,Severe,24,90,23,True
+71011.0,1.0,2.0,No Periodontitis,27,90,27,True
+71015.0,1.0,2.0,No Periodontitis,24,68,21,True
+71020.0,1.0,2.0,,0,0,0,False
+71021.0,1.0,2.0,Moderate,27,100,27,True
+71025.0,1.0,2.0,No Periodontitis,14,47,12,True
+71037.0,1.0,2.0,No Periodontitis,28,106,28,True
+71038.0,1.0,2.0,Severe,27,107,27,True
+71039.0,1.0,2.0,No Periodontitis,28,112,28,True
+71040.0,1.0,2.0,Severe,12,45,12,True
+71042.0,1.0,2.0,Moderate,24,91,24,True
+71045.0,1.0,2.0,Moderate,9,38,11,True
+71046.0,1.0,2.0,No Periodontitis,26,80,26,True
+71047.0,1.0,2.0,Severe,24,90,24,True
+71048.0,1.0,2.0,Moderate,11,43,11,True
+71051.0,1.0,2.0,Moderate,21,71,20,True
+71053.0,1.0,2.0,Moderate,23,86,23,True
+71054.0,1.0,2.0,No Periodontitis,21,79,21,True
+71057.0,3.0,2.0,,0,0,0,False
+71059.0,1.0,2.0,Severe,24,93,24,True
+71060.0,1.0,2.0,No Periodontitis,28,112,28,True
+71061.0,1.0,2.0,Severe,26,104,26,True
+71062.0,1.0,2.0,No Periodontitis,25,64,25,True
+71063.0,1.0,2.0,No Periodontitis,28,112,28,True
+71065.0,1.0,2.0,Moderate,20,80,20,True
+71066.0,1.0,2.0,No Periodontitis,10,40,10,True
+71068.0,1.0,2.0,Mild,22,78,22,True
+71069.0,1.0,2.0,No Periodontitis,26,84,25,True
+71070.0,1.0,2.0,Moderate,25,61,20,True
+71071.0,1.0,2.0,No Periodontitis,28,90,25,True
+71072.0,1.0,2.0,No Periodontitis,16,62,16,True
+71076.0,1.0,2.0,No Periodontitis,27,97,27,True
+71079.0,1.0,2.0,No Periodontitis,22,83,22,True
+71082.0,1.0,2.0,Moderate,9,36,9,True
+71083.0,3.0,1.0,,26,0,0,False
+71084.0,1.0,2.0,Severe,20,80,20,True
+71087.0,3.0,2.0,,14,0,0,False
+71089.0,1.0,2.0,Moderate,28,112,28,True
+71090.0,1.0,2.0,Moderate,28,106,28,True
+71091.0,1.0,2.0,No Periodontitis,28,104,28,True
+71092.0,1.0,2.0,,0,0,0,False
+71093.0,3.0,1.0,,27,0,0,False
+71094.0,1.0,2.0,Moderate,28,104,28,True
+71095.0,1.0,2.0,No Periodontitis,28,102,28,True
+71099.0,1.0,2.0,Moderate,24,96,24,True
+71100.0,1.0,2.0,,0,0,0,False
+71101.0,1.0,2.0,,0,0,0,False
+71103.0,1.0,2.0,Moderate,26,101,26,True
+71104.0,2.0,2.0,,17,0,0,False
+71105.0,1.0,2.0,Moderate,10,34,10,True
+71107.0,3.0,2.0,,0,0,0,False
+71111.0,2.0,2.0,,23,0,0,False
+71112.0,3.0,1.0,,24,0,0,False
+71117.0,1.0,2.0,No Periodontitis,28,95,28,True
+71118.0,3.0,2.0,,0,0,0,False
+71119.0,1.0,2.0,No Periodontitis,28,109,28,True
+71120.0,1.0,2.0,,0,0,0,False
+71122.0,1.0,2.0,No Periodontitis,28,92,28,True
+71123.0,1.0,2.0,Moderate,28,102,28,True
+71127.0,1.0,2.0,Moderate,22,75,22,True
+71130.0,1.0,2.0,Moderate,19,76,19,True
+71132.0,3.0,2.0,,0,0,0,False
+71133.0,1.0,2.0,No Periodontitis,28,112,28,True
+71135.0,1.0,2.0,Moderate,24,96,24,True
+71137.0,1.0,2.0,Severe,21,84,21,True
+71141.0,2.0,2.0,,12,0,0,False
+71143.0,1.0,2.0,Severe,20,79,20,True
+71144.0,3.0,2.0,,23,0,0,False
+71146.0,3.0,2.0,,0,0,0,False
+71152.0,1.0,2.0,,0,0,0,False
+71155.0,1.0,2.0,No Periodontitis,27,71,22,True
+71158.0,1.0,2.0,No Periodontitis,28,103,28,True
+71159.0,1.0,2.0,No Periodontitis,28,110,28,True
+71161.0,1.0,2.0,Moderate,26,103,26,True
+71164.0,1.0,2.0,No Periodontitis,26,95,26,True
+71166.0,3.0,2.0,,7,0,0,False
+71169.0,1.0,2.0,No Periodontitis,23,87,23,True
+71171.0,1.0,2.0,Moderate,27,108,27,True
+71172.0,2.0,2.0,No Periodontitis,25,24,6,False
+71175.0,1.0,2.0,Severe,20,80,20,True
+71176.0,1.0,2.0,No Periodontitis,9,34,9,True
+71180.0,3.0,2.0,,0,0,0,False
+71182.0,1.0,2.0,No Periodontitis,23,90,23,True
+71183.0,1.0,2.0,Mild,23,76,23,True
+71184.0,1.0,2.0,No Periodontitis,28,62,28,True
+71187.0,3.0,2.0,,0,0,0,False
+71189.0,3.0,2.0,,0,0,0,False
+71194.0,3.0,1.0,,17,0,0,False
+71195.0,1.0,2.0,No Periodontitis,28,100,28,True
+71197.0,1.0,2.0,No Periodontitis,28,96,28,True
+71199.0,1.0,2.0,Moderate,22,74,21,True
+71200.0,1.0,2.0,No Periodontitis,28,96,28,True
+71201.0,1.0,2.0,Moderate,25,97,25,True
+71202.0,1.0,2.0,,0,0,0,False
+71203.0,1.0,2.0,,0,0,0,False
+71208.0,1.0,2.0,No Periodontitis,28,106,28,True
+71211.0,1.0,2.0,No Periodontitis,25,87,25,True
+71212.0,1.0,2.0,Moderate,27,101,27,True
+71213.0,1.0,2.0,No Periodontitis,28,107,28,True
+71215.0,1.0,2.0,No Periodontitis,28,101,28,True
+71216.0,1.0,2.0,Moderate,24,96,24,True
+71218.0,1.0,2.0,No Periodontitis,28,75,25,True
+71219.0,1.0,2.0,Moderate,26,92,26,True
+71222.0,1.0,2.0,No Periodontitis,26,97,26,True
+71224.0,1.0,2.0,No Periodontitis,27,85,27,True
+71227.0,1.0,2.0,Moderate,24,87,24,True
+71228.0,3.0,2.0,,0,0,0,False
+71229.0,1.0,2.0,Severe,28,86,28,True
+71231.0,1.0,2.0,Moderate,27,98,27,True
+71232.0,1.0,2.0,No Periodontitis,25,98,25,True
+71234.0,1.0,2.0,Mild,28,56,23,True
+71237.0,3.0,2.0,,0,0,0,False
+71238.0,1.0,2.0,No Periodontitis,28,104,28,True
+71239.0,1.0,2.0,Moderate,26,90,26,True
+71240.0,1.0,2.0,Severe,10,40,10,True
+71242.0,1.0,2.0,,0,0,0,False
+71244.0,1.0,2.0,No Periodontitis,23,92,23,True
+71245.0,1.0,2.0,No Periodontitis,19,60,19,True
+71250.0,1.0,2.0,Severe,13,32,10,True
+71252.0,3.0,2.0,,0,0,0,False
+71254.0,1.0,2.0,Moderate,22,79,22,True
+71261.0,3.0,2.0,,0,0,0,False
+71263.0,3.0,2.0,,0,0,0,False
+71266.0,1.0,2.0,No Periodontitis,28,108,28,True
+71267.0,1.0,2.0,Moderate,28,111,28,True
+71271.0,1.0,2.0,Moderate,22,81,22,True
+71272.0,1.0,2.0,No Periodontitis,28,105,28,True
+71278.0,1.0,2.0,,0,0,0,False
+71279.0,1.0,2.0,No Periodontitis,11,41,11,True
+71284.0,2.0,2.0,,8,0,0,False
+71286.0,1.0,2.0,Moderate,28,97,27,True
+71288.0,1.0,2.0,No Periodontitis,25,90,25,True
+71289.0,1.0,2.0,No Periodontitis,28,100,28,True
+71291.0,1.0,2.0,No Periodontitis,28,106,28,True
+71292.0,1.0,2.0,No Periodontitis,27,100,27,True
+71296.0,1.0,2.0,No Periodontitis,20,63,20,True
+71300.0,3.0,2.0,,0,0,0,False
+71302.0,1.0,2.0,Moderate,23,82,23,True
+71306.0,3.0,2.0,,28,0,0,False
+71307.0,3.0,2.0,,18,0,0,False
+71308.0,1.0,2.0,No Periodontitis,13,49,13,True
+71309.0,1.0,2.0,Moderate,23,92,23,True
+71310.0,1.0,2.0,No Periodontitis,23,91,23,True
+71311.0,3.0,1.0,,22,0,0,False
+71312.0,1.0,2.0,Moderate,16,64,16,True
+71313.0,1.0,2.0,Moderate,28,106,28,True
+71314.0,1.0,2.0,No Periodontitis,26,95,26,True
+71315.0,1.0,2.0,Severe,27,82,23,True
+71316.0,1.0,2.0,Severe,19,66,19,True
+71321.0,1.0,2.0,No Periodontitis,28,102,28,True
+71324.0,1.0,2.0,No Periodontitis,23,87,23,True
+71328.0,1.0,2.0,No Periodontitis,27,82,27,True
+71330.0,1.0,2.0,Severe,19,76,19,True
+71333.0,1.0,2.0,No Periodontitis,28,82,27,True
+71334.0,1.0,2.0,Moderate,3,12,3,True
+71336.0,2.0,2.0,,27,0,0,False
+71339.0,3.0,2.0,,0,0,0,False
+71340.0,1.0,2.0,Moderate,28,99,28,True
+71341.0,1.0,2.0,No Periodontitis,21,73,21,True
+71342.0,1.0,2.0,,0,0,0,False
+71344.0,1.0,2.0,Moderate,9,21,7,True
+71346.0,1.0,2.0,No Periodontitis,23,68,23,True
+71347.0,1.0,2.0,Moderate,9,33,9,True
+71348.0,1.0,2.0,Moderate,27,108,27,True
+71351.0,3.0,2.0,,0,0,0,False
+71353.0,1.0,2.0,Moderate,28,96,28,True
+71354.0,1.0,2.0,Moderate,20,79,20,True
+71356.0,1.0,2.0,Severe,14,55,14,True
+71359.0,1.0,2.0,Severe,25,88,25,True
+71361.0,1.0,2.0,No Periodontitis,27,84,27,True
+71363.0,1.0,2.0,No Periodontitis,28,112,28,True
+71368.0,1.0,2.0,No Periodontitis,28,106,28,True
+71371.0,1.0,2.0,Moderate,14,56,14,True
+71372.0,1.0,2.0,Mild,28,93,28,True
+71374.0,1.0,2.0,No Periodontitis,28,103,28,True
+71375.0,1.0,2.0,No Periodontitis,28,93,27,True
+71377.0,3.0,2.0,,0,0,0,False
+71379.0,1.0,2.0,No Periodontitis,28,100,28,True
+71381.0,1.0,2.0,Moderate,19,63,19,True
+71382.0,1.0,2.0,Moderate,24,91,24,True
+71388.0,3.0,2.0,,0,0,0,False
+71390.0,3.0,2.0,,21,0,0,False
+71392.0,1.0,2.0,Mild,28,82,27,True
+71395.0,1.0,2.0,Moderate,28,112,28,True
+71399.0,1.0,2.0,Moderate,25,99,25,True
+71401.0,1.0,2.0,Severe,10,37,10,True
+71403.0,1.0,2.0,No Periodontitis,28,89,28,True
+71405.0,1.0,2.0,No Periodontitis,1,4,1,True
+71407.0,1.0,2.0,Severe,24,93,24,True
+71409.0,1.0,2.0,Moderate,26,90,24,True
+71412.0,1.0,2.0,No Periodontitis,28,112,28,True
+71413.0,1.0,2.0,Moderate,28,112,28,True
+71415.0,1.0,2.0,Severe,14,55,14,True
+71416.0,1.0,2.0,No Periodontitis,28,74,26,True
+71417.0,1.0,2.0,Moderate,21,84,21,True
+71419.0,1.0,2.0,No Periodontitis,28,107,28,True
+71420.0,1.0,2.0,Moderate,27,97,27,True
+71422.0,1.0,2.0,No Periodontitis,24,81,24,True
+71427.0,1.0,2.0,No Periodontitis,28,95,28,True
+71428.0,1.0,2.0,No Periodontitis,28,99,28,True
+71430.0,1.0,2.0,Severe,21,61,21,True
+71433.0,1.0,2.0,Moderate,25,90,25,True
+71436.0,3.0,1.0,,20,0,0,False
+71438.0,1.0,2.0,No Periodontitis,7,26,7,True
+71449.0,3.0,2.0,,0,0,0,False
+71450.0,1.0,2.0,No Periodontitis,27,91,27,True
+71451.0,1.0,2.0,Moderate,8,32,8,True
+71452.0,3.0,2.0,,0,0,0,False
+71455.0,1.0,2.0,,0,0,0,False
+71457.0,3.0,2.0,,0,0,0,False
+71460.0,1.0,2.0,No Periodontitis,25,93,25,True
+71467.0,1.0,2.0,Moderate,21,79,21,True
+71468.0,3.0,2.0,,0,0,0,False
+71470.0,1.0,2.0,No Periodontitis,20,62,19,True
+71472.0,1.0,2.0,Moderate,21,78,23,True
+71473.0,1.0,2.0,No Periodontitis,25,100,25,True
+71476.0,3.0,1.0,,28,0,0,False
+71477.0,3.0,2.0,,0,0,0,False
+71478.0,1.0,2.0,Moderate,28,101,27,True
+71482.0,1.0,2.0,Moderate,23,91,23,True
+71483.0,1.0,2.0,Moderate,19,73,19,True
+71488.0,1.0,2.0,Mild,27,70,24,True
+71492.0,1.0,2.0,,0,0,0,False
+71496.0,1.0,2.0,Severe,26,102,26,True
+71497.0,1.0,2.0,,0,0,0,False
+71503.0,1.0,2.0,Moderate,24,89,24,True
+71505.0,3.0,2.0,,0,0,0,False
+71509.0,3.0,2.0,,0,0,0,False
+71510.0,3.0,2.0,,0,0,0,False
+71511.0,1.0,2.0,,0,0,0,False
+71515.0,1.0,2.0,Severe,10,35,10,True
+71517.0,1.0,2.0,,0,0,0,False
+71522.0,3.0,1.0,,4,0,0,False
+71525.0,3.0,2.0,,26,0,0,False
+71526.0,1.0,2.0,No Periodontitis,27,92,27,True
+71527.0,1.0,2.0,No Periodontitis,26,92,26,True
+71528.0,3.0,2.0,,0,0,0,False
+71529.0,1.0,2.0,No Periodontitis,28,72,24,True
+71530.0,1.0,2.0,Mild,23,82,23,True
+71531.0,1.0,2.0,Mild,23,78,23,True
+71533.0,1.0,2.0,No Periodontitis,27,81,25,True
+71534.0,1.0,2.0,,0,0,0,False
+71535.0,1.0,2.0,No Periodontitis,25,87,26,True
+71536.0,1.0,2.0,No Periodontitis,28,101,27,True
+71538.0,1.0,2.0,Moderate,21,83,21,True
+71540.0,1.0,2.0,Severe,14,56,14,True
+71542.0,3.0,1.0,,28,0,0,False
+71544.0,1.0,2.0,No Periodontitis,23,65,20,True
+71549.0,1.0,2.0,,0,0,0,False
+71552.0,1.0,2.0,Severe,3,12,3,True
+71554.0,1.0,2.0,Moderate,7,26,7,True
+71555.0,1.0,2.0,Severe,26,101,26,True
+71559.0,1.0,2.0,Moderate,11,37,11,True
+71560.0,1.0,2.0,No Periodontitis,1,4,1,True
+71561.0,1.0,2.0,Moderate,23,89,23,True
+71566.0,1.0,2.0,No Periodontitis,24,86,24,True
+71567.0,1.0,2.0,No Periodontitis,28,95,28,True
+71569.0,1.0,2.0,Moderate,27,81,26,True
+71571.0,1.0,2.0,Moderate,21,84,21,True
+71574.0,1.0,2.0,Mild,28,91,26,True
+71575.0,1.0,2.0,Moderate,8,32,8,True
+71577.0,1.0,2.0,Moderate,19,73,19,True
+71578.0,1.0,2.0,No Periodontitis,28,90,27,True
+71580.0,1.0,2.0,No Periodontitis,24,87,24,True
+71581.0,1.0,2.0,Mild,25,85,26,True
+71583.0,1.0,2.0,Moderate,19,69,19,True
+71584.0,1.0,2.0,No Periodontitis,14,54,14,True
+71585.0,1.0,2.0,,0,0,0,False
+71591.0,1.0,2.0,No Periodontitis,23,69,23,True
+71593.0,1.0,2.0,Moderate,25,77,25,True
+71595.0,3.0,2.0,,0,0,0,False
+71599.0,1.0,2.0,No Periodontitis,28,105,28,True
+71604.0,1.0,2.0,Moderate,26,92,26,True
+71605.0,1.0,2.0,No Periodontitis,28,108,28,True
+71613.0,1.0,2.0,,0,0,0,False
+71615.0,1.0,2.0,No Periodontitis,28,100,28,True
+71619.0,1.0,2.0,No Periodontitis,19,72,19,True
+71620.0,1.0,2.0,Moderate,27,88,27,True
+71622.0,1.0,2.0,Moderate,28,112,28,True
+71625.0,1.0,2.0,No Periodontitis,27,66,26,True
+71626.0,1.0,2.0,Moderate,24,91,24,True
+71628.0,2.0,2.0,,25,0,0,False
+71633.0,1.0,2.0,Moderate,13,39,12,True
+71635.0,1.0,2.0,No Periodontitis,28,102,28,True
+71639.0,1.0,2.0,Severe,20,57,16,True
+71640.0,1.0,2.0,No Periodontitis,26,98,26,True
+71643.0,1.0,2.0,No Periodontitis,28,107,28,True
+71644.0,2.0,2.0,,22,0,0,False
+71647.0,1.0,2.0,No Periodontitis,15,58,15,True
+71650.0,1.0,2.0,Moderate,27,105,27,True
+71651.0,1.0,2.0,No Periodontitis,28,110,28,True
+71655.0,1.0,2.0,Moderate,5,20,5,True
+71656.0,1.0,2.0,No Periodontitis,28,105,28,True
+71657.0,1.0,2.0,Moderate,27,104,27,True
+71659.0,1.0,2.0,No Periodontitis,28,91,28,True
+71660.0,1.0,2.0,No Periodontitis,26,94,26,True
+71662.0,3.0,2.0,,28,0,0,False
+71666.0,3.0,2.0,,21,0,0,False
+71671.0,1.0,2.0,Moderate,27,93,27,True
+71675.0,1.0,2.0,No Periodontitis,28,99,28,True
+71676.0,1.0,2.0,,0,0,0,False
+71677.0,3.0,2.0,,27,0,0,False
+71678.0,1.0,2.0,No Periodontitis,24,96,24,True
+71680.0,1.0,2.0,,0,0,0,False
+71681.0,1.0,2.0,No Periodontitis,28,106,28,True
+71682.0,1.0,2.0,,0,0,0,False
+71686.0,1.0,2.0,No Periodontitis,26,98,26,True
+71688.0,1.0,2.0,Severe,21,61,16,True
+71691.0,1.0,2.0,,0,0,0,False
+71695.0,1.0,2.0,No Periodontitis,28,110,28,True
+71697.0,1.0,2.0,,0,0,0,False
+71698.0,1.0,2.0,No Periodontitis,28,84,28,True
+71702.0,3.0,2.0,,21,0,0,False
+71703.0,3.0,2.0,,0,0,0,False
+71704.0,1.0,2.0,,0,0,0,False
+71705.0,3.0,2.0,,0,0,0,False
+71706.0,1.0,2.0,No Periodontitis,23,90,23,True
+71708.0,3.0,1.0,,19,0,0,False
+71709.0,1.0,2.0,No Periodontitis,24,50,23,True
+71710.0,1.0,2.0,Moderate,23,90,23,True
+71712.0,1.0,2.0,Moderate,25,99,25,True
+71714.0,1.0,2.0,No Periodontitis,22,75,21,True
+71715.0,1.0,2.0,No Periodontitis,26,104,26,True
+71718.0,1.0,2.0,Moderate,27,92,27,True
+71719.0,1.0,2.0,Severe,24,92,24,True
+71722.0,1.0,2.0,No Periodontitis,24,85,24,True
+71724.0,3.0,1.0,,17,0,0,False
+71728.0,1.0,2.0,No Periodontitis,22,88,22,True
+71729.0,1.0,2.0,Moderate,20,59,19,True
+71730.0,3.0,2.0,,28,0,0,False
+71732.0,1.0,2.0,Severe,23,90,23,True
+71733.0,1.0,2.0,,0,0,0,False
+71735.0,1.0,2.0,No Periodontitis,8,32,8,True
+71736.0,1.0,2.0,Moderate,26,102,26,True
+71737.0,1.0,2.0,No Periodontitis,27,81,28,True
+71739.0,1.0,2.0,,0,0,0,False
+71741.0,1.0,2.0,Severe,21,76,21,True
+71744.0,1.0,2.0,No Periodontitis,24,79,24,True
+71748.0,1.0,2.0,Moderate,26,103,26,True
+71750.0,3.0,2.0,,23,0,0,False
+71751.0,1.0,2.0,No Periodontitis,28,102,28,True
+71752.0,1.0,2.0,No Periodontitis,14,48,14,True
+71753.0,1.0,2.0,,0,0,0,False
+71756.0,1.0,2.0,No Periodontitis,28,97,27,True
+71760.0,1.0,2.0,Moderate,4,16,4,True
+71761.0,1.0,2.0,No Periodontitis,28,111,28,True
+71763.0,1.0,2.0,No Periodontitis,24,85,24,True
+71764.0,1.0,2.0,No Periodontitis,28,96,28,True
+71765.0,1.0,2.0,Moderate,26,92,26,True
+71766.0,1.0,2.0,Moderate,28,109,28,True
+71767.0,1.0,2.0,Mild,28,89,27,True
+71770.0,1.0,2.0,Severe,21,81,21,True
+71772.0,3.0,2.0,,0,0,0,False
+71773.0,1.0,2.0,Severe,10,37,10,True
+71775.0,1.0,2.0,,0,0,0,False
+71777.0,1.0,2.0,,0,0,0,False
+71781.0,1.0,2.0,Moderate,21,74,21,True
+71785.0,1.0,2.0,,0,0,0,False
+71786.0,1.0,2.0,No Periodontitis,28,112,28,True
+71787.0,1.0,2.0,Moderate,27,67,21,True
+71789.0,1.0,2.0,No Periodontitis,28,109,28,True
+71792.0,1.0,2.0,Mild,28,106,28,True
+71793.0,1.0,2.0,Moderate,28,94,28,True
+71796.0,1.0,2.0,No Periodontitis,23,92,23,True
+71797.0,1.0,2.0,,26,0,0,False
+71798.0,1.0,2.0,,0,0,0,False
+71799.0,1.0,2.0,Moderate,24,82,24,True
+71800.0,1.0,2.0,No Periodontitis,24,81,24,True
+71802.0,1.0,2.0,No Periodontitis,23,82,23,True
+71803.0,1.0,2.0,No Periodontitis,9,36,9,True
+71810.0,1.0,2.0,Moderate,27,90,27,True
+71811.0,1.0,2.0,Severe,27,96,27,True
+71813.0,1.0,2.0,Moderate,27,108,27,True
+71820.0,1.0,2.0,No Periodontitis,28,106,28,True
+71821.0,3.0,2.0,,0,0,0,False
+71824.0,1.0,2.0,Severe,28,111,28,True
+71825.0,3.0,2.0,,0,0,0,False
+71826.0,1.0,2.0,,0,0,0,False
+71828.0,1.0,2.0,No Periodontitis,25,100,25,True
+71829.0,1.0,2.0,Moderate,23,84,23,True
+71830.0,1.0,2.0,No Periodontitis,28,96,28,True
+71831.0,1.0,2.0,Moderate,14,54,14,True
+71832.0,1.0,2.0,No Periodontitis,26,99,26,True
+71833.0,1.0,2.0,No Periodontitis,28,101,27,True
+71836.0,3.0,2.0,,0,0,0,False
+71839.0,1.0,2.0,No Periodontitis,22,82,22,True
+71841.0,1.0,2.0,Moderate,28,107,28,True
+71844.0,1.0,2.0,Moderate,22,84,23,True
+71846.0,1.0,2.0,No Periodontitis,28,96,28,True
+71847.0,1.0,2.0,No Periodontitis,28,103,28,True
+71849.0,1.0,2.0,Moderate,28,110,28,True
+71855.0,3.0,2.0,,0,0,0,False
+71856.0,1.0,2.0,Moderate,25,87,25,True
+71857.0,1.0,2.0,No Periodontitis,28,112,28,True
+71861.0,1.0,2.0,Moderate,28,109,28,True
+71862.0,1.0,2.0,,0,0,0,False
+71863.0,1.0,2.0,No Periodontitis,27,97,26,True
+71866.0,1.0,2.0,Moderate,28,99,28,True
+71868.0,1.0,2.0,Severe,25,100,25,True
+71869.0,1.0,2.0,Moderate,13,49,13,True
+71870.0,1.0,2.0,,0,0,0,False
+71871.0,1.0,2.0,Moderate,28,98,28,True
+71872.0,1.0,2.0,Severe,15,60,15,True
+71875.0,1.0,2.0,Mild,27,84,27,True
+71877.0,1.0,2.0,,0,0,0,False
+71878.0,1.0,2.0,No Periodontitis,23,85,23,True
+71880.0,1.0,2.0,Mild,28,69,26,True
+71882.0,1.0,2.0,,0,0,0,False
+71883.0,1.0,2.0,Moderate,28,93,27,True
+71884.0,1.0,2.0,Moderate,5,10,5,True
+71885.0,1.0,2.0,No Periodontitis,27,102,27,True
+71886.0,1.0,2.0,No Periodontitis,26,94,26,True
+71887.0,1.0,2.0,Moderate,24,84,24,True
+71888.0,3.0,2.0,,0,0,0,False
+71891.0,1.0,2.0,No Periodontitis,28,112,28,True
+71895.0,1.0,2.0,Moderate,27,103,27,True
+71897.0,1.0,2.0,No Periodontitis,17,64,17,True
+71898.0,1.0,2.0,No Periodontitis,26,98,26,True
+71901.0,2.0,2.0,,24,0,0,False
+71902.0,1.0,2.0,Moderate,22,76,22,True
+71904.0,1.0,2.0,No Periodontitis,26,100,26,True
+71907.0,1.0,2.0,Moderate,11,44,11,True
+71908.0,1.0,2.0,No Periodontitis,27,108,27,True
+71912.0,1.0,2.0,Severe,26,86,24,True
+71915.0,1.0,2.0,Moderate,28,101,28,True

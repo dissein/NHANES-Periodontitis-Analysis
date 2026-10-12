@@ -1,0 +1,31 @@
+{
+  "key": "NonLab_XGBoost",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus",
+    "BMXBMI",
+    "BMXWAIST"
+  ],
+  "n_features": 9,
+  "final_parameters": {
+    "max_depth": 2,
+    "min_child_weight": 10
+  },
+  "thresholds": {
+    "cut80": 0.27484312653541565,
+    "cut90": 0.20429827272891998,
+    "cut_youden": 0.3724367618560791
+  },
+  "final_inner_auc": 0.779121459869625,
+  "calibration_coefficients": [
+    0.05387057643716103,
+    1.0398857096400829
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}

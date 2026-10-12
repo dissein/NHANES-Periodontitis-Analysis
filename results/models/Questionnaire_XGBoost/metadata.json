@@ -1,0 +1,29 @@
+{
+  "key": "Questionnaire_XGBoost",
+  "features": [
+    "RIDAGEYR",
+    "RIAGENDR",
+    "RIDRETH3",
+    "DMDEDUC2",
+    "INDFMPIR",
+    "OHQ030",
+    "SmokingStatus"
+  ],
+  "n_features": 7,
+  "final_parameters": {
+    "max_depth": 3,
+    "min_child_weight": 15
+  },
+  "thresholds": {
+    "cut80": 0.2771095633506775,
+    "cut90": 0.19616441428661346,
+    "cut_youden": 0.33302637934684753
+  },
+  "final_inner_auc": 0.7789414641637445,
+  "calibration_coefficients": [
+    -0.011288152055924556,
+    0.9365928994793231
+  ],
+  "external_cycle": "G",
+  "external_no_refit": true
+}
