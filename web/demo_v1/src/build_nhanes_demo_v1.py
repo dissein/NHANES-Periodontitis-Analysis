@@ -82,4 +82,3 @@ for name in ['build_nhanes_demo_v1.py','nhanes_demo_v1.html']:
     if (HERE/name).resolve()!=dest.resolve():shutil.copy2(HERE/name,dest)
 print(OUT/'index.html')
 print('Bytes:',len(html.encode('utf-8')),'native charts:',len(shapes),'result rows:',len(perf))
-

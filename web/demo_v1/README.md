@@ -5,4 +5,3 @@
 [项目仓库](https://github.com/dissein/NHANES-Periodontitis-Analysis)
 
 重新生成：在仓库根目录运行 `python web/demo_v1/src/build_nhanes_demo_v1.py`。
-
