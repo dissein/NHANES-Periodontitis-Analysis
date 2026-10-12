@@ -1,6 +1,6 @@
 # NHANES 牙周炎分析
 
-[English](README.md) · [交互 demo](web/demo_v1/index.html)
+[English](README.md) · [交互 demo](https://dissein.github.io/NHANES-Periodontitis-Analysis/)
 
 研究化验信息和算法复杂度对中重度牙周炎识别的增量价值。使用 NHANES 2013–2014 开发模型、2011–2012 跨周期验证，共纳入 6,940 名成人。
 

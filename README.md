@@ -1,6 +1,6 @@
 # NHANES Periodontitis Analysis
 
-[中文](README_CN.md) · [Interactive demo](web/demo_v1/index.html)
+[中文](README_CN.md) · [Interactive demo](https://dissein.github.io/NHANES-Periodontitis-Analysis/)
 
 This study compares the value of additional laboratory measurements and model complexity for identifying current moderate-to-severe periodontitis. NHANES 2013–2014 is used for development and 2011–2012 for validation, with 6,940 adults in total.
 
