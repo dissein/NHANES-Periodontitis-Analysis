@@ -75,10 +75,11 @@ html=html.replace('__FONT__','')
 assert '<img' not in html.lower() and 'data:image/png' not in html and '<table>' in html
 (OUT/'index.html').write_text(html,encoding='utf-8')
 (OUT/'data_sources.json').write_text(json.dumps({str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in sources},ensure_ascii=False,indent=2),encoding='utf-8')
-(OUT/'README.md').write_text('# NHANES demo\n\n双击 index.html 即可离线打开。可切换模型、信息面板和评估周期，查看模型表现、SHAP、EBM 曲线及年龄分组结果。\n\n[项目仓库](https://github.com/dissein/XGBoost-Periodontitis-Analysis)\n\n重新生成：在仓库根目录运行 `python web/demo_v1/src/build_nhanes_demo_v1.py`。\n',encoding='utf-8')
+(OUT/'README.md').write_text('# NHANES demo\n\n双击 index.html 即可离线打开。可切换模型、信息面板和评估周期，查看模型表现、SHAP、EBM 曲线及年龄分组结果。\n\n[项目仓库](https://github.com/dissein/NHANES-Periodontitis-Analysis)\n\n重新生成：在仓库根目录运行 `python web/demo_v1/src/build_nhanes_demo_v1.py`。\n',encoding='utf-8')
 (OUT/'src').mkdir(exist_ok=True)
 for name in ['build_nhanes_demo_v1.py','nhanes_demo_v1.html']:
     dest=OUT/'src'/name
     if (HERE/name).resolve()!=dest.resolve():shutil.copy2(HERE/name,dest)
 print(OUT/'index.html')
 print('Bytes:',len(html.encode('utf-8')),'native charts:',len(shapes),'result rows:',len(perf))
+
