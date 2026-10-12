@@ -40,6 +40,8 @@ def smoking(a,b):
     return pd.Series(np.select([a.eq(2),a.eq(1)&b.eq(3),a.eq(1)&b.isin([1,2])],[0.,1.,2.],default=np.nan),index=a.index)
 
 def main():
+    (OUT/'data/raw').mkdir(parents=True,exist_ok=True)
+    (OUT/'results').mkdir(parents=True,exist_ok=True)
     with ThreadPoolExecutor(max_workers=4) as ex: sources=list(ex.map(acquire,[(c,m) for c in 'HG' for m in MODULES]))
     (OUT/'results/raw_sources.json').write_text(json.dumps(sources,ensure_ascii=False,indent=2),encoding='utf-8')
     dictionary_path=ARCHIVE/'05_全面复核与修订_20261010/data/data_dictionary.csv'
